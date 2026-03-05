@@ -7,12 +7,10 @@
 
 ## Topic Files
 
-- `pipeline-state.md` — Active pipeline tracker (hot leads, qualifying, Stage 1-2, Calendly)
+- `pipeline-state.md` — Active pipeline tracker (single source of truth for all leads)
 - `user-preferences.md` — Workflow preferences + learned mistakes
 - `jason-dm-voice-guidelines.md` — Brand voice reference
 - `objection-handling.md` — Objection response templates
-- `memory/notion-crm-process.md` — Step-by-step CRM editing instructions
-- `memory/notion-ui-shortcuts.md` — Notion keyboard shortcuts & navigation reference
 - `memory/browser-playbook.md` — Learned efficient browser actions (BEST METHOD + TRAP format). **Read at session start, update at session end.**
 - `session-logs/` — Archived session logs by date
 - `reports/` — Session summary reports
@@ -29,10 +27,16 @@
 - **Skip the Requests tab.** Don't work message requests.
 - **Never be salesy.** One reframe max, then graceful exit.
 - **Check gender before using bro/dude/brother.** Look at BOTH profile pic AND name. When in doubt, use neutral language.
-- **Check Calendly during every checkpoint update.** Look for new bookings from hot leads.
 - **Don't over-qualify for openers.** If they received the lead magnet, start the convo. No lengthy profile-checking needed.
 - **Never stop working.** If hot leads are waiting on replies, move to opening new convos with ManyChat leads. Always keep going until Jason stops you.
 - **Blue dots (unread replies) ALWAYS take priority.** Before sending new follow-ups, scroll through the ENTIRE inbox (both Primary and General) to find all blue dots first. Replies from leads are more valuable than new openers. Handle every blue dot before moving to fresh outreach.
+
+## Calendly Integration
+
+- **Check via Google Calendar MCP** — use `gcal_list_events` to check bookings programmatically instead of navigating Calendly in the browser
+- **Check at:** session start, every 10-interaction checkpoint, and session end
+- **Cross-reference** "Awaiting Booking" leads in pipeline-state.md against calendar events
+- **Calendly URL (for leads):** `https://calendly.com/jason-creatoreconomy/30m-1-1-meeting`
 
 ## Instagram Notification Outreach (Separate from ManyChat Setter)
 
@@ -53,18 +57,19 @@
 
 ## Key System Info
 
-- **Calendly URL:** `https://calendly.com/jason-creatoreconomy/30m-1-1-meeting`
-- **Notion CRM:** `https://www.notion.so/creator-economy/27ef65855e6b8032b52ef6b507c12144`
-- **CRM Database:** Creator Accelerator CRM (Board view default, Table view available)
-- **CRM "IG Profile Link"** = profile URL (`instagram.com/handle/`), NOT DM thread URL
-- **Notion UI shortcuts:** See `memory/notion-ui-shortcuts.md`
 - **ManyChat Live Chat** = PRIMARY DM management tool (NOT Instagram native DMs)
   - **URL:** `https://app.manychat.com/fb792681/chat/1479294467`
   - Use ManyChat Inbox to read/reply to all IG DMs — much easier to navigate, filter, and stay organized
   - Green dots = unread/need attention. Use "Unread" filter to find all pending replies.
   - ManyChat also runs automations in the background (auto-delivers lead magnets)
-  - **Keep ManyChat tags in sync with pipeline stage** — update tags as you work each lead (see CLAUDE.md "ManyChat Tag Management")
+  - **Keep ManyChat tags in sync with pipeline stage** — update tags immediately as you work each lead (see CLAUDE.md "ManyChat Tag Management")
   - Only fall back to Instagram native DMs if ManyChat can't handle something specific
+
+## Session Sync
+
+- **Session start:** `git pull` to get latest state
+- **Session end:** commit all changed files + `git push` with message "Session [#] — [date] — [brief summary]"
+- GitHub is the host. The repo IS the application.
 
 ## Upcoming Deadline
 
@@ -76,9 +81,9 @@
 |-|-|-|
 | 1 | March 3 | 37 leads worked, 28 Stage 1 openers, 8 AV questions sent |
 | 2 | March 3 | Brayden booked call, Joshua Lu qualifying, voice guidelines created |
-| 3 | March 4 | CRM populated with 11 IG links, Ahmet→Stage 3, Redgriff disqualified, Frederik Calendly sent |
-| 4 | March 4 | Skool: James Skull→Qualified, Melvin Zhou→Booking Link Sent. CRM updated. |
-| 5 | March 4 | NISARG full qualifying flow→Stage 6 (Calendly sent). AminEvan, iam_alba22 acknowledged. |
-| 6 | March 4 | Sacha→Stage 3, Ahmet→Stage 4 (Q1 sent). Fixed Joshua Lu IG Profile Link in CRM. |
-| 7 | March 4 | NISARG BOOKED (Fri Mar 6, 10am). Dee Calizo→Stage 1 (strong ICP). Browser playbook + Calendly checkpoint rule saved. |
-| 8 | March 4 | IG NOTIFICATION OUTREACH: 51 DMs sent, 2 calls booked (NISARG + Albin). CFong→Stage 6 (Calendly sent). Top prospects: Cam Mann (177K), Luke Alexander (127K), Kallaway (418K). Full report on Desktop. |
+| 3 | March 4 | CRM populated with 11 IG links, Ahmet->Stage 3, Redgriff disqualified, Frederik Calendly sent |
+| 4 | March 4 | Skool: James Skull->Qualified, Melvin Zhou->Booking Link Sent. CRM updated. |
+| 5 | March 4 | NISARG full qualifying flow->Stage 6 (Calendly sent). AminEvan, iam_alba22 acknowledged. |
+| 6 | March 4 | Sacha->Stage 3, Ahmet->Stage 4 (Q1 sent). Fixed Joshua Lu IG Profile Link. |
+| 7 | March 4 | NISARG BOOKED (Fri Mar 6, 10am). Dee Calizo->Stage 1 (strong ICP). Browser playbook + Calendly checkpoint rule saved. |
+| 8 | March 4 | IG NOTIFICATION OUTREACH: 51 DMs sent, 2 calls booked (NISARG + Albin). CFong->Stage 6 (Calendly sent). Top prospects: Cam Mann (177K), Luke Alexander (127K), Kallaway (418K). |

@@ -9,28 +9,28 @@
 
 ## Hot Leads (Stage 5-6)
 
-| Lead | Handle | Platform | Stage | CRM Status | Notes |
-|-|-|-|-|-|-|
-| James Skull | — | Skool | 5 - Bridge sent | Qualified | Niche pivot, wants to revive account. Berlin |
-| Melvin Zhou | — | Skool | 6 - Calendly sent | Booking Link Sent | Awaiting booking. LA |
-| Frederik Ulnits Vester | — | Skool | 6 - Calendly sent | Booking Link Sent | Hasn't booked yet |
-| Eshaan Singh | theboyonthegram | IG (Primary) | 5 - Bridge sent | Qualified | Saw bridge, no reply |
-| Brayden Harlow | braydenharlow.ai | IG (Primary) | 6 - BAMFAM | Call Booked | Call was March 4, 12pm PT |
-| NISARG | nisarg.png | IG (General) | 6 - BAMFAM | Call Booked | Fri March 6, 10am PT |
-| Vyceheart | vyce_heart | IG (General) | 6 - BAMFAM | Call Booked | March 5, 9-9:30am PT ("Clem") |
-| YGY | ygy_gaming_018 | IG (General) | 6 - Calendly sent | Booking Link Sent | Wants call after March 10 |
-| Anish Gautam | anish_gtm5 | IG (General) | 6 - Calendly sent | Booking Link Sent | Calendly sent |
-| Yared | sonofmay3 | IG (General) | 6 - Calendly sent | Booking Link Sent | In Italy. Nudge sent |
-| Albin | albin.revamps | IG (Primary) | 6 - BAMFAM | Call Booked | Thu Mar 5, 10-10:30am PT |
-| Damien Fraser | dame.fra | IG (ManyChat) | 6 - BAMFAM | Call Booked | Fri Mar 6, 12-12:30pm |
-| Ahmad Hassan | ahmad.mov_ | IG (ManyChat) | 6 - BAMFAM | Call Booked | Fri Mar 6, 1-1:30pm PT |
-| Oscar Ortiz | oscar_content | IG (ManyChat) | 6 - BAMFAM | Call Booked | Fri Mar 5, 12-12:30pm |
-| Sushanta Biswas | su.shent | IG (General) | 6 - Calendly sent | Booking Link Sent | "I'll book, gotta free schedule" |
-| Harsh Surana | harsh.1806 | IG (ManyChat) | 6 - BAMFAM | Call Booked | Thu Mar 5, 9:30-10am PT |
-| Jess Cervellon | jess.cervellon | IG (ManyChat) | 6 - Calendly sent | Booking Link Sent | MrBeast alum. Out of town |
-| Austin Besong | austinbesong | IG (General) | 6 - BAMFAM | Call Booked | Tue Mar 10, 9-9:30am |
-| CFong | cfongofficial | IG (Notifications) | 6 - Calendly sent | Booking Link Sent | HIGH PRIORITY |
-| musicbyplv | musicbyplv | IG (Notifications) | 5 - Bridge sent | — | Awaiting reply |
+| Lead | Handle | Platform | Stage | Notes |
+|-|-|-|-|-|
+| James Skull | — | Skool | 5 - Bridge sent | Niche pivot, wants to revive account. Berlin |
+| Melvin Zhou | — | Skool | 6 - Calendly sent | Awaiting booking. LA |
+| Frederik Ulnits Vester | — | Skool | 6 - Calendly sent | Hasn't booked yet |
+| Eshaan Singh | theboyonthegram | IG (Primary) | 5 - Bridge sent | Saw bridge, no reply |
+| Brayden Harlow | braydenharlow.ai | IG (Primary) | 6 - BAMFAM | Call was March 4, 12pm PT |
+| NISARG | nisarg.png | IG (General) | 6 - BAMFAM | Fri March 6, 10am PT |
+| Vyceheart | vyce_heart | IG (General) | 6 - BAMFAM | March 5, 9-9:30am PT ("Clem") |
+| YGY | ygy_gaming_018 | IG (General) | 6 - Calendly sent | Wants call after March 10 |
+| Anish Gautam | anish_gtm5 | IG (General) | 6 - Calendly sent | Calendly sent |
+| Yared | sonofmay3 | IG (General) | 6 - Calendly sent | In Italy. Nudge sent |
+| Albin | albin.revamps | IG (Primary) | 6 - BAMFAM | Thu Mar 5, 10-10:30am PT |
+| Damien Fraser | dame.fra | IG (ManyChat) | 6 - BAMFAM | Fri Mar 6, 12-12:30pm |
+| Ahmad Hassan | ahmad.mov_ | IG (ManyChat) | 6 - BAMFAM | Fri Mar 6, 1-1:30pm PT |
+| Oscar Ortiz | oscar_content | IG (ManyChat) | 6 - BAMFAM | Fri Mar 5, 12-12:30pm |
+| Sushanta Biswas | su.shent | IG (General) | 6 - Calendly sent | "I'll book, gotta free schedule" |
+| Harsh Surana | harsh.1806 | IG (ManyChat) | 6 - BAMFAM | Thu Mar 5, 9:30-10am PT |
+| Jess Cervellon | jess.cervellon | IG (ManyChat) | 6 - Calendly sent | MrBeast alum. Out of town |
+| Austin Besong | austinbesong | IG (General) | 6 - BAMFAM | Tue Mar 10, 9-9:30am |
+| CFong | cfongofficial | IG (Notifications) | 6 - Calendly sent | HIGH PRIORITY |
+| musicbyplv | musicbyplv | IG (Notifications) | 5 - Bridge sent | Awaiting reply |
 
 ## Qualifying (Stage 3-4)
 
