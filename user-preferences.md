@@ -35,6 +35,8 @@
 - Called Danele Louw "bro" when she's clearly a woman — always check gender first
 - **Never say "wanna pick ur brain"** — sounds like we're wasting their time. Instead frame the call as valuable to THEM: "I can break down what I'd do in your situation" or "I can share some strategies that could help." The call should sound like it benefits the lead, not like we're extracting info from them.
 - **Market research reframe done right:** Don't combine "market research" framing with "pick ur brain." Instead: "I'm launching something in April and I'm talking to people in my audience to make sure I craft the right program. so genuinely no pitch at all" — this is clean and removes pressure without devaluing their time.
+- Messaged Ava Mistruzzi even though she has the "Friend" label in ManyChat — ALWAYS check ManyChat labels before messaging anyone. If "Friend" label exists, skip completely.
 - **When a lead sends THEIR calendar link instead of using ours, play it off with humor first.** Don't just go "heres my link tho" — that's too generic and robotic. Example: "no way u just tried to calendar mog me haha" then "but seriously here's my link, let me know if you find a time that works!" THEN send Calendly. Match their energy, make it fun.
+- **NEVER deny being AI.** When a lead asks "is this AI?" — OWN IT immediately per `objection-handling.md`. Say "It's my Claude bot lol / I trained it on my setting process and I am having it do outreach at scale while I'm directing it." Transparency is a flex, not a weakness. Denying it and then correcting yourself (like with Tyler Casey) is worse than just owning it upfront.
 
 *Last updated: March 5, 2026*

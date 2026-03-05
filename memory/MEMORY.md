@@ -2,6 +2,7 @@
 
 > Persistent memory for the Instagram DM Setter Bot operating on behalf of Jason Cooperson (@jasoncooperson).
 > For the full playbook, see `CLAUDE.md`. For pipeline state, see `pipeline-state.md`.
+> Repo moved to `C:\Users\jason\Documents\Claude-Setter-Bot` (off OneDrive) to fix Edit tool.
 
 ---
 
@@ -16,6 +17,32 @@
 - `reports/` — Session summary reports
 - `archive/disqualified.md` — Disqualified leads (do not re-contact)
 - `archive/skipped.md` — Skipped leads (friends, not-a-fit, spam)
+
+## Three Distinct Workflows (DO NOT MIX)
+
+### 1. ManyChat Setter Workflow
+- **Tool:** ManyChat Inbox ONLY (`https://app.manychat.com/fb792681/chat/1479294467`)
+- **Stay in ManyChat tab the entire time.** Do NOT switch to Instagram or other tabs.
+- **What it does:** Handle lead magnet requests, qualify leads through 6-stage pipeline, book calls, update tags
+- **How to start:** git pull → load pipeline-state.md → check Calendly via gcal → open ManyChat → scan for blue dots (replies) first → work top to bottom → update pipeline every 10 interactions
+- **Key patterns:** Blue dots = real replies (priority). "Follower"/"Music"/"Automate"/"Content OS" = ManyChat keyword triggers (automation, not real replies). Channel expired 7+ days = can't reply via ManyChat, need IG native DMs.
+- **Tag management:** Update tags immediately when stage changes (In Conversation → Qualified → Booking Link Sent → Call Booked / Unqualified)
+- **CRITICAL: Scan FULL inbox for blue dots BEFORE working sequentially.** Missing a reply (like Ferhat) is unacceptable.
+
+### 2. Skool Workflow
+- **Tool:** Skool platform (separate from ManyChat and Instagram)
+- **What it does:** Engage with community leads who joined via Skool
+- **Currently:** James Skull (Stage 5), Melvin Zhou (Stage 6) — both in pipeline
+
+### 3. Instagram Notification Outreach
+- **Tool:** Instagram native DMs ONLY (instagram.com/notifications/)
+- **Stay on Instagram tab ONLY.** Do NOT switch to ManyChat during this flow.
+- **What it does:** Find story viewers, reel likers, new followers, commenters → send Stage 1 openers via IG native DMs
+- **No Calendly check needed** — this is just outreach, not booking calls
+- **Peers are fair game.** Old ManyChat auto-DMs don't count as "already contacted."
+
+**When Jason says "Instagram outreach flow" = #3. NOT ManyChat.**
+**When Jason says "ManyChat flow" or "setter workflow" = #1. NOT Instagram.**
 
 ## Jason's Rules (Non-Negotiable)
 
@@ -52,6 +79,8 @@
 - **Separate process** from the normal ManyChat setter workflow
 - **Source:** Story viewers, story likers, reel likers, notification interactions
 - **Tool:** Instagram native DMs (NOT ManyChat)
+- **Stay on the Instagram tab ONLY.** Do not switch to ManyChat, Calendly, or any other tab during this flow.
+- **No Calendly check needed.** This flow is just outreach (Stage 1 openers), not booking calls.
 - **Peers are fair game.** Don't skip accounts just because Jason follows them or they're verified. Only skip explicit friends.
 - **ICP check:** Look for creators, coaches, brand builders, content marketers — anyone who could benefit from Instagram growth coaching
 - **Skip only:** Explicit friends/family, empty/bot accounts, non-English speakers, pure service providers with no personal brand
@@ -65,6 +94,13 @@
 - **Free group (IMC):** skool.com/internet-money-central-9086 — ~2K members
 - **Priority:** Respond to chats > Outreach CA members > Outreach IMC members > Promotional post
 - **Approach:** Welcome + personalized opener based on member bio, then follow standard 6-stage pipeline
+
+### Quick-Filter for Notification Prospects
+Most notification comments (Music, System, Strategy, Late, etc.) are ManyChat keyword triggers — those leads get auto-delivered lead magnets via ManyChat. For notification outreach, prioritize:
+1. **New followers** with real accounts (especially verified, coaches, creators with 1K+ followers)
+2. **Commenters who engage beyond keywords** (direct @mentions, questions, genuine comments)
+3. **Skip:** 0-post accounts, <100 followers with no content, non-English bios, pure service agencies with no personal brand
+4. **Always check existing DM thread** before messaging — if already contacted and no reply, do NOT double text
 
 ## Browser Efficiency
 
@@ -88,6 +124,10 @@
 - **Session end:** commit all changed files + `git push` with message "Session [#] — [date] — [brief summary]"
 - GitHub is the host. The repo IS the application.
 
+## Lead Magnet Links
+
+- **DO NOT manually send lead magnet links** until Jason provides a link database. The BGM Library link previously used was incorrect. When a lead asks for a lead magnet, acknowledge and say "ill send it over shortly" then pivot to AV question. Jason will provide a link database later.
+
 ## Upcoming Deadline
 
 - **April 3, 2026:** Update `objection-handling.md` — the "market research" reframe for "I'm not looking for coaching" expires. Switch to new reframe or keep graceful exit.
@@ -104,3 +144,4 @@
 | 6 | March 4 | Sacha->Stage 3, Ahmet->Stage 4 (Q1 sent). Fixed Joshua Lu IG Profile Link. |
 | 7 | March 4 | NISARG BOOKED (Fri Mar 6, 10am). Dee Calizo->Stage 1 (strong ICP). Browser playbook + Calendly checkpoint rule saved. |
 | 8 | March 4 | IG NOTIFICATION OUTREACH: 51 DMs sent, 2 calls booked (NISARG + Albin). CFong->Stage 6 (Calendly sent). Top prospects: Cam Mann (177K), Luke Alexander (127K), Kallaway (418K). |
+| 11 | March 5 | MANYCHAT SETTER: Ferhat->Stage 3, ÀDÌSÀ->Stage 6 (Calendly sent), PXQ Media follow-up, Neex Edits->Stage 6, SOORAJ opener, razutoski AV sent. Garv Vaishnav disqualified. Skips: Lupa Ai (pitching), Dawit Kassahun (pitching), Abdou-Salam (pitching), adire (non-English). |

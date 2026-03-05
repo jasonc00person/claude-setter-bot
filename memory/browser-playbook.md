@@ -204,6 +204,38 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 
 ---
 
+## Instagram Notification Outreach — Efficient Patterns
+
+### Refresh loop for monitoring new notifications
+- **BEST:** Wait 30s → navigate to instagram.com → wait 3s → use `find` tool for "Notifications link sidebar" → click ref → wait 2s → screenshot → scan for new names
+- **TRAP:** Don't press F5 on a profile page — it refreshes the profile, not notifications. Always navigate to instagram.com first.
+- **TRAP:** Don't guess coordinates for the Notifications icon. Use `find` tool every time — the heart icon and DMs icon are close together and easy to misclick.
+
+### Identifying ManyChat keyword triggers vs real engagement
+- **Keywords to skip:** Music, System, Strategy, Late, Automate, Hook, Skill, Follower, YT, Gpt, Machine, Content OS — these are ALL ManyChat automation triggers, not real comments
+- **Real engagement signals:** Story reactions, comment likes on non-keyword comments, genuine questions, "Follow Back" button (new follower)
+- **TRAP:** Don't check profiles of keyword commenters — 99% are <500 follower accounts. Only check names from reel like aggregates, new follower aggregates, or genuine comment likes.
+
+### Quick-filtering from notification aggregates
+- **Priority 1:** New followers with "Follow Back" button — check their profile for ICP fit
+- **Priority 2:** Genuine comment likers (liked a real comment, not a keyword response)
+- **Priority 3:** Reel like aggregates — only check the FIRST named account if the name sounds like a creator/business
+- **SKIP immediately:** <100 followers, 0 posts, private + empty, non-English bio, pure personal accounts
+
+### Story viewers from the stories bar
+- These are mostly Jason's friends/peers who he already follows ("Following" button)
+- Check DM thread before messaging — if there's casual banter/story reactions, this is a FRIEND, skip
+- Only message story viewers who have NO existing DM thread or only have ManyChat auto-DMs
+- "Followed by cooperson.json" = likely a personal friend of Jason, skip
+
+### Viral reel notification flooding
+- When Jason's reels go viral, notifications become 90%+ keyword triggers from tiny accounts
+- ICP hit rate drops to ~5% of profiles checked
+- Best strategy: scan quickly, skip all keywords, focus on Follow Back buttons and genuine engagement
+- Don't waste time checking every name in reel like aggregates — most are <500 followers
+
+---
+
 ## Session 17 Self-Audit (March 5)
 
 ### New patterns learned:
@@ -219,3 +251,22 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 - Used Contacts tab to find Fortune when inbox search failed — saved several retry attempts
 - Used `find` tool + ref for ManyChat tag buttons — consistent and reliable vs coordinate guessing
 - Used Unread filter to quickly audit the entire inbox for missed blue dots
+
+---
+
+## Session 11 Self-Audit (March 5)
+
+### New patterns learned:
+- **MUST scan full sidebar for blue dots BEFORE working sequentially.** Missed Ferhat's reply because I was working top-to-bottom and didn't notice his blue dot appearing mid-session. Jason called this out.
+- **Contacts tab search is essential** for finding leads by name — Inbox search for "Ferhat" returned "No results" because inbox search only matches message content, not contact names. Contacts tab found him immediately.
+- **ManyChat keyword triggers showing in recent conversations are NOT real replies.** "Follower", "Music", "Automate", "YT" etc. in the conversation preview = automation event, not actionable human message.
+- **Don't manually send lead magnet links.** Jason flagged the BGM Library link was wrong. Wait for link database.
+
+### Wasted clicks this session:
+- Clicked * (kyrie._.richh) twice by mistake — the conversation list position shifted between scrolls
+- Tried clicking x on "Qualified" tag for ÀDÌSÀ — first click didn't register, needed `find` tool to get the ref for the remove button
+
+### Efficiency wins:
+- Used Contacts tab immediately for Ferhat search when inbox search failed
+- Handled ÀDÌSÀ's Calendly flow cleanly: reply → send link → remove Qualified tag → add Booking Link Sent tag
+- Quickly identified pitchers (Lupa Ai, Dawit Kassahun, Abdou-Salam) and non-English (adire) without wasting time
