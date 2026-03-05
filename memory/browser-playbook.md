@@ -142,6 +142,11 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 - **BEST:** Reference their bio/description from the member card. "yooo welcome in [name]! saw u [reference their bio]. what's ur main goal rn?"
 - **TRAP:** Don't send generic "welcome in bro" without personalization. Don't use dashes. Check gender before using bro/dude.
 
+### Free group (CCU) ICP density is very low
+- **REALITY:** Pages 1-2 yielded only 4 viable leads out of ~60 members. Most have empty/generic bios, are non-English, inactive, or service providers.
+- **BEST:** Scan quickly. Read bio + activity date. Skip immediately if: no bio, non-English bio, inactive 10d+, service provider, generic self-improvement. Don't spend time checking profiles of marginal leads.
+- **TRAP:** Don't expect the same hit rate as the paid group (CA). CA had ~30% ICP, free group is closer to 5-10%.
+
 ### Handling incoming replies mid-outreach
 - **BEST:** When you notice an unread indicator, stop outreach immediately. Click the chat icon, handle the reply, advance the lead per the pipeline stages, then resume outreach where you left off.
 - **TRAP:** Don't finish a batch of outreach before checking replies. Replies always take priority.

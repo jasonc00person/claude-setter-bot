@@ -21,7 +21,7 @@
 | Vyceheart | vyce_heart | IG (General) | 6 - BAMFAM | March 5, 9-9:30am PT ("Clem") |
 | YGY | ygy_gaming_018 | IG (General) | 6 - Calendly sent | Wants call after March 10 |
 | Anish Gautam | anish_gtm5 | IG (General) | 6 - Calendly sent | Calendly sent |
-| Yared | sonofmay3 | IG (General) | 6 - Calendly sent | In Italy. Nudge sent |
+| Yared | sonofmay3 | IG (General) | 6 - BAMFAM | Fri Mar 6, 3pm PT |
 | Albin | albin.revamps | IG (Primary) | 6 - BAMFAM | Thu Mar 5, 10-10:30am PT |
 | Damien Fraser | dame.fra | IG (ManyChat) | 6 - BAMFAM | Fri Mar 6, 12-12:30pm |
 | Ahmad Hassan | ahmad.mov_ | IG (ManyChat) | 6 - BAMFAM | Fri Mar 6, 1-1:30pm PT |
@@ -32,14 +32,16 @@
 | Austin Besong | austinbesong | IG (General) | 6 - BAMFAM | Tue Mar 10, 9-9:30am |
 | CFong | cfongofficial | IG (Notifications) | 6 - Calendly sent | HIGH PRIORITY |
 | musicbyplv | musicbyplv | IG (Notifications) | 5 - Bridge sent | Awaiting reply |
-| Pablo Simancas | — | Skool (CA) | 6 - Calendly sent | Social Media Genius, NY. On tour filming. Calendly sent Mar 3 |
+| Pablo Simancas | — | Skool (CA) | 6 - BAMFAM | Fri Mar 6, 10am PT. Booked! |
+| Adam Ziak | — | Skool (CA) | 6 - BAMFAM | SM agency, pivoted from editing. 1 potential client. Needs client acquisition + delivery system. Reykjavik. BOOKED Mon Mar 9, 7am PT (15:00 GMT) |
+| Abdullahi Abdulkadir | @abdullahi | Skool (CA) | 6 - Calendly sent | Video editor, 1 client, Lagos. Goal: 5K/mo. Challenge: client acquisition, skillset, time management. Calendly sent Mar 5 |
+| Kunal Jiwani | — | Skool (CA) | 6 - Calendly sent | CoFounder ScaleUp Media, YT video funnels. Goal: both pipeline + YT inbound. Challenge: consistency. Accepted call, wanted details. Calendly sent Mar 5 |
 | Cristiano Capasso | — | Skool (CA) | 5 - Bridge sent | Digital marketing 5yr, personal brand + info-business. Rome. Bridge sent Mar 3 |
 
 ## Qualifying (Stage 3-4)
 
 | Lead | Handle | Platform | Stage | Notes |
 |-|-|-|-|-|
-| Abdullahi Abdulkadir | @abdullahi | Skool | 4 - Q1 sent | Video editor, 1 client, looking to expand. Lagos. "not sure I can commit but bring the questions on" |
 | Joshua Lu | joshua_dalu | IG (General) | 5 - Bridge sent | Web agency. Awaiting reply |
 | Sanif Kandel | sanif_kandel | IG (General) | 4 - Q3 sent | SMM, camera shy |
 | Mahin | mosharrofmahin | IG (General) | 4 - Q1 sent | Video editor |
@@ -49,13 +51,14 @@
 | Garv Vaishnav | garv.jpg | IG (General) | 4 - Q1 sent | Story reply |
 | Zayaan khan | zayaan.__khan | IG (ManyChat) | 4 - Q2 sent | Video editor, 4yr |
 | Rishal | rish4llll | IG (ManyChat) | 4 - Q2 sent | Content agency |
-| Zyed | zyedmulla_40 | IG (ManyChat) | 4 - Q2 sent | No public account yet |
+| Zyed | zyedmulla_40 | IG (ManyChat) | 6 - BAMFAM | Fri Mar 6, 11:30am PT |
 | Sophia Nguyen | sophia_nguyen21 | IG (ManyChat) | 4 - Q1 sent | Vlogs/lifestyle |
 | Ben Petersen | dr.benpetersen | IG (ManyChat) | 3 - Permission sent | 161K fitness. Strong ICP |
 | Ash | fitherover40 | IG (Notifications) | 3 - Permission sent | Fitness Coach Women 40+ |
 | Fortune | fortunedreyy_ | IG (Notifications) | 3 - Permission sent | Video Editor |
 | thrustonbenny | thrustonbenny | IG (Notifications) | 3 - Permission sent | DP & Creative Director |
 | Mikhail Nadeson | — | Skool (CA) | 3 - Permission sent | Mindset coach, IG + YT. Johannesburg. £20-40k/mo |
+| Kaden Green | — | Skool (CA) | 4 - Q3 sent | Section 8 real estate. 45K rev off launch, no closes since. Challenge: content strategy (TOF/MOF/BOF). LA. |
 | Pat Divilly | — | Skool (CA) | 6 - Calendly sent | Breathwork Teacher Trainer, Author, BJJ. Galway Ireland. 90K IG. Goal: scale breathwork teacher training. Challenge: visibility + offer clarity + conversions. Asked about offers, redirected to call. Calendly sent. |
 
 ## Stage 2 — AV Sent
@@ -111,10 +114,10 @@ AminEvan (aminevan66), iam_alba22, Leo (leocorex — VOICE MSGS NEED REVIEW), SH
 Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Antonio Guerrieri (19.5K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Dev (76K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Prince Zerihun (1.9K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), Roger Rodulfo (3.9K), Tyler Casey (23.6K), Pierre Khoury (38.8K), Sebastien Perreault (25.5K), Kallaway (418K)
 
 ### Skool — CA (Paid Group)
-Kier Porter (Video Content Coach for Founders, London), Cyrus Lancini (aus, Brisbane), Valentina Cardona (Media Buyer, Medellín), Marcos Rouby (Freelance Video Editor, Buenos Aires — cancelling), Param Jani (Calcutta), Amir Tai (Chicago — cancelled), Aaron Harun Guner (Men's coach, KL), Jaylen Rodriguez (NYC, Level 2), Lawrence Johnson (Track & Field / Motivation, Chicago — cancelling), Kaden Green (Section 8, LA), Dylan Vandamme (Website builder DYsign.be, Brussels), Gul Hidayat (inbound from AI Automation Society, Karachi), Pat Divilly (Breathwork Teacher Trainer/Author, Galway Ireland), Laraib Lodhi (Creatives and Growth, London), Jano S. (Student of life, Berlin — cancelling), Josh Hernandez (Im_joshuah, Denver), Leroy Moritz (wagmi, Dubai — declining), Simon Liu (RE Marketing Agency, SF Bay Area), Maciej Ca (SocialFlow Founder, Warsaw — declining), Ricky A (Aspiring Video Creator, Chicago), Niklas Falkenstein (Never stop learning, Berlin), Alexandre Buisson (Media Strategist/Director/Travel Filmmaker, Dubai), Armaan Sidhu (LA), Media Flooding (mediaflooding.com, NY), Steve Young (Entrepreneur, Denver), Spencer Simonson (Co-founder Nekter AI, Las Vegas), Azan Durman (NY)
+Kier Porter (Video Content Coach for Founders, London), Cyrus Lancini (aus, Brisbane), Valentina Cardona (Media Buyer, Medellín), Marcos Rouby (Freelance Video Editor, Buenos Aires — cancelling), Param Jani (Calcutta), Amir Tai (Chicago — cancelled), Aaron Harun Guner (Men's coach, KL), Jaylen Rodriguez (NYC, Level 2), Lawrence Johnson (Track & Field / Motivation, Chicago — cancelling), Dylan Vandamme (Website builder DYsign.be, Brussels), Gul Hidayat (inbound from AI Automation Society, Karachi), Pat Divilly (Breathwork Teacher Trainer/Author, Galway Ireland), Laraib Lodhi (Creatives and Growth, London), Jano S. (Student of life, Berlin — cancelling), Josh Hernandez (Im_joshuah, Denver), Leroy Moritz (wagmi, Dubai — declining), Simon Liu (RE Marketing Agency, SF Bay Area), Maciej Ca (SocialFlow Founder, Warsaw — declining), Ricky A (Aspiring Video Creator, Chicago), Niklas Falkenstein (Never stop learning, Berlin), Alexandre Buisson (Media Strategist/Director/Travel Filmmaker, Dubai), Armaan Sidhu (LA), Media Flooding (mediaflooding.com, NY), Steve Young (Entrepreneur, Denver), Spencer Simonson (Co-founder Nekter AI, Las Vegas), Azan Durman (NY), Tristan Martini (Founder The Unblocked CEO, Chicago), Emilio Antun (Chicago), Kacper Krasiński (swim joł, Warsaw), Jocelyn Sisko (NY), Yvonne Briones (Marketing Ecosystems, Barcelona), Mustafa Kurtuluş (Mixedaitape, Istanbul), Briar Cochran (Short form content for creators, Chicago), Rob Scan (Marketing agency turned coach, Edmonton), Richard Boateng (Looking to learn, London), Mateja Proučil (Content systems for experts, Osijek), Filip Simeunovic (infoscalers.net, Budapest), Pedro Valério (Allfluence founder, Sao Paulo), Ana Carolina Pereira (Excited to learn, NY — cancelling), Leonid Kim (LA), Pedro Branco (Creative Director, London), Kelvin Hsu (NY), Larry Fan (Surgeon, California), David W (New student, Sydney), Nick Stacy (Co-Founder Holland Creatives), Jazmina Lopez (Social media agency co-owner, Mexico City), Suresh Malani (Content creator, educational stories, Calcutta), Shlomo Einhorn (Founder Mallacore + Shpait.AI, LA), Edgar Pfohl (Paris), Chris Mouton (Online fitness coach, Johannesburg), Matt Pham (Building, Melbourne), Abdel Kader Jrab (Digital marketing 14yr, Dubai), Otavio Zerbini (Education companies, Miami), Justin Klein (Fitness coach for moms, NY), Brett Fullerton (Ready to learn, Phoenix), Gabe Saporta (brotege.com, LA), Marti Fox (Account Manager, Dubai), Vincent Huisman (Online Marketer, Amsterdam), John Ladd (Berlin), Kunal Jiwani (CoFounder ScaleUp Media, YouTube funnels, Calcutta)
 
 ### Skool — Free Group (Content Creator University)
-Dorray Evans (Men's coach, Chicago), Marcus Glaz (YouTuber, Stockholm), Impress Expert (Faceless YouTube, LA)
+Dorray Evans (Men's coach, Chicago), Marcus Glaz (YouTuber, Stockholm), Impress Expert (Faceless YouTube, LA), Michel Guntern (Travel Writer/Photographer, TravelNotes.org, Budapest), Cierre Jones (Helping creators monetize, Chicago), Clanel Smith (Content Creator, Nelly_Honcho, Brooklyn NY), Lia Tee (Writer/Photographer, Berlin)
 
 ### Old Openers (No Reply)
 Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, Netanel, Darius, Andy Lin, Satyam, Rishikesh, M Haris, Samuel Rud, Agus, Gagan Jain, Reece Spence, Robert Daoud, Hanif Adelphi, Dan Sanchez
@@ -134,22 +137,32 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 - 8:00am PT: Clem (Vyceheart)
 - 8:30am PT: Harsh Surana
 - 9:00am PT: Albin
-- 10:00am PT: Pablo (not pipeline)
 - 11:00am PT: Oscar Ortiz
+- 11:30am PT: Kharis Pasta (not pipeline)
 - 1:00pm PT: Ayden Lum (not pipeline)
 
 ### March 6
 - 8:00am PT: Pierre
 - 8:30am PT: Salim O
 - 9:00am PT: NISARG Gandhi
+- 9:30am PT: Abhiwak Tiwari (not pipeline)
+- 10:00am PT: Pablo (not pipeline)
 - 11:00am PT: Damien Fraser
+- 11:30am PT: Zyed
 - 12:00pm PT: Ahmad Hassan
+- 12:30pm PT: Aregbe Sheriff (not pipeline)
+- 1:00pm PT: Albin Banatskiy
+- 3:00pm PT: Yared Abraham
+
+### March 9
+- 7:00am PT: Adam Ziak
+- 9:00am PT: Amrit Gill (not pipeline)
 
 ### March 10
 - 8:00am PT: Austin Besong
 
 ### Awaiting Booking
-Lokesh Loki, Melvin Zhou, Frederik, YGY (after Mar 10), Anish Gautam, Yared, Sushanta Biswas, Jess Cervellon, CFong
+Lokesh Loki, Melvin Zhou, Frederik, YGY (after Mar 10), Anish Gautam, Sushanta Biswas, Jess Cervellon, CFong, Abdullahi Abdulkadir, Kunal Jiwani
 
 ---
 
