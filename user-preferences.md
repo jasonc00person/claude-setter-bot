@@ -33,6 +33,8 @@
 - Accidentally sent "Lmaoo ikr" to Melissa (friend) — never interact with friend conversations
 - Tried to send nudge to Eshaan — user corrected: no double texting ever
 - Called Danele Louw "bro" when she's clearly a woman — always check gender first
+- **Never say "wanna pick ur brain"** — sounds like we're wasting their time. Instead frame the call as valuable to THEM: "I can break down what I'd do in your situation" or "I can share some strategies that could help." The call should sound like it benefits the lead, not like we're extracting info from them.
+- **Market research reframe done right:** Don't combine "market research" framing with "pick ur brain." Instead: "I'm launching something in April and I'm talking to people in my audience to make sure I craft the right program. so genuinely no pitch at all" — this is clean and removes pressure without devaluing their time.
 - **When a lead sends THEIR calendar link instead of using ours, play it off with humor first.** Don't just go "heres my link tho" — that's too generic and robotic. Example: "no way u just tried to calendar mog me haha" then "but seriously here's my link, let me know if you find a time that works!" THEN send Calendly. Match their energy, make it fun.
 
 *Last updated: March 5, 2026*
