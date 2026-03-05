@@ -105,6 +105,8 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 - **Nico curnock** — "Do you have someone helping with your DMs"
 - **Marlon Orellana** — Detected automation
 - **Aurelie Couble (musicbyplv)** — Called out Dan Martell framework
+- **Abhiwak Tiwari** — Booked Mar 5, 9:30am PT via Calendly but not in DM pipeline. Came from outside setter flow
+- **Kharis Pasta** — Booked Mar 5, 11:30am PT via Calendly but not in DM pipeline. Came from outside setter flow
 
 ---
 
@@ -114,8 +116,10 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 - 8:00am PT: Clem (Vyceheart)
 - 8:30am PT: Harsh Surana
 - 9:00am PT: Albin
+- 9:30am PT: Abhiwak Tiwari (not from DM pipeline — booked direct)
 - 10:00am PT: Pablo (not pipeline)
 - 11:00am PT: Oscar Ortiz
+- 11:30am PT: Kharis Pasta (not from DM pipeline — booked direct)
 - 1:00pm PT: Ayden Lum (not pipeline)
 
 ### March 6
