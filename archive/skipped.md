@@ -1,0 +1,59 @@
+# Skipped Leads (Do Not Message)
+
+## Friends / Family / Clients
+
+Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, daniellequesadaa, Jay (client), sara cooperson, Austin Connell, shana, Kade Trentham, Patrick Denis, Dave Cooperson, Blake Linde, Josh Butcher, Zain Zitawi, vndrewfox, Brandon Grogan (brandongrogan1), Maximus Ramminger (maximus.ramminger), f3durico, jjculling, ohitsjustlance
+
+## Not a Fit (Wrong Niche / Spam / Pitching)
+
+| Handle | Reason |
+|-|-|
+| saeed_taha225 | Gambling spam |
+| Mauro Osores | Pitching |
+| ahmdydhzzz | Crypto spam |
+| __amine.bgh | Crypto spam |
+| mostafahedia23 | Crypto spam |
+| jawid_610 | Crypto spam |
+| spidiiii | Crypto spam |
+| Efua Okoduwa | Not ICP |
+| Dhananjay Virat | Not ICP |
+| Sertac Altun | Not ICP |
+| Caroline Gourley | Not ICP |
+| Ayden Lum | Not ICP |
+| Evan Merger | Not ICP |
+| Etele | Pitching |
+| Aidan Cordes | No pic |
+| Tyler Beedle | Pitching |
+| Dr.Nick | Wrong niche |
+| Cris | In community |
+| Anthony Sandi | Not ICP |
+| Goncalo Goncalves | Not ICP |
+| Brian H. Hough | Not ICP |
+| Crecimiento digital | Spanish |
+| Jakub Wrzodak | Not ICP |
+| HARIS SHAMIM SIDDIQUI | Pitching closer services |
+| Ryan Kehoe | Cold outreach salesperson |
+| Alex Seyranian | Pitching setter services |
+| Kanumbi Luboya | Pitching DoseScan app |
+| maxwesemann_ | Pitching PR articles |
+| _aryanxcreates | Pitching SaaS promotion |
+| Tai (taivideoeditor) | Pitching editing services |
+| Abdou-Salam (abdouscales) | Pitching coaching services |
+| Areeb (areebonline) | Pitching setter services |
+| Anish (itsanishdeo) | Pitching services ($500 package) |
+
+## IG Notification Outreach — Checked & Skipped (March 4)
+
+> 100+ profiles checked during story viewer + notification outreach. Below are notable skips.
+
+will.to.viv (911, no biz), rnldyu (private, 407), kspringman82 (private, 337), varun_monga04 (student, 0 posts), juanlupiastri (personal/travel), brandon_giebel (existing client), hibbardtyce (already had full pipeline Oct 2024), themindsetguyy (existing peer exchange), bodybyp3 (existing friend), calebkuechly (not ICP, 3 posts), oliviavoscosta (not ICP, personal lifestyle), drexilstudios (18 followers)
+
+### Notification Scan Skips (Batched)
+
+kami.editx, ketaneditss, podwithshree.co, kevin_jeppesen, thevibes_films, jkiril, creative.nadir, founderprotocol, zdtnetwork, rumfundedideas, deoriginalhiba, brandon_willington_fp, khaled_designer_10, oletrappmann, the.financial.compass26, pablovalsam, sam_digitai, positive_affirmations_healing, brody_builds, creator.leverage, vimx.marketing, k1utch_ai, cool.aistuff, jbsthenics, tash.mov, haris_siddiquiii, seguwyd, mason_branstrator, hady__editing, saveasduhan, vnay_vfx, weber_ig, islowv, ericxmueller, nokk.studios, smoneygrowth, _lisha.98, kelyamoindron, salman._.abbasi, paxton__baron, layt.mcc, ourladyofspring, yunusov_45_, liam_h21, siamm.xyz, capitalhutch, immanueloibe, koko.fragrances1, sqntjago, louiseandrrich207, vino.louw, tango_mango_charlie, lohro_, ldbeatmaker, isaacfixx
+
+### Story Viewer Skips (Session 16)
+
+dubweathers, chasobands (already DMed), toddpritch, kingketo, houstonkold, pierree, nate.gedion, smartpeakx, joeyholka, shawnsharma (2.7M too big), unclehut_official (Thai), aibybrenda, yusuf.alzubaidy (Arabic), waynecreator, coach_islom
+
+*Last updated: March 4, 2026*
