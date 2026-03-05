@@ -289,6 +289,33 @@ When Claude encounters something that needs Jason's direct input (detected autom
 
 ---
 
+## Skool Community DM Setting
+
+Separate workflow from IG/ManyChat. Two Skool groups to work:
+
+### Groups
+- **Creator Accelerator (paid):** `skool.com/creatoraccelerator` — 222 members, $67-75/mo
+- **Internet Money Central (free):** `skool.com/internet-money-central-9086` — ~2K members
+
+### Priority Order
+1. **Respond to Skool chats** — Handle all unread messages first (blue dots in chat panel)
+2. **Outreach current CA members** — Members tab, newest first, welcome + opener for anyone not yet messaged
+3. **Outreach free group (IMC) members** — Same approach, lower priority, massive pool
+4. **Draft promotional post for free group** — Toggle "send email to all" for reach
+
+### Skool Opener Flow (New Members)
+1. Welcome: "yooo welcome in bro! glad to have u here"
+2. Personalized opener referencing their bio/role
+3. This = Stage 1. Then follow standard 6-stage pipeline on replies.
+
+### Skool-Specific Rules
+- **No ManyChat tags.** `pipeline-state.md` is the only tracker. Use Platform = "Skool"
+- **Spam risk warnings** are often false positives for international members — ignore unless clearly a bot
+- **Chat URLs can't be reliably extracted.** Search by name to find conversations
+- **Full Skool playbook:** `memory/skool-workflow.md`
+
+---
+
 ## Instagram Notification Outreach
 
 Separate process from the normal ManyChat setter workflow:

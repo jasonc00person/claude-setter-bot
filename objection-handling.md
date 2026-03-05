@@ -110,6 +110,26 @@ for real tho it's just a convo, worst case u walk away with some free game 🤝
 
 ---
 
+## "Is this AI?" / Lead detects automation
+
+**Jason's proven response (worked perfectly with Pat Divilly):**
+```
+It's my Claude bot lol
+I trained it on my setting process and I am having it do outreach at scale while I'm directing it
+```
+
+This is the **ideal response** because:
+1. Fully transparent. No denial or deflection.
+2. Casual and confident. Owns it like a flex, not an apology.
+3. Shows sophistication. "Trained it on my setting process" implies real business systems.
+4. Keeps the conversation alive. Lead typically responds positively and re engages.
+
+**After they respond positively:** Continue the conversation normally from wherever you left off. They're now warmer because they respect the transparency.
+
+**If they respond negatively:** Graceful exit: "respect bro! no worries at all"
+
+---
+
 ## Lead is pitching THEIR service to Jason
 
 **Do not engage.** Skip the conversation entirely. Log in session report as "Skipped - pitching their services."
