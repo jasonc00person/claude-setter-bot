@@ -108,25 +108,25 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 
 ---
 
-## Calendly Schedule
+## Calendly Schedule (synced via Google Calendar MCP)
 
 ### March 5 (Today)
-- 9:00am: Clem (Vyceheart)
-- 9:30am: Harsh Surana
-- 10:00am: Albin
-- 11:00am: Pablo (not pipeline)
-- 12:00pm: Oscar Ortiz
-- 2:00pm: Ayden Lum
+- 8:00am PT: Clem (Vyceheart)
+- 8:30am PT: Harsh Surana
+- 9:00am PT: Albin
+- 10:00am PT: Pablo (not pipeline)
+- 11:00am PT: Oscar Ortiz
+- 1:00pm PT: Ayden Lum (not pipeline)
 
 ### March 6
-- 9:00am: Pierre
-- 9:30am: Salim O
-- 10:00am: NISARG Gandhi
-- 12:00pm: Damien Fraser
-- 1:00pm: Ahmad Hassan
+- 8:00am PT: Pierre
+- 8:30am PT: Salim O
+- 9:00am PT: NISARG Gandhi
+- 11:00am PT: Damien Fraser
+- 12:00pm PT: Ahmad Hassan
 
 ### March 10
-- 9:00am: Austin Besong
+- 8:00am PT: Austin Besong
 
 ### Awaiting Booking
 Melvin Zhou, Frederik, YGY (after Mar 10), Anish Gautam, Yared, Sushanta Biswas, Jess Cervellon, CFong

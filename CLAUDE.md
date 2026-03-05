@@ -149,23 +149,45 @@ just grab whatever time works for u
 
 ## Calendly Integration (via Google Calendar MCP)
 
-Instead of manually navigating to Calendly in the browser, use the **Google Calendar MCP tools** to check booking status programmatically. Calendly syncs all bookings to Google Calendar.
+Instead of manually navigating to Calendly in the browser, use the **Google Calendar MCP tools** to check booking status programmatically. Calendly syncs all bookings to Google Calendar as events on `jason@creatoreconomy.online`.
 
 ### How to Check Bookings
 
-Use `gcal_list_events` to pull upcoming events. Calendly bookings appear as calendar events with the lead's name and email.
+Call `gcal_list_events` with a 7-day window:
 
-**When to check:**
-- **Session start** — before touching any DMs, check calendar for new bookings. Cross-reference against "Awaiting Booking" leads in pipeline-state.md. Update any leads who booked to Stage 6 with the call date/time.
-- **Every checkpoint (10 interactions)** — quick check for any new bookings that came in mid-session.
-- **Session end** — final check before closing out.
+```
+gcal_list_events(
+  timeMin = "[today]T00:00:00",
+  timeMax = "[today + 7 days]T23:59:59",
+  timeZone = "America/Los_Angeles",
+  condenseEventDetails = false
+)
+```
 
-**What to look for:**
-- Match event names/emails against pipeline leads in "Awaiting Booking" or "Calendly sent" status
-- Pull the booked date/time and update pipeline-state.md
-- If a lead who was "Awaiting Booking" now has a calendar event, update them to "Stage 6 - BAMFAM" with the time
+### How to Identify Calendly Bookings
 
-**Calendly URL (for sending to leads):** `https://calendly.com/jason-creatoreconomy/30m-1-1-meeting`
+Calendly events have these signatures:
+- **Summary format:** "[Lead Name] and Jason Cooperson"
+- **Description contains:** "Event Name\n30m 1-1 Meeting" and Calendly cancel/reschedule links
+- **Attendees array:** Lead's email is the non-Jason attendee
+- **Non-Calendly events** (Office Hours, Implementation Call, etc.) won't have the "30m 1-1 Meeting" description — ignore these
+
+### Cross-Reference Flow
+
+1. Pull all events for the next 7 days
+2. Filter to only Calendly bookings (description contains "30m 1-1 Meeting")
+3. Extract lead name from event summary (everything before " and Jason Cooperson")
+4. Match against "Awaiting Booking" leads in pipeline-state.md (those with "Calendly sent" status)
+5. **For matches:** Update pipeline-state.md to "Stage 6 - BAMFAM" with booked date/time. Update Calendly Schedule section.
+6. **For non-matches:** Lead still hasn't booked. Keep as "Calendly sent" in pipeline.
+
+### When to Run This Check
+- **Session start** — before touching any DMs
+- **Every checkpoint (10 interactions)** — quick check for mid-session bookings
+- **Session end** — final check before closing out
+
+### Calendly URL (for sending to leads)
+`https://calendly.com/jason-creatoreconomy/30m-1-1-meeting`
 
 ---
 
