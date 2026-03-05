@@ -100,6 +100,54 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 
 ---
 
+## Skool Community (CA + Free Group)
+
+> **Stay in the Skool tab at all times.** All Skool work happens in one tab. No need to open separate tabs.
+> **CA URL:** `https://www.skool.com/creatoraccelerator`
+> **Free Group URL:** `https://www.skool.com/internet-money-central-9086`
+
+### Checking for unread chats (PRIORITY 1 — always do first)
+- **BEST:** Click the chat icon (speech bubble) in the top-right nav bar. Use the dropdown next to "Mark all as read" to filter "Unread". Handle all unread chats before any outreach.
+- **TRAP:** Don't start outreach without checking unreads first. Replies always take priority over new messages.
+
+### Opening a member's chat from the Members page
+- **BEST:** Click the "CHAT" button on the member card. This opens the chat overlay directly.
+- **ALT:** Click their name to open their profile, then find the chat button.
+- **TRAP:** Don't navigate away from the Members page to find someone in the chat panel. The CHAT button on the card is fastest.
+
+### Navigating Members pages (paginated, 30 per page)
+- **BEST:** Use the pagination arrows at the bottom of the Members list. CA has ~8 pages. Work top to bottom, page by page.
+- **TRAP:** Don't try to scroll infinitely. Members are paginated. You must click to the next page.
+
+### Sending a message in Skool chat overlay
+- **BEST:** Click the message input at the bottom of the chat overlay, type the message, press Enter to send.
+- **TRAP:** NEVER use dashes or em dashes in messages. Use periods, line breaks, or run sentences together. Dashes are AI coded.
+
+### Closing chat overlay after sending
+- **BEST:** Click the X in the top-right of the chat window to close, then continue to the next member.
+- **TRAP:** Don't navigate away. Just close the overlay and you're back on the Members page.
+
+### Deciding who to skip on the Members page
+- **SKIP:** Premium + Free + Lifetime access members (friends/partners of Jason)
+- **SKIP:** Members with active conversations where the ball is in their court (no double texting)
+- **SKIP:** Members who have been flagged or disqualified
+- **MESSAGE:** Everyone else who hasn't received a personal opener. Old ManyChat auto DMs do NOT count as "already contacted."
+- **BEST:** Read the member card (bio, tier, activity) to decide. Check chat history before sending to avoid double texting.
+
+### Checking existing chat history with a member
+- **BEST:** Click CHAT on their card. If the overlay shows prior messages, read them. If the last message is from us and they haven't replied, skip (no double texting). If no prior personal messages exist, send opener.
+- **TRAP:** Don't confuse automated Skool welcome messages with personal outreach. Only personal messages count.
+
+### Crafting the opener
+- **BEST:** Reference their bio/description from the member card. "yooo welcome in [name]! saw u [reference their bio]. what's ur main goal rn?"
+- **TRAP:** Don't send generic "welcome in bro" without personalization. Don't use dashes. Check gender before using bro/dude.
+
+### Handling incoming replies mid-outreach
+- **BEST:** When you notice an unread indicator, stop outreach immediately. Click the chat icon, handle the reply, advance the lead per the pipeline stages, then resume outreach where you left off.
+- **TRAP:** Don't finish a batch of outreach before checking replies. Replies always take priority.
+
+---
+
 ## General Browser Efficiency Rules
 
 1. **Use `find` tool first** — before clicking anything, find the element by description. This is more reliable than guessing coordinates.

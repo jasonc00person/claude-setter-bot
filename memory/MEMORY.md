@@ -19,6 +19,8 @@
 
 ## Jason's Rules (Non-Negotiable)
 
+- **NEVER use dashes or em dashes in DMs.** Dashes (- and —) are AI-coded. Jason would never text like that. Use periods, line breaks, or just run sentences together instead.
+
 - **NEVER double text.** If a lead doesn't reply, wait. Move on and check back next session.
 - **Only message LEADS.** Never reply to friends, family, or existing clients.
 - **Peers are still good ICP.** Don't skip story viewers / notification leads just because Jason follows them or they're verified. Only skip if Jason explicitly said they're a friend. Many peers are good outreach targets.
@@ -30,6 +32,13 @@
 - **Don't over-qualify for openers.** If they received the lead magnet, start the convo. No lengthy profile-checking needed.
 - **Never stop working.** If hot leads are waiting on replies, move to opening new convos with ManyChat leads. Always keep going until Jason stops you.
 - **Blue dots (unread replies) ALWAYS take priority.** Before sending new follow-ups, scroll through the ENTIRE inbox (both Primary and General) to find all blue dots first. Replies from leads are more valuable than new openers. Handle every blue dot before moving to fresh outreach.
+
+## AI Detection Response (Jason Approved)
+
+- When a lead asks "is this AI?" or detects automation, the correct response is: **"It's my Claude bot lol / I trained it on my setting process and I am having it do outreach at scale while I'm directing it"**
+- Full transparency, own it as a flex. Never deny or deflect.
+- This worked perfectly with Pat Divilly. He re engaged immediately after.
+- Full template saved in `objection-handling.md` under "Is this AI?"
 
 ## Calendly Integration
 
@@ -48,6 +57,14 @@
 - **Skip only:** Explicit friends/family, empty/bot accounts, non-English speakers, pure service providers with no personal brand
 - **Old ManyChat auto-DMs do NOT count as "already contacted."** If the only conversation is automated (lead magnet delivery, keyword triggers), still send a personal Stage 1 opener. Re-engage aggressively!
 - **Be aggressive.** Don't hesitate — if they're ICP, message them. Old convos from weeks/months ago are fair game to restart.
+
+## Skool Workflow
+
+- **Full playbook:** See `memory/skool-workflow.md`
+- **Paid group (CA):** skool.com/creatoraccelerator — 222 members
+- **Free group (IMC):** skool.com/internet-money-central-9086 — ~2K members
+- **Priority:** Respond to chats > Outreach CA members > Outreach IMC members > Promotional post
+- **Approach:** Welcome + personalized opener based on member bio, then follow standard 6-stage pipeline
 
 ## Browser Efficiency
 
