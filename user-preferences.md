@@ -1,43 +1,24 @@
 # User Preferences & Operating Rules
 
-> Rules and preferences learned from experience. For the full DM playbook, stage rules, and voice guidelines, see `CLAUDE.md`.
+> Preferences and learned mistakes NOT already covered in `CLAUDE.md`. For the full DM playbook, stage rules, voice guidelines, and workflow definitions, see `CLAUDE.md`.
 
-## Session Workflow Preferences (Priority Order)
+## Session Workflow Preferences
 
-1. **Blue dots (unread replies) ALWAYS come first** — Before sending ANY new follow-ups or openers, scroll through the ENTIRE inbox (both Primary AND General) to find ALL blue dots. Handle every single reply before moving to fresh outreach. Replies > new openers.
-2. **Work hot leads in pipeline** — Stage 5, 4, 3, then work down
-3. **Find high-quality ICP leads first** — When batch-opening new leads, PRIORITIZE by ICP fit:
-   - **ICP:** Beginner content creators who sell a high-ticket offer and need help with organic growth / getting clients from IG. Examples: fitness coaches, Amazon coaches, ecom coaches, content coaches, agencies, video editors (agency-adjacent). Anyone building a personal brand around a service or offer.
-   - **GEO FILTER (HARD RULE):** US, Europe, and Australia ONLY. Do NOT outreach, qualify, or book anyone outside these regions. If a lead is clearly from South Asia, Africa, Southeast Asia, or other developing regions (based on name, bio, location, or profile), skip them entirely. No exceptions.
-   - **Profile check:** Must have a real profile pic, bio that shows what they do, looks like a real person building something. Skip empty/bot profiles.
-   - Look for accounts that already received a lead magnet (ManyChat auto-delivered). Quality > quantity.
-4. **Requests tab** — Last resort. Only when all quality leads are worked and you're just waiting on replies.
-- Don't over-focus on General inbox ManyChat flood — most aren't worth pursuing
-- **Every 10 interactions** (message sent, lead checked, info gained — any step counts), update pipeline-state.md
-- **Keep ManyChat tags updated immediately** — Every time a lead changes stage, update their ManyChat Contact Tag right away (not at checkpoints). Tags: `In Conversation`, `Qualified`, `Booking Link Sent`, `Call Booked`, `Unqualified`, `follow up`. This keeps the inbox organized and lets Jason see lead status at a glance.
-- Jason may jump in and respond to friends mid-session — don't touch those convos
-- **Use ManyChat Contacts tab to search for people** — Inbox search is unreliable (doesn't always find contacts). Use the Contacts tab instead for reliable lookup by name or handle.
-- **Always verify the chat header name before typing** — After clicking a contact in the sidebar, confirm the chat panel header matches the intended recipient before typing anything. The panel doesn't always switch reliably.
-
-## Skool Chat Links — NOT NEEDED
-
-- Don't bother tracking Skool DM links — Skool chat URLs can't be reliably extracted via browser automation
-- Instead: just search by name in Skool chats to find any conversation
+- Don't over-focus on General inbox ManyChat flood -- most aren't worth pursuing
+- Jason may jump in and respond to friends mid-session -- don't touch those convos
+- Look for accounts that already received a lead magnet (ManyChat auto-delivered) when batch-opening. Quality > quantity.
+- Requests tab is last resort -- only when all quality leads are worked
 
 ## Mistakes to Avoid (Learned from Experience)
 
-- **NEVER use em dashes in DMs!** Dead giveaway it's AI. Use commas, periods, or split into separate messages.
-- **Don't overuse the fire emoji.** It's predictable and feels automated. Vary your reactions — use other emojis, "that's sick", "love that", "honestly that's dope" etc. Mix it up every time. Sound human, not like a bot with a script.
-- **Acknowledge first, then ALWAYS send AV** — When a lead replies to an opener, acknowledge first ("thats sick bro..."), then send the AV question as a follow-up message. Don't skip the AV. Two separate messages, not bundled, but both get sent.
-- **Never leave a convo on a statement** — Every message we send should either ask a question or prompt a reply. Don't leave a lead hanging on just an acknowledgment. Keep the conversation moving until they're booked.
-- Accidentally sent "Lmaoo ikr" to Melissa (friend) — never interact with friend conversations
-- Tried to send nudge to Eshaan — user corrected: no double texting ever
-- Called Danele Louw "bro" when she's clearly a woman — always check gender first
-- **Never say "wanna pick ur brain"** — sounds like we're wasting their time. Instead frame the call as valuable to THEM: "I can break down what I'd do in your situation" or "I can share some strategies that could help." The call should sound like it benefits the lead, not like we're extracting info from them.
-- **Market research reframe done right:** Don't combine "market research" framing with "pick ur brain." Instead: "I'm launching something in April and I'm talking to people in my audience to make sure I craft the right program. so genuinely no pitch at all" — this is clean and removes pressure without devaluing their time.
-- Messaged Ava Mistruzzi even though she has the "Friend" label in ManyChat — ALWAYS check ManyChat labels before messaging anyone. If "Friend" label exists, skip completely.
-- **When a lead sends THEIR calendar link instead of using ours, play it off with humor first.** Don't just go "heres my link tho" — that's too generic and robotic. Example: "no way u just tried to calendar mog me haha" then "but seriously here's my link, let me know if you find a time that works!" THEN send Calendly. Match their energy, make it fun.
-- **NEVER deny being AI.** When a lead asks "is this AI?" — OWN IT immediately per `objection-handling.md`. Say "It's my Claude bot lol / I trained it on my setting process and I am having it do outreach at scale while I'm directing it." Transparency is a flex, not a weakness. Denying it and then correcting yourself (like with Tyler Casey) is worse than just owning it upfront.
-- **Every Skool member is a lead.** Paid CA members AND free IMC members are ALL leads. Do NOT skip anyone because they look "established" or have a big bio — they joined the community to get help. The ONLY exception: someone who has already closed on Jason's new offer. Never confuse "successful-looking" with "peer/friend."
+- **Don't overuse the fire emoji.** Vary reactions -- "that's sick", "love that", "honestly that's dope" etc.
+- **Acknowledge first, then ALWAYS send AV** -- Two separate messages. Don't skip AV after opener reply.
+- **Never leave a convo on a statement** -- Every message should ask a question or prompt a reply.
+- Called Danele Louw "bro" when she's clearly a woman -- always check gender first.
+- **Never say "wanna pick ur brain"** -- frame the call as valuable to THEM: "I can break down what I'd do in your situation."
+- **Market research reframe done right:** "I'm launching something in April and I'm talking to people in my audience to make sure I craft the right program. so genuinely no pitch at all"
+- Messaged Ava Mistruzzi even though she has the "Friend" label in ManyChat -- ALWAYS check ManyChat labels before messaging.
+- **When a lead sends THEIR calendar link:** Play it off with humor first ("no way u just tried to calendar mog me haha"), then send Calendly.
+- **Every Skool member is a lead.** Paid CA AND free CCU members are ALL leads. Don't skip "established-looking" people. Only exception: existing clients.
 
-*Last updated: March 5, 2026*
+*Last updated: March 6, 2026*

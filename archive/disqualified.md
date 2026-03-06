@@ -50,3 +50,10 @@
 | Frame Media | framemedia.offical | Pitching video editing services | Skipped |
 | Geli (hell-ee) | kiskeyanadepuracepa | Personal/social message, not a lead | Skipped |
 | Jack Ostlemineur | jackostlesmineurs | Negative AV — no plan to create content | Unqualified |
+| Albin Banatskiy | albin.revamps | No showed twice. Canceled ("don't wanna waste any more time") | Unqualified |
+| Antonio Guerrieri | tonyybakes | $20K/mo DFY agency. Not looking for another program. Detected AI, owned it. Graceful exit | Unqualified |
+| AI Content Marketing Agency | contentclubja | Video production agency. Not ICP | Unqualified |
+| Aura Creations | auracreationsmarketing | Digital marketing agency. Suspicious of mass outreach. Just wanted freebie | Unqualified |
+| Alessio Sion | alessiosion_ | Already has someone helping. Soft exit | Unqualified |
+| Ava Mistruzzi | avamistruzzi | Jason's friend. Should never have been messaged | Friend |
+| Lokesh Loki | @lokesh-loki-4052 | Calcutta, India. FAILS GEO FILTER | Unqualified |

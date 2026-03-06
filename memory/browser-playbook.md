@@ -210,7 +210,7 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 
 ### Efficiency wins:
 - Used Contacts tab to find Fortune when inbox search failed — saved several retry attempts
-- Used `find` tool + ref for ManyChat tag buttons — consistent and reliable vs coordinate guessing
+- Used `find` tool + ref for ManyChat buttons — consistent and reliable vs coordinate guessing
 - Used Unread filter to quickly audit the entire inbox for missed blue dots
 
 ---

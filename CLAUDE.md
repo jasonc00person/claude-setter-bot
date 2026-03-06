@@ -99,8 +99,7 @@ Each session runs ONE of three workflows. Jason will specify which at session st
 1. **Check GCal for new bookings** — cross-reference "Awaiting Booking" leads
 2. **Work replies only** — move leads through stages toward call booked
 3. **No new outreach** — only respond to existing conversations
-4. **Update ManyChat tags immediately** when leads change stage
-5. **Update pipeline-state.md** every 10 interactions (using Edit tool)
+4. **Update pipeline-state.md** every 10 interactions (using Edit tool)
 
 ### Instagram Notifications Workflow (Instagram tab only)
 1. **Monitor notifications** — story viewers, likers, reel likers, new followers
@@ -232,37 +231,6 @@ Rules for incoming DMs from people not yet in the pipeline:
 
 ---
 
-## ManyChat Tag Management
-
-ManyChat contact tags must stay in sync with the pipeline stage. Update tags **immediately when a lead changes stage**, not in batches.
-
-### Tag Mapping (Pipeline Stage -> ManyChat Tag)
-
-| Pipeline Stage | ManyChat Tag |
-|-|-|
-| Stage 3+ (Permission granted, qualifying) | `In Conversation` |
-| Stage 4 complete (Qualified, pre-call) | `Qualified` |
-| Stage 5 (Bridge accepted, Calendly sent) | `Booking Link Sent` |
-| Stage 6 (Call booked) | `Call Booked` |
-| Need to circle back later | `follow up` |
-| Disqualified / not a fit / negative AV | `Unqualified` |
-
-### When to Update Tags
-- **After sending a permission-to-qualify message (Stage 3):** Add `In Conversation` tag
-- **After a lead qualifies and bridge is sent (Stage 5):** Change tag to `Qualified`
-- **After a lead accepts call and Calendly is sent:** Change tag to `Booking Link Sent`
-- **After a call is booked (Stage 6):** Change tag to `Call Booked`
-- **When a lead goes cold or needs a future nudge:** Add `follow up` tag
-- **When a lead is disqualified (negative AV, not serious, graceful exit):** Add `Unqualified` tag
-
-### How to Update Tags
-- In the conversation view, tags are visible in the right sidebar under "Contact Tags"
-- Click "+ Add Tag" to add a new tag
-- Click the "x" on an existing tag to remove it
-- Always remove the old stage tag when adding a new one (e.g., remove `In Conversation` when adding `Qualified`)
-
----
-
 ## Session Tracking & Pipeline Updates
 
 Claude must update `pipeline-state.md` as it works through DMs. This is the **only** tracker — there is no external CRM.
@@ -276,7 +244,6 @@ Claude must update `pipeline-state.md` as it works through DMs. This is the **on
 ### At Every Checkpoint (10 Interactions)
 - Save pipeline-state.md with all updates since last checkpoint (using Edit tool, never Bash)
 - Quick Calendly check via Google Calendar MCP — look for new bookings (Skool + ManyChat workflows only)
-- Update ManyChat tags for any leads that changed stage (ManyChat workflow only)
 
 ### At End of Session
 - Add a new **Session Log** entry to `session-logs/` with:
@@ -324,7 +291,7 @@ Separate workflow from IG/ManyChat. Two Skool groups to work:
 3. This = Stage 1. Then follow standard 6-stage pipeline on replies.
 
 ### Skool-Specific Rules
-- **No ManyChat tags.** `pipeline-state.md` is the only tracker. Use Platform = "Skool"
+- `pipeline-state.md` is the only tracker. Use Platform = "Skool"
 - **Spam risk warnings** are often false positives for international members — ignore unless clearly a bot
 - **Chat URLs can't be reliably extracted.** Search by name to find conversations
 - **Full Skool playbook:** `memory/skool-workflow.md`
