@@ -4,13 +4,13 @@
 
 Skool is a secondary DM setting channel alongside Instagram/ManyChat. Two groups:
 - **Creator Accelerator (paid):** skool.com/creatoraccelerator — 222 members, $67-75/mo
-- **Internet Money Central (free):** skool.com/internet-money-central-9086 — ~2K members
+- **Content Creator University / CCU (free):** skool.com/internet-money-central-9086 — ~2K members
 
 ## Priority Order
 
 1. **Respond to people** — Check Skool chat (chat icon top-right), handle all unread (blue dots) first
 2. **Outreach current CA members** — Go to Members tab, work through newest members who haven't been messaged
-3. **Outreach free group members** — Internet Money Central, same approach but lower priority
+3. **Outreach free group members** — Content Creator University (CCU), same approach but lower priority
 4. **Draft promotional post for free group** — Toggle "send email to all" for max reach
 
 ## Navigation
@@ -61,7 +61,7 @@ Follow the same 6-stage pipeline as IG:
 - **Platform column:** Use "Skool" in pipeline-state.md for Skool leads.
 - **Handle column:** Use Skool @username or "—" if not relevant.
 
-## Free Group Outreach (Internet Money Central)
+## Free Group Outreach (Content Creator University (CCU))
 
 - URL: skool.com/internet-money-central-9086
 - ~2K members — large pool for outreach

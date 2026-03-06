@@ -158,7 +158,7 @@ Jason's setting voice is his normal voice with a business layer. He never switch
 2. **Genuine curiosity** — "Curious what your page is about and what you're working toward"
 3. **Casual questions** — "how's the content grind going?" not "How is your content strategy performing?"
 4. **Remove pressure** — "(no pitch)", "Otherwise best of luck brother!"
-5. **Natural transitions** — "btw just curious —", "Genuinely tho"
+5. **Natural transitions** — "btw just curious", "Genuinely tho"
 6. **Never salesy** — no "limited time", "exclusive offer", "DM me NOW"
 
 ### Setting Message Examples by Stage:

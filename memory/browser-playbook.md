@@ -78,50 +78,11 @@
 
 ---
 
-## Notion CRM
-
-### Finding a lead in CRM
-- **BEST:** Use Ctrl+P (search) → type their name → click the result. Fastest method.
-- **ALT:** In Board view, visually scan columns (each column = a status). Cards are visible.
-- **TRAP:** Don't scroll through the entire board looking for someone. Search first.
-
-### Changing a lead's status
-- **BEST (Board view):** Drag the card from one column to another. One action = done.
-- **ALT (inside card):** Click the status tag → select new status from dropdown.
-- **TRAP:** Don't open the card just to change status — drag is faster in Board view.
-
-### Standard Process for Editing ANY Notion Page
-- **BEST:** ALWAYS open the page first (click the row name in table view, or card name in board view), THEN edit properties from the page view. This is the standard process for all Notion editing.
-- **TRAP:** Trying to edit properties directly from table/board view — URL fields open links, date fields open pickers, and it's hard to target cells.
-
-### Adding/Editing IG Profile Link
-- **BEST:** Open the page first. Then click slightly to the RIGHT of the URL text — NOT on the text itself.
-- **TRAP:** Don't click ON existing URL text — it navigates away. Click the empty space beside it.
-- **TRAP:** Don't confuse "IG Profile Link" with "Skool DM Link" — they're adjacent columns.
-
-### Finding correct IG handle from ManyChat
-- **BEST:** Use `find` tool to search for the Instagram handle link in ManyChat's contact info panel. The `find` result shows the actual href — more reliable than reading displayed text (underscores can visually merge, e.g., `___` looks like `__`).
-- **TRAP:** Display text may show `__` when the actual handle has `___`. Always check the href via `find` tool.
-
-### Creating a new lead
-- **BEST (Board view):** Click "+ New" at the bottom of the correct status column → type name → Enter. Card auto-gets that column's status.
-- **TRAP:** Don't create from the wrong column — you'll have to move it.
-
-### Bulk updating multiple leads
-- **BEST:** Switch to Table view → select checkboxes on relevant rows → Ctrl+/ → change property
-- **TRAP:** Don't update leads one-by-one if 3+ changed in the same session.
-
-### Editing any field value
-- **BEST:** Click in the empty space RIGHT NEXT TO the value, not on the value itself.
-- **TRAP:** Clicking on URL text navigates to it. Clicking on a tag opens its page.
-
----
-
-## Calendly
+## Calendly (via Google Calendar MCP)
 
 ### Checking for new bookings
-- **BEST:** Navigate to Calendly scheduled events page → read the upcoming events list
-- **TRAP:** Don't just check the Calendly homepage — go to the scheduled events view.
+- **BEST:** Use Google Calendar MCP tool (`gcal_list_events`) with a 7-day window. Filter for events with "30m 1-1 Meeting" in description. No need to open Calendly in the browser.
+- **TRAP:** Don't navigate to Calendly in the browser — use the GCal MCP tool instead. It's faster and more reliable.
 
 ---
 

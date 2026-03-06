@@ -7,9 +7,9 @@
 1. **Blue dots (unread replies) ALWAYS come first** — Before sending ANY new follow-ups or openers, scroll through the ENTIRE inbox (both Primary AND General) to find ALL blue dots. Handle every single reply before moving to fresh outreach. Replies > new openers.
 2. **Work hot leads in pipeline** — Stage 5, 4, 3, then work down
 3. **Find high-quality ICP leads first** — When batch-opening new leads, PRIORITIZE by ICP fit:
-   - **Tier 1 (open first):** Western/American/Caucasian names + good profile pic (clear photo, looks like a real creator). Examples: Reece Spence, Robert Daoud, Damien Fraser.
-   - **Tier 2 (good enough to outreach):** Other English-speaking leads with real creator profiles.
-   - **Tier 3:** Everyone else. Skip non-English speakers entirely.
+   - **ICP:** Beginner content creators who sell a high-ticket offer and need help with organic growth / getting clients from IG. Examples: fitness coaches, Amazon coaches, ecom coaches, content coaches, agencies, video editors (agency-adjacent). Anyone building a personal brand around a service or offer.
+   - **GEO FILTER (HARD RULE):** US, Europe, and Australia ONLY. Do NOT outreach, qualify, or book anyone outside these regions. If a lead is clearly from South Asia, Africa, Southeast Asia, or other developing regions (based on name, bio, location, or profile), skip them entirely. No exceptions.
+   - **Profile check:** Must have a real profile pic, bio that shows what they do, looks like a real person building something. Skip empty/bot profiles.
    - Look for accounts that already received a lead magnet (ManyChat auto-delivered). Quality > quantity.
 4. **Requests tab** — Last resort. Only when all quality leads are worked and you're just waiting on replies.
 - Don't over-focus on General inbox ManyChat flood — most aren't worth pursuing
@@ -38,5 +38,6 @@
 - Messaged Ava Mistruzzi even though she has the "Friend" label in ManyChat — ALWAYS check ManyChat labels before messaging anyone. If "Friend" label exists, skip completely.
 - **When a lead sends THEIR calendar link instead of using ours, play it off with humor first.** Don't just go "heres my link tho" — that's too generic and robotic. Example: "no way u just tried to calendar mog me haha" then "but seriously here's my link, let me know if you find a time that works!" THEN send Calendly. Match their energy, make it fun.
 - **NEVER deny being AI.** When a lead asks "is this AI?" — OWN IT immediately per `objection-handling.md`. Say "It's my Claude bot lol / I trained it on my setting process and I am having it do outreach at scale while I'm directing it." Transparency is a flex, not a weakness. Denying it and then correcting yourself (like with Tyler Casey) is worse than just owning it upfront.
+- **Every Skool member is a lead.** Paid CA members AND free IMC members are ALL leads. Do NOT skip anyone because they look "established" or have a big bio — they joined the community to get help. The ONLY exception: someone who has already closed on Jason's new offer. Never confuse "successful-looking" with "peer/friend."
 
 *Last updated: March 5, 2026*

@@ -26,7 +26,7 @@ All Instagram DM outreach follows this progression:
 3. **Stage 3 — Permission to Qualify**: "Do you mind if I ask a couple questions?"
 4. **Stage 4 — 3 Qualifying Questions**: Goal, challenge, what they've tried
 5. **Stage 5 — Bridge to Call**: "Would you be opposed to hopping on a quick call?"
-6. **Stage 6 — BAMFAM**: Book research call, then sales call
+6. **Stage 6 — Call Booked**: Research call is booked via Calendly
 
 ## Voice Rules (Critical)
 
@@ -81,18 +81,32 @@ This keeps the repo in sync across machines and sessions. GitHub is the host, th
 
 ## DM Session Playbook (Step-by-Step Operating Procedure)
 
-When Claude opens Instagram DMs for a setting session, follow this exact workflow:
+Each session runs ONE of three workflows. Jason will specify which at session start. **Stay in that workflow's tab only.**
 
-### Session Start Workflow
+### Session Start (All Workflows)
 
 1. **Git pull + load pipeline state** (see Session Sync above)
-2. **Check Calendly via Google Calendar** — cross-reference "Awaiting Booking" leads against actual calendar events. Update any leads who booked to Stage 6.
-3. **Check replies from hot leads first** — Stage 5 (bridge to call sent), then Stage 3-4 (qualifying)
-4. **Check replies from Stage 2 leads** — anyone who got an AV question
-5. **Check replies from Stage 1 leads** — anyone who got an opener
-6. **Handle new incoming DMs** — story replies, new follower messages, message requests
-7. **Send new Stage 1 openers** to unworked leads (new followers, lead magnet requesters who haven't been messaged)
-8. **Update pipeline-state.md** after each batch of leads processed
+2. Read `pipeline-state.md` to load current state
+
+### Skool Workflow (Skool tab only)
+1. **Check GCal for new bookings** — cross-reference "Awaiting Booking" leads against calendar events
+2. **Handle all unread Skool chats first** — replies always come before outreach
+3. **Outreach ICP members** — CA first (newest members), then CCU free group
+4. **Full pipeline** — outreach through call booked, all stages
+5. **Update pipeline-state.md** every 10 interactions (using Edit tool)
+
+### ManyChat Workflow (ManyChat tab only)
+1. **Check GCal for new bookings** — cross-reference "Awaiting Booking" leads
+2. **Work replies only** — move leads through stages toward call booked
+3. **No new outreach** — only respond to existing conversations
+4. **Update ManyChat tags immediately** when leads change stage
+5. **Update pipeline-state.md** every 10 interactions (using Edit tool)
+
+### Instagram Notifications Workflow (Instagram tab only)
+1. **Monitor notifications** — story viewers, likers, reel likers, new followers
+2. **Find ICP prospects only** — check profile, bio, follower count, geo (US/Europe/Australia only)
+3. **Send personalized openers only** — no replying, no qualifying, no booking. Just Stage 1 openers
+4. **Update pipeline-state.md** every 10 interactions (using Edit tool)
 
 ### Per-Conversation Decision Logic
 
@@ -120,7 +134,7 @@ Only advance a lead when they give a clear signal. Never skip stages.
   3. "What have u tried so far to fix that?"
 - **Stage 4 -> 5**: Lead's qualifying answers indicate fit (wants growth, has a real challenge, has tried things that didn't work). Send bridge to call: "That's fire - [validate their situation]. I definitely think I can help you with that. Would you be opposed to hopping on a quick call where I can break down some of the strategies I use with my clients to help them scale on Instagram?"
 - **Stage 5 -> 6**: Lead agrees to a call. Follow the Call Booking Flow below.
-- **Stage 6**: After booking confirmed, say "Sick dude speak soon!" and mark BAMFAM COMPLETE.
+- **Stage 6**: After booking confirmed, say "Sick dude speak soon!" and mark Stage 6 - Call Booked.
 
 **If a lead's answers don't qualify (not serious, no real challenge, just wants freebies):**
 ```
@@ -136,14 +150,15 @@ When a lead agrees to a call (Stage 5 -> 6):
 
 1. **Send Calendly link with casual framing:**
 ```
-sick dude here's the link — https://calendly.com/jason-creatoreconomy/30m-1-1-meeting
+sick dude here's the link
+https://calendly.com/jason-creatoreconomy/30m-1-1-meeting
 just grab whatever time works for u
 ```
 
 2. **If they book:** "Sick dude speak soon!"
 3. **If they say they'll book later:** "bettt no rush, just whenever u get a sec"
 4. **If they don't book after 24h:** Light nudge: "hey bro did u get a chance to grab a time? no rush just wanna make sure the link worked haha"
-5. **After booking confirmed:** Update pipeline-state.md — change status to "Stage 6 - BAMFAM COMPLETE" with the call date/time
+5. **After booking confirmed:** Update pipeline-state.md — change status to "Stage 6 - Call Booked" with the call date/time
 
 ---
 
@@ -178,7 +193,7 @@ Calendly events have these signatures:
 2. Filter to only Calendly bookings (description contains "30m 1-1 Meeting")
 3. Extract lead name from event summary (everything before " and Jason Cooperson")
 4. Match against "Awaiting Booking" leads in pipeline-state.md (those with "Calendly sent" status)
-5. **For matches:** Update pipeline-state.md to "Stage 6 - BAMFAM" with booked date/time. Update Calendly Schedule section.
+5. **For matches:** Update pipeline-state.md to "Stage 6 - Call Booked" with booked date/time. Update Calendly Schedule section.
 6. **For non-matches:** Lead still hasn't booked. Keep as "Calendly sent" in pipeline.
 
 ### When to Run This Check
@@ -259,9 +274,9 @@ Claude must update `pipeline-state.md` as it works through DMs. This is the **on
 - **Every 10 interactions** (message sent, lead checked, info gained), save pipeline-state.md
 
 ### At Every Checkpoint (10 Interactions)
-- Save pipeline-state.md with all updates since last checkpoint
-- Quick Calendly check via Google Calendar MCP — look for new bookings
-- Update ManyChat tags for any leads that changed stage
+- Save pipeline-state.md with all updates since last checkpoint (using Edit tool, never Bash)
+- Quick Calendly check via Google Calendar MCP — look for new bookings (Skool + ManyChat workflows only)
+- Update ManyChat tags for any leads that changed stage (ManyChat workflow only)
 
 ### At End of Session
 - Add a new **Session Log** entry to `session-logs/` with:
@@ -295,12 +310,12 @@ Separate workflow from IG/ManyChat. Two Skool groups to work:
 
 ### Groups
 - **Creator Accelerator (paid):** `skool.com/creatoraccelerator` — 222 members, $67-75/mo
-- **Internet Money Central (free):** `skool.com/internet-money-central-9086` — ~2K members
+- **Content Creator University / CCU (free):** `skool.com/internet-money-central-9086` — ~2K members
 
 ### Priority Order
 1. **Respond to Skool chats** — Handle all unread messages first (blue dots in chat panel)
 2. **Outreach current CA members** — Members tab, newest first, welcome + opener for anyone not yet messaged
-3. **Outreach free group (IMC) members** — Same approach, lower priority, massive pool
+3. **Outreach free group (CCU) members** — Same approach, lower priority, massive pool
 4. **Draft promotional post for free group** — Toggle "send email to all" for reach
 
 ### Skool Opener Flow (New Members)
@@ -318,12 +333,14 @@ Separate workflow from IG/ManyChat. Two Skool groups to work:
 
 ## Instagram Notification Outreach
 
-Separate process from the normal ManyChat setter workflow:
+Separate process from the ManyChat and Skool workflows. **OUTREACH ONLY** -- no replying, no qualifying, no booking. Just send personalized Stage 1 openers.
 
 - **Source:** Story viewers, story likers, reel likers, notification interactions
 - **Tool:** Instagram native DMs (NOT ManyChat)
+- **OUTREACH ONLY:** Send openers. Do not reply to messages, do not qualify, do not book calls. Those happen in the ManyChat workflow.
+- **GEO FILTER (HARD RULE):** US, Europe, Australia ONLY. Skip everyone else.
+- **ICP:** Beginner creators selling high-ticket offers who need organic IG growth. Coaches, agencies, video editors (agency-adjacent). Anyone with a personal brand + service/offer.
+- **Profile check:** Real profile pic, bio showing what they do, real person building something. Skip empty/bot profiles.
 - **Peers are fair game.** Don't skip accounts just because Jason follows them or they're verified. Only skip explicit friends.
-- **ICP check:** Look for creators, coaches, brand builders, content marketers — anyone who could benefit from Instagram growth coaching
-- **Skip only:** Explicit friends/family, empty/bot accounts, non-English speakers, pure service providers with no personal brand
+- **Skip:** Explicit friends/family, empty/bot accounts, non-English speakers, pure service providers with no personal brand, anyone outside US/Europe/Australia
 - **Old ManyChat auto-DMs do NOT count as "already contacted."** If the only conversation is automated (lead magnet delivery, keyword triggers), still send a personal Stage 1 opener.
-- **Be aggressive.** If they're ICP, message them. Old convos from weeks/months ago are fair game to restart.
