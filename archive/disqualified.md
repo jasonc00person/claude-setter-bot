@@ -18,3 +18,35 @@
 | andjelo | jovanicandjelo | Soft decline ("wanna try my own system first, if I get stuck I'll reach out"). Door open | follow up |
 | Jamie Nordin | jamienordin_ | 128K performance coach. Negative AV ("IG already brings in clients, not looking to add anything") | Unqualified |
 | Ilias | ilias.nebdi | Graceful exit after price objection reframe ("Best of luck to you too brother") | follow up |
+| Lokesh Loki | — | Calcutta, India. FAILS GEO FILTER | Unqualified |
+| Vyceheart | vyce_heart | Unqualified per Jason | Unqualified |
+| Harsh Surana | harsh.1806 | Unqualified per Jason | Unqualified |
+| Damien Fraser | dame.fra | 0 posts, 524 followers, bio = Bible verse. No offer/brand | Unqualified |
+| Austin Besong | austinbesong | 0 posts, 26 followers, empty account | Unqualified |
+| Abdullahi Abdulkadir | @abdullahi | Lagos, Nigeria. FAILS GEO FILTER | Unqualified |
+| Abhiwak Tiwari | heyabhiwak | India. FAILS GEO FILTER | Unqualified |
+| Sushanta Biswas | su.shent | India. FAILS GEO FILTER | Unqualified |
+| Aregbe Sheriff | — | Nigeria. FAILS GEO FILTER | Unqualified |
+| Ahmad Hassan | ahmad.mov_ | Calendar shows DECLINED | Unqualified |
+| Danele Louw | danelelouwofficial | Central Africa Time / South Africa. FAILS GEO FILTER | Unqualified |
+| PXQ Media | pxq.media | Weak English, unclear geo | Unqualified |
+| Mahin | mosharrofmahin | Bangladesh. FAILS GEO FILTER | Unqualified |
+| Zayan | zayan___kh___ | South Asia. FAILS GEO FILTER | Unqualified |
+| Avneet Kaur | teenva0 | India. FAILS GEO FILTER | Unqualified |
+| Zayaan khan | zayaan.__khan | South Asia. FAILS GEO FILTER | Unqualified |
+| Rishal | rish4llll | South Asia. FAILS GEO FILTER | Unqualified |
+| Sanif Kandel | sanif_kandel | South Asia. FAILS GEO FILTER | Unqualified |
+| Shanmukha Sai | shanmukh_dhf_pspk | India. FAILS GEO FILTER | Unqualified |
+| Khatib Rahman | @khatib-rahman-3186 | Kolkata. FAILS GEO FILTER | Unqualified |
+| Samson | bolu_visuals1 | Nigeria. FAILS GEO FILTER | Unqualified |
+| contentos.system | contentos.system | Tried to pitch SMM services, not a prospect | Unqualified |
+| Monkey Motions | monkeymotions | Company page, not a person. Weak | Unqualified |
+| Sophia Nguyen | sophia_nguyen21 | Not serious — parents won't let her go public | Unqualified |
+| Aryan Kalokhe | kalokhe_aryan | India. FAILS GEO FILTER | Unqualified |
+| Dhanil Shah | dhanil.shah | Pitching fitness service "PeakForm" | Skipped |
+| Ryan Kehoe | ryankehoe__ | Pitching services with Loom video | Skipped |
+| Kaylen Naicker | kaylennaickerbiz | Pitching "untapped opportunity" in Skool | Skipped |
+| Clark Hardy | clarkhardy_ | Pitching "executionware product" | Skipped |
+| Frame Media | framemedia.offical | Pitching video editing services | Skipped |
+| Geli (hell-ee) | kiskeyanadepuracepa | Personal/social message, not a lead | Skipped |
+| Jack Ostlemineur | jackostlesmineurs | Negative AV — no plan to create content | Unqualified |
