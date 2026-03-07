@@ -1,6 +1,9 @@
 # Claude Code local settings
 .claude/
 
+# MCP tools
+tools/whisper-mcp/node_modules/
+
 # OS files
 Thumbs.db
 .DS_Store

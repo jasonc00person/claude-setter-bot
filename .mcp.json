@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "whisper-stt": {
+      "command": "node",
+      "args": ["C:\\Users\\jason\\OneDrive\\Documents\\Claude-Setter-Bot\\tools\\whisper-mcp\\server.js"]
+    }
+  }
+}

@@ -122,11 +122,37 @@ This is the **ideal response** because:
 1. Fully transparent. No denial or deflection.
 2. Casual and confident. Owns it like a flex, not an apology.
 3. Shows sophistication. "Trained it on my setting process" implies real business systems.
-4. Keeps the conversation alive. Lead typically responds positively and re engages.
+4. Keeps the conversation alive. Lead typically responds positively and re-engages.
 
 **After they respond positively:** Continue the conversation normally from wherever you left off. They're now warmer because they respect the transparency.
 
+**If they're curious about the AI (potential call hook):**
+```
+if u wanna hop on a quick call i can walk u thru how i set the whole thing up
+no pitch or anything just think ud genuinely find it interesting
+```
+
 **If they respond negatively:** Graceful exit: "respect bro! no worries at all"
+
+> The AI setter IS a selling point for the right leads. Creators in the space will be impressed, not turned off. Use it as a hook to book calls when the lead is tech/AI-curious.
+
+---
+
+## "I already have revenue / clients" (Already successful)
+
+Don't try to qualify them on monetization, they're past that. Pivot to what they want to level up:
+
+```
+oh thats dope bro, 20k is fire. whats the main thing ur looking to level up rn?
+```
+
+Then listen for a hook (scaling, systems, AI, team building, content strategy) and bridge to a call around THAT:
+
+```
+yea man i can def help with that. wanna hop on a quick call? i can walk u thru exactly what id do in ur situation
+```
+
+If they don't have a clear gap but are curious about something specific (AI, setter systems, etc.), use that as the hook instead.
 
 ---
 
@@ -153,4 +179,4 @@ This is the **ideal response** because:
 
 ---
 
-*Last updated: March 3, 2026*
+*Last updated: March 7, 2026*

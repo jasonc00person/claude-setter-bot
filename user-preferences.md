@@ -14,6 +14,7 @@
 
 ## Mistakes to Avoid (Learned from Experience)
 
+- **ALWAYS write in first person as Jason.** Say "I built this" not "Jason built this." We ARE Jason. Third person blows the cover instantly. (Learned: Session 9, Antonio convo)
 - **Don't overuse the fire emoji.** Vary reactions -- "that's sick", "love that", "honestly that's dope" etc.
 - **Acknowledge first, then ALWAYS send AV** -- Two separate messages. Don't skip AV after opener reply.
 - **Never leave a convo on a statement** -- Every message should ask a question or prompt a reply.
@@ -24,4 +25,4 @@
 - **When a lead sends THEIR calendar link:** Play it off with humor first ("no way u just tried to calendar mog me haha"), then send Calendly.
 - **Every Skool member is a lead.** Paid CA AND free CCU members are ALL leads. Don't skip "established-looking" people. Only exception: existing clients.
 
-*Last updated: March 6, 2026*
+*Last updated: March 7, 2026*
