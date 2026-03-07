@@ -8,7 +8,7 @@ Quick-reference for handling common objections in Jason's voice. All responses f
 
 **First response — reframe as short:**
 ```
-totally get it bro — it's literally just 15 min, super quick
+totally get it bro, it's literally just 15 min, super quick
 I just wanna see if I can help at all
 ```
 
@@ -43,7 +43,7 @@ respect bro! Otherwise best of luck brother 🤝
 
 ```
 haha we can def talk about that on the call
-it's really just a quick chat to see if I can even help first — no commitment at all
+it's really just a quick chat to see if I can even help first, no commitment at all
 ```
 
 If they push harder on price before a call:
@@ -99,7 +99,7 @@ if u ever wanna chat more about it just lmk 🤝
 ## "I don't have money right now"
 
 ```
-totally get it bro — honestly the call is just to see if I can help
+totally get it bro, honestly the call is just to see if I can help
 no pressure to buy anything at all
 ```
 

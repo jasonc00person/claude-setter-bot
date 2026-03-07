@@ -2,7 +2,7 @@
 
 ## Friends / Family / Clients
 
-Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, daniellequesadaa, Jay (client), sara cooperson, Austin Connell, shana, Kade Trentham, Patrick Denis, Dave Cooperson, Blake Linde, Josh Butcher, Zain Zitawi, vndrewfox, Brandon Grogan (brandongrogan1), Maximus Ramminger (maximus.ramminger), f3durico, jjculling, ohitsjustlance
+Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, daniellequesadaa, Jay (client), sara cooperson, Austin Connell, shana, Kade Trentham, Patrick Denis, Dave Cooperson, Blake Linde, Josh Butcher, Zain Zitawi, vndrewfox, Brandon Grogan (brandongrogan1), Maximus Ramminger (maximus.ramminger), f3durico, jjculling, ohitsjustlance, Nick Warrior (Skool), CFong (cfongofficial, friend from college)
 
 ## Not a Fit (Wrong Niche / Spam / Pitching)
 
@@ -41,6 +41,12 @@ Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, danie
 | Abdou-Salam (abdouscales) | Pitching coaching services |
 | Areeb (areebonline) | Pitching setter services |
 | Anish (itsanishdeo) | Pitching services ($500 package) |
+| Franco Zamboni | Pitching services |
+| Sanhik Roy (theethicalcapitalist) | Pitching autodm tool (playto.so) |
+| Riley Brown (realrileybrown) | Pitching OpenClaw agents |
+| Chris (chris.is.editing) | Pitching video editing services |
+| Enray Liu (syarne) | Setter/closer recruiter, not ICP |
+| Aaron David (aarondvid_) | Pitching dating/lifestyle research |
 
 ## IG Notification Outreach — Checked & Skipped (March 4)
 
@@ -56,4 +62,4 @@ kami.editx, ketaneditss, podwithshree.co, kevin_jeppesen, thevibes_films, jkiril
 
 dubweathers, chasobands (already DMed), toddpritch, kingketo, houstonkold, pierree, nate.gedion, smartpeakx, joeyholka, shawnsharma (2.7M too big), unclehut_official (Thai), aibybrenda, yusuf.alzubaidy (Arabic), waynecreator, coach_islom
 
-*Last updated: March 4, 2026*
+*Last updated: March 7, 2026*

@@ -7,7 +7,7 @@
 |-|-|-|
 | Background Music Library | NEEDS URL - find in ManyChat (keyword: "Music") | Missing |
 | Content OS Template | https://www.notion.so/creator-economy/Content-OS-Template-2f0f65855e6b809e9974e058c812a76e?source=instagram | Verified |
-| Viral Hook Library 2.0 | NEEDS URL - find in ManyChat (keyword: "Hook") | Missing |
+| Viral Hook Library 2.0 | https://www.notion.so/creator-economy/Viral-Hook-Library-2-0-2a7f65855e6b80cbb460c7e6b4bdb8f8?source=copy_link | Verified |
 | Late Scheduling Software | https://getlate.dev | Verified |
 | ManyChat Guide | NEEDS URL - find in ManyChat | Missing |
 | Free Sauce Page | NEEDS URL - find in ManyChat | Missing |
@@ -19,6 +19,6 @@
 | Content Creator University (Skool) | https://www.skool.com/internet-money-central-9086 | Verified |
 | Calendly (Research Call) | https://calendly.com/jason-creatoreconomy/30m-1-1-meeting | Verified |
 
-> ACTION NEEDED: Next ManyChat session, pull URLs from automation messages for all "Missing" entries above.
+> ACTION NEEDED: Next ManyChat session, pull URLs from automation messages for all 6 remaining "Missing" entries above.
 
-*Last updated: March 6, 2026*
+*Last updated: March 7, 2026*

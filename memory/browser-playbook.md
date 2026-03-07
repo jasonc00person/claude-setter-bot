@@ -171,6 +171,9 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 ### Transcribing with Whisper
 - **BEST:** `export PATH="$PATH:/c/Users/jason/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.0.1-full_build/bin" && python -m whisper /tmp/file.mp4 --model base --language en --output_format txt --output_dir /tmp`
 - **TRAP:** Don't use bare `whisper` command — use `python -m whisper`. ffmpeg must be on PATH or Whisper will fail with FileNotFoundError.
+- **Cleanup:** `rm /tmp/leadname_voice_*.mp4 /tmp/leadname_voice_*.txt`
+- **When to use:** Lead sends voice note (shows as "Unsupported message type" in ManyChat or audio player in conversation)
+- **Full detailed process with troubleshooting:** See `memory/voice-message-process.md`
 
 ---
 
@@ -219,37 +222,10 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 
 ---
 
-## Session 17 Self-Audit (March 5)
+## Key Lessons from Past Sessions (Condensed)
 
-### New patterns learned:
-- **ManyChat "Follower" entries are automation events**, not real messages. They show as blue dots but aren't actual replies. Don't treat them as actionable.
-- **ManyChat Contacts tab search > Inbox search** for finding people by name. Inbox search for "Fortune" only returned "Faceless Fortune" (wrong person). Contacts tab returned all 3 Fortune-related contacts including the right one.
-- **ManyChat channel expiration fallback**: When the 24h live chat window expires, ManyChat shows "This channel is not available for communication." Switch to IG native DMs: search their name in IG DM search, open convo, send from there.
-
-### Wasted clicks this session:
-- Clicked "All Channels History" on Fortune's profile thinking it would load conversation — it didn't do anything visible. The conversation loaded when I clicked the Instagram channel button instead.
-- Tried scrolling in Fortune's empty chat panel before clicking the Instagram channel label — the conversation only loads after selecting the channel.
-
-### Efficiency wins:
-- Used Contacts tab to find Fortune when inbox search failed — saved several retry attempts
-- Used `find` tool + ref for ManyChat buttons — consistent and reliable vs coordinate guessing
-- Used Unread filter to quickly audit the entire inbox for missed blue dots
-
----
-
-## Session 11 Self-Audit (March 5)
-
-### New patterns learned:
-- **MUST scan full sidebar for blue dots BEFORE working sequentially.** Missed Ferhat's reply because I was working top-to-bottom and didn't notice his blue dot appearing mid-session. Jason called this out.
-- **Contacts tab search is essential** for finding leads by name — Inbox search for "Ferhat" returned "No results" because inbox search only matches message content, not contact names. Contacts tab found him immediately.
-- **ManyChat keyword triggers showing in recent conversations are NOT real replies.** "Follower", "Music", "Automate", "YT" etc. in the conversation preview = automation event, not actionable human message.
-- **Don't manually send lead magnet links.** Jason flagged the BGM Library link was wrong. Wait for link database.
-
-### Wasted clicks this session:
-- Clicked * (kyrie._.richh) twice by mistake — the conversation list position shifted between scrolls
-- Tried clicking x on "Qualified" tag for ÀDÌSÀ — first click didn't register, needed `find` tool to get the ref for the remove button
-
-### Efficiency wins:
-- Used Contacts tab immediately for Ferhat search when inbox search failed
-- Handled ÀDÌSÀ's Calendly flow cleanly: reply → send link → remove Qualified tag → add Booking Link Sent tag
-- Quickly identified pitchers (Lupa Ai, Dawit Kassahun, Abdou-Salam) and non-English (adire) without wasting time
+- **ManyChat "Follower" entries are automation events**, not real messages. Blue dots but not actionable.
+- **ManyChat channel expiration fallback**: "This channel is not available for communication" = 24h window expired. Switch to IG native DMs.
+- **MUST scan full sidebar for blue dots BEFORE working sequentially.** Don't go top-to-bottom without checking for new replies first.
+- **ManyChat keyword triggers in conversation previews are NOT real replies.** "Follower", "Music", "Automate", "YT" etc. = automation event.
+- **Don't manually send lead magnet links from memory.** Find correct URLs from existing automation messages or `memory/lead-magnets.md`.

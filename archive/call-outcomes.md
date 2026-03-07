@@ -7,6 +7,7 @@
 
 | Lead | Handle/Profile | Platform | Outcome | Notes |
 |-|-|-|-|-|
+| CFong | cfongofficial | IG (Notifications) | Very qualified, network objection | Jason's friend from college. Experienced biz owner, beginner at content/coaching. Main objection: wants to be in a network of killers printing $20-50K/mo from content + coaching. Network is the #1 thing for him. Re-engage when program has strong members to showcase |
 | Pablo Simancas | [Skool](https://www.skool.com/@pablo-simancas-6385) | Skool (CA) | 100% qualified | "Social Media Genius," NY. CA ($80/mo). chromegoat.com |
 | Saharat Raksanoh | [Skool](https://www.skool.com/@saharat-raksanoh-7834) | Skool (CA) | 100% qualified | Online Fitness Coach. $67/mo CA member since Aug 2025. Also in CCU, The Modern Man, Mitt Media, PTBI, ArtFx Videography |
 | Ayden Lum | -- | Direct | Definitely qualified | Follow up when new offer ready |

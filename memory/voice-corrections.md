@@ -35,4 +35,38 @@
 
 ---
 
+## Correction 2: Luke Anning (Mar 7, 2026)
+
+**Context:** Luke (iamlukeanning, 9.5K, The Anti Sabotage Coach) followed Jason. ManyChat auto-DM fired immediately offering free resources. Luke replied "Yes, send it over!" and got the link. ManyChat sent a follow-up nudge 30 min later. Then 40 min after that, the bot sent a personal Stage 1 opener offering the Viral Hook Library.
+
+**What was sent:**
+> yoo Luke! just came across ur page, the anti sabotage angle for entrepreneurs is so fire
+> i actually put together a viral hook library that a lot of coaches have been using to blow up their reels, want me to send it over?
+
+**Luke's reply:**
+> Nah I'm good for hooks
+
+**What should have been sent instead:**
+> yoo Luke! just came across ur page, the anti sabotage angle for entrepreneurs is so fire
+> how'd u get into that niche?
+
+### What went wrong
+
+1. **Offered a second lead magnet right after ManyChat already delivered one.** Luke had just said "Yes, send it over!" to the auto-DM 40 minutes prior. Getting another "want me to send it over?" felt like a second automated pitch, not a genuine conversation.
+
+2. **Resource fatigue.** From his perspective: follow → auto-DM free stuff → nudge to tap the link → another free offer. That's 4 messages pushing resources in under an hour. He was done.
+
+3. **"want me to send it over?" pattern repeated.** The exact same ask he'd already answered. Made the personal message feel automated too.
+
+4. **The compliment was good, the pivot was wrong.** "the anti sabotage angle for entrepreneurs is so fire" was a solid, specific opener. Should have followed with curiosity about HIS work, not another offer.
+
+### Rules extracted
+
+- **Check for ManyChat auto-DM history before sending a personal opener.** If the lead already received and engaged with an auto-DM the same day, DO NOT offer another lead magnet. Lead with pure conversation instead.
+- **After an auto-DM already fired: compliment + curiosity question only.** "how'd u get into that?" / "what made u start that?" / "how long u been doing that?"
+- **Never use "want me to send it over?" if they already responded to that exact prompt from ManyChat.** It reveals the disconnect between automated and personal messages.
+- **One lead magnet per first interaction.** If ManyChat already gave them something, the personal opener's job is conversation, not more resources.
+
+---
+
 *Add new corrections below as they happen. Each one makes the voice more accurate.*

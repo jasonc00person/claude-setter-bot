@@ -15,7 +15,9 @@ This is a **business operations system** for Jason Cooperson (@jasoncooperson), 
 - **memory/** — Persistent memory files (browser playbook, MEMORY.md).
 - **session-logs/** — Archived session logs by date (e.g., `2026-03-04.md`).
 - **reports/** — Session summary reports (e.g., `ig-outreach-march-4-2026.md`).
-- **archive/** — Disqualified leads (`disqualified.md`) and skipped leads (`skipped.md`).
+- **archive/** — Disqualified leads (`disqualified.md`), skipped leads (`skipped.md`), and call outcomes (`call-outcomes.md`).
+- **memory/pipeline-health.md** — Conversion metrics, funnel snapshot, win/loss patterns. Updated every session end.
+- **memory/voice-corrections.md** — Real-time Jason voice corrections. Highest-signal calibration data.
 
 ## DM Setting Framework (6-Stage Pipeline)
 
@@ -44,15 +46,19 @@ When writing any DM or message as Jason, follow `jason-dm-voice-guidelines.md` s
 - **Pressure removal**: Use "(no pitch)", "Otherwise best of luck brother!"
 - **Humor on unexpected moments**: When a lead does something unexpected, lean into humor before redirecting. Be human, not robotic.
 
-## Working with the Session Report
+## Working with Pipeline State
 
-The session report tracks leads across both Primary and General Instagram inboxes. When updating:
+`pipeline-state.md` tracks all leads across IG, ManyChat, and Skool. Structure:
 
-- Maintain the table format with Name, Handle, Lead Magnet, Notes, and Status columns
-- Always include the current pipeline stage in the Status field
-- Log new actions in the Session Log section with timestamps
-- Update the Priority Follow-ups section when lead statuses change
-- Track lead magnet usage counts in the Lead Magnets Referenced table
+- **Hot Leads** (Stage 5-6): Lead, Handle, Platform, Stage, Notes
+- **Qualifying** (Stage 3-4): Same columns
+- **Stage 2** (AV sent): Lead, Handle, Platform, Notes
+- **Stage 1** (Opener sent): Compact lists by inbox/source
+- **Skool CA backlog**: Full list in `memory/skool-ca-backlog.md`, only active members in pipeline
+- **Priority Follow-ups**: What to check next session
+- **Flagged for Jason**: Items needing personal attention
+- **Calendly Schedule**: Completed, Upcoming, Awaiting Booking
+- **Pipeline Metrics**: Stage counts, updated each session
 
 ## Lead Magnets
 
@@ -75,14 +81,24 @@ Common value assets referenced in outreach: Background Music Library, Content OS
    - Verify "Last updated" date on pipeline-state.md. If stale (>1 day), flag it.
    - Check for any leads stuck in "Awaiting Booking" for 3+ days and flag for nudge
    - Check `objection-handling.md` deadlines (April 3 market research reframe)
+   - **Zombie check:** Scan Hot Leads and Qualifying tables for anyone who also appears in `archive/disqualified.md` or `archive/call-outcomes.md` (Unqualified section). Remove duplicates from pipeline.
+   - **Stale lead archival:** Stage 2 leads with no reply for 5+ days should be flagged for archival. Stage 1 openers with no reply for 7+ days can be moved to "Old Openers -- No Reply (Stale)".
+   - **Flagged cleanup:** Review "Flagged for Jason" section. If any flags are >3 sessions old and unresolved, re-flag with urgency marker or ask Jason directly.
 5. Read `memory/browser-playbook.md` to load learned browser patterns
 6. Proceed to DM session workflow
 
 ### Session End
 1. Final pipeline-state.md update
-2. Add session log entry to `session-logs/`
-3. Update `memory/browser-playbook.md` with any new patterns
-4. **Commit all changed files and push to GitHub** — commit message: "Session [#] — [date] — [brief summary]"
+2. Update **Priority Follow-ups** section in pipeline-state.md with next-session action items
+3. Add session log entry to `session-logs/`
+4. Update `memory/browser-playbook.md` with any new patterns
+5. **Self-improvement updates:**
+   - If Jason corrected any DM copy, add the correction to `memory/voice-corrections.md` immediately
+   - Update `memory/pipeline-health.md` with current funnel counts and any new win/loss patterns
+   - If any lead magnet URL was discovered, update `memory/lead-magnets.md`
+   - Remove resolved items from "Flagged for Jason" section
+   - Remove zombie/strikethrough rows that were cleaned up this session
+6. **Commit all changed files and push to GitHub** — commit message: "Session [#] — [date] — [brief summary]"
 
 This keeps the repo in sync across machines and sessions. GitHub is the host, the markdown files are the application.
 
@@ -129,6 +145,7 @@ When opening a conversation, determine the action:
 | Lead replied in non-English | Skip — log as "non-English" |
 | Lead is pitching their services | Skip — log as "pitching their services" |
 | New follower or story reply | Treat as new Stage 1 opportunity (see New Lead Handling below) |
+| Lead already received ManyChat auto-DM today | Do NOT offer another lead magnet. Open with compliment + curiosity question about their page/niche instead. One lead magnet per first interaction. |
 
 ### Stage Advancement Rules
 
@@ -277,6 +294,35 @@ When Claude encounters something that needs Jason's direct input (detected autom
 ### Key Wins
 * [Win description]
 ```
+
+---
+
+## Self-Healing & Self-Improving Rules
+
+The system gets better every session. These rules ensure it.
+
+### Pipeline Integrity (Every Session Start)
+1. **Cross-reference check:** No lead should exist in both active pipeline AND disqualified.md/call-outcomes.md (Unqualified). If found, remove from pipeline.
+2. **Geo filter enforcement:** Any lead with notes indicating India, South Asia, Africa, South America (outside target geos) should be moved to disqualified.md if still in pipeline.
+3. **Stage 2 decay:** Leads sitting at Stage 2 (AV sent) for 5+ days with no reply get flagged for archival. After 10 days, move to "Old Openers -- No Reply (Stale)".
+4. **Awaiting Booking decay:** Leads with "Calendly sent" for 5+ days get a nudge flag in Priority Follow-ups. After 10 days with no booking, move to "Stale - Calendly Never Booked" in the appropriate archive.
+5. **Completed Calls cleanup:** After Jason fills in call outcomes, move leads from Hot Leads to `archive/call-outcomes.md` (Re-Engage or Unqualified sections).
+
+### Voice Improvement (Every Session)
+1. **Log every correction.** When Jason corrects a DM or shows how he'd say something, immediately add it to `memory/voice-corrections.md` with full context.
+2. **Pattern extraction.** After 3+ corrections with a similar pattern, add a new rule to `jason-dm-voice-guidelines.md`.
+3. **Anti-pattern tracking.** If the bot makes the same mistake twice (e.g., "ok so" opener, summarizing instead of reacting), add it to the "Things Jason NEVER Does" section in voice guidelines.
+
+### Conversion Tracking (Every Session End)
+1. Update `memory/pipeline-health.md` with current stage counts.
+2. Note any new win patterns (what made a lead book?) or loss patterns (what caused drop-off?).
+3. Track which lead magnets led to the most bookings.
+4. If call outcomes are filled in, calculate show rate and close rate.
+
+### Flagged Items Lifecycle
+1. New flags get added with date and context.
+2. After 3 sessions unresolved, escalate with "URGENT" prefix.
+3. After 5 sessions, either resolve or archive with "Jason chose not to act" note.
 
 ---
 

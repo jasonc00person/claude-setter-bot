@@ -22,7 +22,6 @@
 | Vyceheart | vyce_heart | Unqualified per Jason | Unqualified |
 | Harsh Surana | harsh.1806 | Unqualified per Jason | Unqualified |
 | Damien Fraser | dame.fra | 0 posts, 524 followers, bio = Bible verse. No offer/brand | Unqualified |
-| Austin Besong | austinbesong | 0 posts, 26 followers, empty account | Unqualified |
 | Abdullahi Abdulkadir | @abdullahi | Lagos, Nigeria. FAILS GEO FILTER | Unqualified |
 | Abhiwak Tiwari | heyabhiwak | India. FAILS GEO FILTER | Unqualified |
 | Sushanta Biswas | su.shent | India. FAILS GEO FILTER | Unqualified |
@@ -57,3 +56,16 @@
 | Alessio Sion | alessiosion_ | Already has someone helping. Soft exit | Unqualified |
 | Ava Mistruzzi | avamistruzzi | Jason's friend. Should never have been messaged | Friend |
 | Lokesh Loki | @lokesh-loki-4052 | Calcutta, India. FAILS GEO FILTER | Unqualified |
+| NISARG | nisarg.png | India. No-showed/cancelled call. Not ICP | Unqualified |
+| Zyed | zyedmulla_40 | Cancelled call. Not on GCal | Unqualified |
+| Deejay Virat | -- | India. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Mikhail Nadeson | -- | Johannesburg, South Africa. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Param Jani | -- | Calcutta, India. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Suresh Malani | -- | Calcutta, India. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Affan Baig | -- | Karachi, Pakistan. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Chris Mouton | -- | Johannesburg, South Africa. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Pedro Valerio | -- | Sao Paulo, Brazil. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Marcos Rouby | -- | Buenos Aires, Argentina. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Valentina Cardona | -- | Medellin, Colombia. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Mehdi Asry | -- | Morocco. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Valentijn Wiering | valentijnwiering | Student, no gear, saving for camera, not monetizing. Graceful exit sent | Unqualified |

@@ -4,6 +4,11 @@
 # MCP tools
 tools/whisper-mcp/node_modules/
 
+# Temp files from voice transcription
+/tmp/
+*.mp4
+*.wav
+
 # OS files
 Thumbs.db
 .DS_Store
