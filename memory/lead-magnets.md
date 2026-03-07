@@ -10,7 +10,7 @@
 | Viral Hook Library 2.0 | https://www.notion.so/creator-economy/Viral-Hook-Library-2-0-2a7f65855e6b80cbb460c7e6b4bdb8f8?source=copy_link | Verified |
 | Late Scheduling Software | https://getlate.dev | Verified |
 | ManyChat Guide | NEEDS URL - find in ManyChat | Missing |
-| Free Sauce Page | NEEDS URL - find in ManyChat | Missing |
+| Free Sauce Page | https://www.notion.so/creator-economy/Free-Sauce-2a7f65855e6b80a6abe2f19f0a8aa518?source=copy_link | Verified |
 | AI Thumbnail Guide | NEEDS URL - find in ManyChat | Missing |
 | Instagram OS Overview | NEEDS URL - find in ManyChat | Missing |
 | YouTube OS | NEEDS URL - find in ManyChat (keyword: "YT") | Missing |

@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 7, 2026 (ManyChat session 29 - checkpoint 2)
+**Last updated:** March 7, 2026 (Skool session 30 - checkpoint 1)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md`
 
@@ -82,6 +82,7 @@
 | Collin Bexten | @collin-bexten-8010 | Skool (CA) | 3 - Permission sent | Social media + UGC background, wants to restart personal brand, not just "entertainment followers." NY. Positive AV. Permission to qualify sent Mar 7 |
 | Vicetoc | vicetoc | IG (ManyChat) | 3 - Permission sent | Designer. BGM Library delivered. AV positive. Permission sent Mar 7 |
 | Marko Kaufmann | marko_kaufmann | IG (ManyChat) | 3 - Permission sent | 1K verified, Founder Performance Systems, Europe. Starting fresh with content. Asked if we have clients in similar niche. Answered + permission sent Mar 7 |
+| Mateja Proucil | @mateja-proucil-7365 | Skool (CA) | 3 - Permission sent | Osijek, Croatia. Content systems for clients on IG/YT. Solo, 15hr days, inconsistent with own content. Validated + permission sent Mar 7 |
 
 ## Stage 2 — AV Sent
 
@@ -128,6 +129,7 @@
 | Nicole M | @nicole-m-7845 | Skool (Free) | Business Coach, helps women start online course + membership biz. US |
 | Joss Tm | -- | Skool (CA) | Photo/video creator, LA, $80/mo, churning in 9 days. Re-engaged + AV sent |
 | Matt Pham | @matt-pham-3833 | Skool (CA) | Melbourne. Content SOP work for clients. Shared Claude Skills link + AV sent Mar 6. JASON HANDLING PERSONALLY (disclosed setter) |
+| Jaylen Rodriguez | @jaylen-rodriguez-1182 | Skool (CA) | NYC. Making videos for client using CA content. Asked about b-roll, pointed to classroom. AV sent Mar 7 |
 
 ---
 
@@ -168,7 +170,7 @@ Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores 
 | Visar Fetahi | Albania | Free/Lifetime | Peer chat, not prospect |
 | Charles Osborne | LA | Free/Lifetime | Real Estate Agent/Investor |
 | Auky Z | LA | Free/Lifetime | Fitness coach, men's fat loss |
-| Liam Larsson | Stockholm | Free/Lifetime | Founder Swedish Crown |
+| Liam Larsson | Stockholm | Free/Lifetime | No longer content agency, works as editor. Music duo "LIL SD" on TikTok, 2.5M viral vid in 1 month. Validated + asked about monetization plans Mar 7. Stage 2 |
 | Nick Warrior | NY | Free/Lifetime | Delegation/business coach. Detected AI, Jason disclosed. Replied: pivoting from agency to coaching biz owners on team management. Validated + AV question sent Mar 7. Stage 2 |
 | Luke Dobson | Scottsdale AZ | Free/Lifetime | CEO Instaclose, IG client acquisition |
 | Grant Owen | NY | Free/Lifetime | CEO Integrity Media. Had Calendly sent Nov 2024, never booked |
@@ -269,8 +271,10 @@ Rishabh Kathuria, Aditya Awhad, i6leeeem, AJ (ajax_pixels), Nadav Ben Ezra, jeet
 - Mon Mar 9, 10:00am PT: Kunal Jiwani (Skool CA, ScaleUp Media, YT funnels)
 - Mon Mar 9, 1:00pm PT: Cristiano Capasso (Skool CA, digital marketing, Rome)
 - Tue Mar 10, 10:00am PT: Louis / 333 (lo.33u, IG ManyChat — NEWLY BOOKED)
+- Tue Mar 10, 8:00am PT: Austin Besong (NEW - not in pipeline, "insights about potential client" RENESO CEO)
 - Tue Mar 10, 2:15pm PT: Aaron Harun Guner (Skool CA, men's coach, KL)
 - Tue Mar 10, 3:00pm PT: Shlomo Einhorn (Skool Free, Mallacore + Shpait.AI, LA)
+- Wed Mar 11, 10:00am PT: CeCe (NEW - not in pipeline, sweetluv88@yahoo.com)
 
 ### Awaiting Booking
 Melvin Zhou, Frederik, YGY (after Mar 10), Anish Gautam, Jess Cervellon (out of town), Neex Edits, ADISA, Cierre Jones, Pat Divilly (90K, high value), MotiVee (free from 15th), Maya Bonham Carter Films (traveling ~1.5 weeks), Yared Abraham (rescheduling), Ash (fitherover40, NZ, busy w/ kids), Giancarlo Kerg (sent Mar 7), Abdulwahab8 (sent Mar 7)

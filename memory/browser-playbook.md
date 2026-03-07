@@ -17,6 +17,7 @@
 
 ### Searching for a contact by name
 - **BEST:** Use the **Contacts tab** (`/fb792681/subscribers`) — NOT the Inbox search. The Inbox search only finds conversations by message content, not by contact name. Contacts tab has a proper name search.
+- **NAVIGATE TO CHAT:** After finding the contact in Contacts tab, copy their subscriber ID from the URL (`/subscribers/{contactID}`), then navigate to `https://app.manychat.com/fb792681/chat/{contactID}` to open their chat directly.
 - **TRAP:** Searching in Inbox for a name returns loose matches on message content, not the contact. Always use Contacts tab to locate people.
 
 ### Finding unread replies (blue dots)
