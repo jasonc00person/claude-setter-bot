@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 6, 2026 (IG Notifications session 24 - checkpoint 1)
+**Last updated:** March 6, 2026 (ManyChat session 26 - checkpoint 1)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -41,6 +41,7 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | ADISA | adisatherealtor | IG (ManyChat) | 6 - Calendly sent | Real estate. Needs content + ads. Willing to invest |
 | 333 | lo.33u | IG (ManyChat) | 5 - Calendly sent | Shorts channel, personal brand/vlogs. Fully qualified. AI disclosed. Calendly sent, said "Foohsure". Tag: Booking Link Sent |
 | MotiVee | __motivee__ | IG (ManyChat) | 5 - Calendly sent | Motivational brand. Fully qualified. Calendly sent. Free starting from the 15th, will book then. "Thank you in advance". Tag: Booking Link Sent |
+| Ash | fitherover40 | IG (ManyChat) | 5 - Calendly sent | Fitness Coach Women 40+, Auckland NZ. Qualified. Bridge accepted. Addressed timezone + video Qs. Calendly sent Mar 6. Tag: Booking Link Sent |
 | Maya Bonham Carter Films | mayabcfilms | IG (ManyChat) | 5 - Calendly sent | Filmmaker, 12k from one offer. Qualified. Bridge accepted. Calendly sent. Traveling, will book when back (~1.5 weeks). Tag: Booking Link Sent |
 | Albin Banatskiy | -- | IG | 6 - No Show | Was Fri Mar 6, 1pm PT. No-showed. FLAGGED |
 | Cristiano Capasso | -- | Skool (CA) | 6 - Call Booked | Mon Mar 9, 1-1:30pm PT. Digital marketing, personal brand + info-business. Rome. Previously said "not ready" but booked! |
@@ -56,7 +57,6 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Joshua Lu | joshua_dalu | IG (General) | 5 - Bridge sent | Web agency. Awaiting reply |
 | Akshat Khatri | hustlewithaksht | IG (ManyChat) | 4 - Q2 sent | Content marketing. Wants more high ticket clients |
 | Brandon Long | brandon_long_growth | IG (ManyChat) | 3 - Permission sent | Growth marketing. Local business owners via IG |
-| Ash | fitherover40 | IG (Notifications) | 5 - Bridge sent | Fitness Coach Women 40+. Q1: Visibility. Q2: Knowing what to post. Q3: answered. Buying signal ("Do you have something to help?"). Bridge sent. Tag: Qualified |
 | Pat Gostek | @patryk-gostek-7292 | Skool (Free) | 4 - Q2 sent | YouTube Strategist, NY. Q2 sent (biggest challenge) |
 | Fortune | fortunedreyy_ | IG (Notifications) | 3 - Permission sent | Video Editor (geo unverified) |
 | thrustonbenny | thrustonbenny | IG (Notifications) | 3 - Permission sent | DP & Creative Director (geo unverified) |
@@ -85,6 +85,9 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Brandon Brazeau | officialbrandonbrazeau | IG (ManyChat) | 4 - Q1 sent | 318, verified, affiliate marketing coach. Permission granted ("fire away"). Q1 sent. Tag: In Conversation |
 | shaun | shaungfx | IG (ManyChat) | Disqualified | Negative AV. Graceful exit sent. Tag: Unqualified |
 | Denys Kotov | kotovdeny | IG (ManyChat) | 4 - Q3 sent | 98K AI/tech content creator. Q1: IG as TOF to YT for consulting biz. Q2: Getting 5-10k targeted views. Asked about AI, disclosed Claude. Q3 re-asked. Tag: In Conversation |
+| Jean-Paul Gonios | jp.gonios | IG (ManyChat) | Disqualified | 1.9K, helps fitness coaches scale 10-30k/mo. $15-20K/mo without posting. All 3 Qs answered. Declined call - working with mentor. Graceful exit sent. Tag: Unqualified |
+| Colin LeMaire | c3maire | IG (ManyChat) | 3 - Permission sent | 6.6K. Starting SEO agency, content production "high effort low reward", frustrated w/ GHL. Positive AV. Permission sent Mar 6 |
+| Saïd-Azzam Righy | said.azzam.rg | IG (ManyChat) | 4 - Q1 sent | Creator ecosystem strategist. Attention-to-lead-to-sales pipelines. Positive AV. Permission granted. Q1 sent Mar 6. Geo TBD. Tag: In Conversation |
 
 ---
 
@@ -117,7 +120,7 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Vinay | vnay_vfx | IG (ManyChat) | Video editor |
 | Hamza Navid | thehamzanavid | IG (Notifications) | 57.5K, Biz Coach |
 | Anthony Rivera | anthonyriverafit | IG (Notifications) | 1.9K, Fitness Trainer (Christian men). Personal follow-up + AV sent Mar 6 |
-| Jean-Paul Gonios | jp.gonios | IG (Notifications) | 1.9K, helps fitness coaches scale 10-30k/mo. Personal follow-up + AV sent Mar 6 |
+| Jean-Paul Gonios | jp.gonios | IG (Notifications) | 1.9K, helps fitness coaches scale 10-30k/mo. Positive AV, has a mentor. MOVED to Qualifying |
 | Christian Kadivec | kadivechristian | IG (Notifications) | 657, helps creators monetize w/ high ticket offers. 300-500k/mo portfolio. Europe. AV sent (ManyChat auto), seen 51m ago |
 | Botero | notbotero | IG (Notifications) | 4.5K, Marketing/AI |
 | Anmol | anmoll_4_real | IG (ManyChat) | BGM Library |
@@ -148,10 +151,15 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Eddy Ballesteros | eddyballe | IG (ManyChat) | Story reply + Skills keyword. Claude Skills auto-delivered. Personal AV sent |
 | Betsuu | betsuu.mp4 | IG (ManyChat) | Reel comment + Skill keyword. Claude Skills auto-delivered. Personal AV sent |
 | Gianluca Piovani | glc.pvn | IG (ManyChat) | Skill keyword. Claude Skills delivered. Personal follow-up + AV sent |
+| Edmund \| AI | whatelz.ai | IG (ManyChat) | Skills keyword. Claude Skills delivered. Personal follow-up + AV sent |
+| -Kevin | kevin.hckl | IG (ManyChat) | Skills keyword. Claude Skills delivered. Personal follow-up + AV sent |
+| Saïd-Azzam Righy | said.azzam.rg | IG (ManyChat) | Story reply. Creator ecosystem strategist. Positive AV. MOVED to Qualifying |
+| Colin LeMaire | c3maire | IG (ManyChat) | 6.6K. SEO agency, content production struggle. Positive AV. MOVED to Qualifying |
 | Bryan Valverde | bryannvalverde | IG (ManyChat) | Rev Ops & AI Infrastructure. Skills keyword. Claude Skills delivered. AV sent |
 | Muse | soft_high_maintenance_ | IG (ManyChat) | UHNW exclusive membership service. Skills keyword. Claude Skills delivered. AV sent |
-| Diego Vetencourt | diego.vetencourt | IG (ManyChat) | Story reply ("I love this ai version of your offer"). Personal follow-up + AV sent |
+| Diego Vetencourt | diego.vetencourt | IG (ManyChat) | Story reply. Says he's a Skool member. Validated + asked about progress. AV re-engaged |
 | Isaac Hussain | isaachassanhussain | IG (ManyChat) | Story reply "Skills". AV sent. Negative AV ("sorry I'm good"). Graceful exit sent. Disqualified |
+| Jota | jotaescalona | IG (ManyChat) | Skill keyword. Claude Skills delivered + tapped link. Personal follow-up + AV sent |
 
 ## Stage 2 -- AV Sent (Skool)
 
@@ -162,6 +170,7 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Collin Bexten | @collin-bexten-8010 | Skool (CA) | Social media + UGC career, wants to restart personal brand. NY |
 | Nicole M | @nicole-m-7845 | Skool (Free) | Business Coach, helps women start online course + membership biz. US |
 | Joss Tm | -- | Skool (CA) | Photo/video creator, LA, $80/mo, churning in 9 days. Re-engaged + AV sent |
+| Matt Pham | @matt-pham-3833 | Skool (CA) | Melbourne. Content SOP work for clients. Shared Claude Skills link + AV sent Mar 6 |
 
 ---
 
@@ -174,7 +183,7 @@ Daniel BR (dbr.live), Max Jones (m0xjon3s), Toby J (toby.ai.guy), Brian Glusovic
 AminEvan (aminevan66), iam_alba22, Leo (leocorex -- VOICE MSGS NEED REVIEW), SHANDA SUMPTER (shandasumpter), Panha (kach25558), Dan (dan.videoedits), Gerry Mannion (gerrymannion), Szymon Markowski (szymoneq08), KRISH (krisshh.11), robthebank.daily, Adam Hafner (adam.hafner)
 
 ### IG Notification Outreach
-Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Dev (76K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), gigahurtz.dj (584K verified DJ), c3maire (Colin LeMaire 6.6K), rollwithrobbe (Robbe 6.5K), ryanbenoir (Ryan Benoir 9.5K), im_alex_leon (Alex Leon 1K -- REPLIED "Please do send!"), officialmichaelhudson (Michael Lewis Hudson 2.8K, strong ICP), birthtoolbox (Alice Turner 6.4K, Seattle), Ondrej Soldan (ondra_soldan 484, filmmaker & digital marketer, Czech/Europe -- opener sent Mar 6)
+Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Dev (76K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), gigahurtz.dj (584K verified DJ), rollwithrobbe (Robbe 6.5K), ryanbenoir (Ryan Benoir 9.5K), im_alex_leon (Alex Leon 1K -- REPLIED "Please do send!"), officialmichaelhudson (Michael Lewis Hudson 2.8K, strong ICP), birthtoolbox (Alice Turner 6.4K, Seattle), Ondrej Soldan (ondra_soldan 484, filmmaker & digital marketer, Czech/Europe -- opener sent Mar 6)
 
 ### Skool -- CA (Paid Group)
 
@@ -317,10 +326,12 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 - **Alex Walsh (@alexwalsh)** -- Detected bot, wants to catch up. Chicago. Free tier. Friend?
 - **Vyceheart (Clem)** -- Disqualified after call, but messaging about reschedule. Still has Call Booked tag. Decide.
 - **voice ai (voiceai.web)** -- Paid sponsorship inquiry. "Any updates?" Respond if interested.
+- **Antonio Guerrieri (tonyybakes)** -- Previously disqualified. Sent 2 voice messages (0:35 + 0:42). Jason needs to listen.
 - **Aurelie Couble (musicbyplv)** -- Called out Dan Martell framework. Stage 5.
 - **Abhiwak Tiwari (heyabhiwak)** -- Call Booked tag, asking "Our call???" and "Ehyyy???" Handle personally.
 - **Unknown Contact (1505372544)** -- VOICE MESSAGES: sent 2 voice notes (0:08 + 0:10) + "It's like that sometimes". Call Booked. Jason needs to listen to voice notes.
 - **333 (lo.33u)** -- Sent a 0:19 voice note earlier in session. Jason needs to listen.
+- **Riley Brown (realrileybrown)** -- Pitching OpenClaw agents. Skipped.
 
 ---
 
@@ -352,7 +363,7 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 | Wed Mar 11, 10:00am | CeCe | Rescheduled from Mar 6. Identity unknown |
 
 ### Awaiting Booking
-Melvin Zhou, Frederik, YGY (after Mar 10), Anish Gautam, Jess Cervellon, Neex Edits, ADISA, Cierre Jones, Pat Divilly, 333 (lo.33u), MotiVee (free from 15th), Maya Bonham Carter Films (traveling ~1.5 weeks), Yared Abraham (rescheduling to next week)
+Melvin Zhou, Frederik, YGY (after Mar 10), Anish Gautam, Jess Cervellon, Neex Edits, ADISA, Cierre Jones, Pat Divilly, 333 (lo.33u), MotiVee (free from 15th), Maya Bonham Carter Films (traveling ~1.5 weeks), Yared Abraham (rescheduling to next week), Ash (fitherover40, Auckland NZ)
 
 ---
 
