@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 6, 2026 (ManyChat session 26 - checkpoint 1)
+**Last updated:** March 7, 2026 (ManyChat session 28 - checkpoint 2)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -32,7 +32,7 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Adam Ziak | [Skool](https://www.skool.com/@adam-ziak-5171) | Skool (CA) | 6 - Call Booked | SM agency, Iceland. BOOKED Mon Mar 9, 8am PT |
 | Kunal Jiwani | -- | Skool (CA) | 6 - Call Booked | CoFounder ScaleUp Media, YT video funnels. BOOKED Mon Mar 9, 10-10:30am PT |
 | Irfan Aziz | [@irfan-aziz-8298](https://www.skool.com/@irfan-aziz-8298) | Skool (CA) | 5 - Bridge sent | Family travel content + high-ticket coaching. London. $80/mo. Bridge sent Mar 6 |
-| Aaron Harun Guner | @harun-guner-1248 | Skool (CA) | 5 - Bridge sent | Men's coach, breakup->happiness niche. KL. Bridge sent Mar 6 |
+| Aaron Harun Guner | @harun-guner-1248 | Skool (CA) | 6 - Call Booked | Men's coach, breakup->happiness niche. KL. BOOKED Tue Mar 10, 2:15-2:45pm PT |
 | Zyed | zyedmulla_40 | IG (ManyChat) | 6 - POSSIBLE CANCELLATION | Was Mar 6 11:30am PT -- NOT on GCal. FLAGGED |
 | Aspen (Amrit Gill) | [IG @amritgill.me](https://instagram.com/amritgill.me) | IG (ManyChat) | 6 - Call Booked | Mon Mar 9, 9-9:30am PT. LA. Digital marketing agency startup |
 | Pat Divilly | -- | Skool (CA) | 6 - Calendly sent | Breathwork Teacher Trainer, Author. Galway Ireland. 90K IG |
@@ -41,7 +41,7 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | ADISA | adisatherealtor | IG (ManyChat) | 6 - Calendly sent | Real estate. Needs content + ads. Willing to invest |
 | 333 | lo.33u | IG (ManyChat) | 5 - Calendly sent | Shorts channel, personal brand/vlogs. Fully qualified. AI disclosed. Calendly sent, said "Foohsure". Tag: Booking Link Sent |
 | MotiVee | __motivee__ | IG (ManyChat) | 5 - Calendly sent | Motivational brand. Fully qualified. Calendly sent. Free starting from the 15th, will book then. "Thank you in advance". Tag: Booking Link Sent |
-| Ash | fitherover40 | IG (ManyChat) | 5 - Calendly sent | Fitness Coach Women 40+, Auckland NZ. Qualified. Bridge accepted. Addressed timezone + video Qs. Calendly sent Mar 6. Tag: Booking Link Sent |
+| Ash | fitherover40 | IG (ManyChat) | 5 - Calendly sent | Fitness Coach Women 40+, Auckland NZ. Qualified. Calendly sent Mar 6. Replied "Saturday, busy with kids, will look and revert." Sent "no rush" Mar 6. Tag: Booking Link Sent |
 | Maya Bonham Carter Films | mayabcfilms | IG (ManyChat) | 5 - Calendly sent | Filmmaker, 12k from one offer. Qualified. Bridge accepted. Calendly sent. Traveling, will book when back (~1.5 weeks). Tag: Booking Link Sent |
 | Albin Banatskiy | -- | IG | 6 - No Show | Was Fri Mar 6, 1pm PT. No-showed. FLAGGED |
 | Cristiano Capasso | -- | Skool (CA) | 6 - Call Booked | Mon Mar 9, 1-1:30pm PT. Digital marketing, personal brand + info-business. Rome. Previously said "not ready" but booked! |
@@ -78,16 +78,17 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Taki Wong | taki.gpt | IG (ManyChat) | 3 - Permission sent | AI Builder, 51K. FLAGGED: replied with unsupported msg type |
 | Roger Rodulfo | roger.rodulfo | IG (ManyChat) | 2 - In Conversation | Creative Director at commercial RE company. Interested in Skool |
 | Samson | bolu_visuals1 | IG (ManyChat) | 4 - Q1 sent | Video Editor & Strategist. Q1 sent |
-| AbdelAsb | abdel_insight | IG (ManyChat) | Disqualified | Video Editor. Native French speaker, can't do a call due to language barrier. Likely North African geo fail. Graceful exit. Tag: Unqualified |
 | dancercollege | thedancercollege | IG (ManyChat) | 3 - Permission sent | Content/Brand/Business Tips for Arts. Positive AV (making money since January). Permission sent. Tag: In Conversation |
 | Sebastien Perreault | sebastienperreault.15 | IG (ManyChat) | 3 - Permission sent | 25.5K. DFY clients, wants to coach athletes |
 | Jason Locklear | jasonlocklear_ | IG (ManyChat) | 3 - Permission sent | 517. Local Business Marketing. Wants to sell courses |
 | Brandon Brazeau | officialbrandonbrazeau | IG (ManyChat) | 4 - Q1 sent | 318, verified, affiliate marketing coach. Permission granted ("fire away"). Q1 sent. Tag: In Conversation |
-| shaun | shaungfx | IG (ManyChat) | Disqualified | Negative AV. Graceful exit sent. Tag: Unqualified |
 | Denys Kotov | kotovdeny | IG (ManyChat) | 4 - Q3 sent | 98K AI/tech content creator. Q1: IG as TOF to YT for consulting biz. Q2: Getting 5-10k targeted views. Asked about AI, disclosed Claude. Q3 re-asked. Tag: In Conversation |
-| Jean-Paul Gonios | jp.gonios | IG (ManyChat) | Disqualified | 1.9K, helps fitness coaches scale 10-30k/mo. $15-20K/mo without posting. All 3 Qs answered. Declined call - working with mentor. Graceful exit sent. Tag: Unqualified |
 | Colin LeMaire | c3maire | IG (ManyChat) | 3 - Permission sent | 6.6K. Starting SEO agency, content production "high effort low reward", frustrated w/ GHL. Positive AV. Permission sent Mar 6 |
-| Saïd-Azzam Righy | said.azzam.rg | IG (ManyChat) | 4 - Q1 sent | Creator ecosystem strategist. Attention-to-lead-to-sales pipelines. Positive AV. Permission granted. Q1 sent Mar 6. Geo TBD. Tag: In Conversation |
+| Saïd-Azzam Righy | said.azzam.rg | IG (ManyChat) | 4 - Q3 sent | Creator ecosystem strategist. Q1: attention -> lead -> revenue layer in creator ecosystems. Q2: infrastructure behind attention→revenue, not just another coaching play. Q3 sent Mar 7. Geo TBD. Tag: In Conversation |
+| Alkin Cakiralar | alkincakiralar | IG (ManyChat) | 4 - Q1 sent | App for women (plastic surgery visualization), running ads in Turkey only. Permission granted ("ask me anything"). Q1 sent Mar 7. Tag: In Conversation |
+| sachin | the.sachin.7 | IG (ManyChat) | 4 - Q1 sent | Claude Skills keyword. AV: "I just don't get anything" (not monetizing). Permission granted. Q1 sent Mar 7. Tag: In Conversation |
+| Nikhil Rana | nikkhil108 | IG (ManyChat) | 4 - Q1 sent | Music keyword. BGM Library delivered. AV: "Im lookingg" (looking to monetize). Permission: "Go ahead". Q1 sent Mar 7. Tag: In Conversation |
+| CRAXON | craxonhq | IG (ManyChat) | 3 - Permission sent | Inspiring Possibility Thinking brand. AV: "Looking forward to unlock that this year". Permission sent Mar 7. Brand account. Tag: In Conversation |
 
 ---
 
@@ -120,7 +121,6 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Vinay | vnay_vfx | IG (ManyChat) | Video editor |
 | Hamza Navid | thehamzanavid | IG (Notifications) | 57.5K, Biz Coach |
 | Anthony Rivera | anthonyriverafit | IG (Notifications) | 1.9K, Fitness Trainer (Christian men). Personal follow-up + AV sent Mar 6 |
-| Jean-Paul Gonios | jp.gonios | IG (Notifications) | 1.9K, helps fitness coaches scale 10-30k/mo. Positive AV, has a mentor. MOVED to Qualifying |
 | Christian Kadivec | kadivechristian | IG (Notifications) | 657, helps creators monetize w/ high ticket offers. 300-500k/mo portfolio. Europe. AV sent (ManyChat auto), seen 51m ago |
 | Botero | notbotero | IG (Notifications) | 4.5K, Marketing/AI |
 | Anmol | anmoll_4_real | IG (ManyChat) | BGM Library |
@@ -137,13 +137,10 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | John kenny | kenny.edithh | IG (ManyChat) | Video editor. Got BGM Library. AV sent |
 | Glenn Upgraded | glennupgraded | IG (ManyChat) | Content Creator / UGC / Filmmaker. Personal opener sent |
 | Sahil Mondal | the_sahilmondal | IG (ManyChat) | Music keyword. BGM Library delivered. AV sent |
-| Alkin Cakiralar | alkincakiralar | IG (ManyChat) | Skill keyword. Turkish name (geo TBD). AV sent |
 | Preditor_007 | preditor_007_ | IG (ManyChat) | Music keyword. Video editor. AV sent |
 | S | xo.sereeena | IG (ManyChat) | Music keyword. AV sent |
-| dancercollege | thedancercollege | IG (ManyChat) | Positive AV (making money since January). Moved to Qualifying |
 | Vicetoc | vicetoc | IG (ManyChat) | Designer. BGM Library delivered. AV sent |
 | bhumit | bhumit.exe | IG (ManyChat) | BGM Library link manually sent. AV sent |
-| Karishma | karishma_6766 | IG (ManyChat) | Content OS Template delivered. AV sent |
 | Marine | marine.prs | IG (ManyChat) | Story reply "Skills". Claude Skills delivered. Personal follow-up + AV sent |
 | sxhl_fx | sxhl_fx | IG (ManyChat) | Music keyword. BGM Library manually sent (button broken). AV sent |
 | Mr. Abdul Basit | basit_166 | IG (ManyChat) | Music keyword. BGM Library manually sent (button broken). AV sent. Geo TBD (likely South Asia) |
@@ -152,14 +149,16 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Betsuu | betsuu.mp4 | IG (ManyChat) | Reel comment + Skill keyword. Claude Skills auto-delivered. Personal AV sent |
 | Gianluca Piovani | glc.pvn | IG (ManyChat) | Skill keyword. Claude Skills delivered. Personal follow-up + AV sent |
 | Edmund \| AI | whatelz.ai | IG (ManyChat) | Skills keyword. Claude Skills delivered. Personal follow-up + AV sent |
-| -Kevin | kevin.hckl | IG (ManyChat) | Skills keyword. Claude Skills delivered. Personal follow-up + AV sent |
-| Saïd-Azzam Righy | said.azzam.rg | IG (ManyChat) | Story reply. Creator ecosystem strategist. Positive AV. MOVED to Qualifying |
-| Colin LeMaire | c3maire | IG (ManyChat) | 6.6K. SEO agency, content production struggle. Positive AV. MOVED to Qualifying |
+| -Kevin | kevin.hckl | IG (ManyChat) | FRIEND - skip always. Prompt injection attempt lol |
+| Tarek | tare9__ | IG (ManyChat) | Skills keyword. Claude Skills delivered. AV sent Mar 7 |
+| _aryanxcreates | _aryanxcreates | IG (ManyChat) | Music keyword. BGM Library delivered. DevSphere India (likely India geo). AV sent Mar 7 |
+| Şandor Daniel | sandordaniel16 | IG (ManyChat) | Skill keyword. Claude Skills delivered. AV sent Mar 7 |
+| Andrew Smith | andy.smith4uk | IG (ManyChat) | Story reply "Office hours". UK. Personal opener sent Mar 7. Stage 1 |
 | Bryan Valverde | bryannvalverde | IG (ManyChat) | Rev Ops & AI Infrastructure. Skills keyword. Claude Skills delivered. AV sent |
 | Muse | soft_high_maintenance_ | IG (ManyChat) | UHNW exclusive membership service. Skills keyword. Claude Skills delivered. AV sent |
 | Diego Vetencourt | diego.vetencourt | IG (ManyChat) | Story reply. Says he's a Skool member. Validated + asked about progress. AV re-engaged |
-| Isaac Hussain | isaachassanhussain | IG (ManyChat) | Story reply "Skills". AV sent. Negative AV ("sorry I'm good"). Graceful exit sent. Disqualified |
 | Jota | jotaescalona | IG (ManyChat) | Skill keyword. Claude Skills delivered + tapped link. Personal follow-up + AV sent |
+| Lewis | lewis.hindle1 | IG (ManyChat) | Advertising/Marketing, 24, @summitais. 676 followers. UK. Sent voice note + "Skills" keyword. Real reply "Hey Jason, How's your week been?" Replied asking about summitais. Stage 1 |
 
 ## Stage 2 -- AV Sent (Skool)
 
@@ -170,7 +169,7 @@ Jason is working on a **new offer** that isn't ready yet. When it launches, re-e
 | Collin Bexten | @collin-bexten-8010 | Skool (CA) | Social media + UGC career, wants to restart personal brand. NY |
 | Nicole M | @nicole-m-7845 | Skool (Free) | Business Coach, helps women start online course + membership biz. US |
 | Joss Tm | -- | Skool (CA) | Photo/video creator, LA, $80/mo, churning in 9 days. Re-engaged + AV sent |
-| Matt Pham | @matt-pham-3833 | Skool (CA) | Melbourne. Content SOP work for clients. Shared Claude Skills link + AV sent Mar 6 |
+| Matt Pham | @matt-pham-3833 | Skool (CA) | Melbourne. Content SOP work for clients. Shared Claude Skills link + AV sent Mar 6. JASON HANDLING PERSONALLY (disclosed setter) |
 
 ---
 
@@ -273,13 +272,11 @@ Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores 
 
 | Member | Location | Tier | Notes |
 |-|-|-|-|
-| Fahim Abrar | Portugal | $75/mo | Founder RevGen Digital |
 | Visar Fetahi | Albania | Free/Lifetime | Peer chat, not prospect |
 | Charles Osborne | LA | Free/Lifetime | Real Estate Agent/Investor |
-| Anthony Chestnut | Greater Boston | Free/Lifetime | Scaling NurtureFlow.ai |
 | Auky Z | LA | Free/Lifetime | Fitness coach, men's fat loss |
 | Liam Larsson | Stockholm | Free/Lifetime | Founder Swedish Crown |
-| Nick Warrior | NY | Free/Lifetime | Delegation/business coach |
+| Nick Warrior | NY | Free/Lifetime | Delegation/business coach. Detected AI, Jason disclosed. Follow-up sent asking about coaching vs agency. Stage 2 |
 | Luke Dobson | Scottsdale AZ | Free/Lifetime | CEO Instaclose, IG client acquisition |
 | Grant Owen | NY | Free/Lifetime | CEO Integrity Media. Had Calendly sent Nov 2024, never booked |
 | George Mobbs | London | Free | Helping musicians grow online |
@@ -332,6 +329,7 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 - **Unknown Contact (1505372544)** -- VOICE MESSAGES: sent 2 voice notes (0:08 + 0:10) + "It's like that sometimes". Call Booked. Jason needs to listen to voice notes.
 - **333 (lo.33u)** -- Sent a 0:19 voice note earlier in session. Jason needs to listen.
 - **Riley Brown (realrileybrown)** -- Pitching OpenClaw agents. Skipped.
+- **Ben Petersen (dr.benpetersen)** -- 161K verified, detected AI/setter. Sent 0:46 voice note. Interested in Skool. Jason needs to listen to voice note and handle personally.
 
 ---
 
@@ -359,6 +357,7 @@ Yash Chaturvedi, biggee, Will Link, osman, julius, HiCARTIER, Martin Weidmann, N
 | Mon Mar 9, 1:00pm | Cristiano Capasso | Skool CA, Rome. Previously said "not ready" but booked! |
 | Tue Mar 10, 8:00am | Austin Besong | FLAGGED -- was disqualified, booked anyway |
 | Tue Mar 10, 10:00am | Louis | NEW booking from GCal |
+| Tue Mar 10, 2:15pm | Aaron Harun Guner | Skool CA, KL. Men's coach |
 | Tue Mar 10, 3:00pm | Shlomo Einhorn | Skool Free, LA |
 | Wed Mar 11, 10:00am | CeCe | Rescheduled from Mar 6. Identity unknown |
 

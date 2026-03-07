@@ -9,6 +9,9 @@
 - Look for accounts that already received a lead magnet (ManyChat auto-delivered) when batch-opening. Quality > quantity.
 - Requests tab is last resort -- only when all quality leads are worked
 
+## Known Friends / Always Skip
+- **kevin.hckl** (-Kevin) -- Jason's friend, skip always
+
 ## Mistakes to Avoid (Learned from Experience)
 
 - **Don't overuse the fire emoji.** Vary reactions -- "that's sick", "love that", "honestly that's dope" etc.
