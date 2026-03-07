@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 7, 2026 (Skool session 30 - checkpoint 1)
+**Last updated:** March 7, 2026 (Skool session 30 - checkpoint 2)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md`
 
@@ -149,18 +149,14 @@ Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores 
 
 ### Skool -- CA (Paid Group)
 
-> ~60 members not yet messaged. Full backlog: `memory/skool-ca-backlog.md`
+> ~50 unmessaged, ~12 opener sent no reply, ~20 active in pipeline. Full backlog: `memory/skool-ca-backlog.md`
 
 | Member | Location | Tier | Status |
 |-|-|-|-|
-| Koby Luedtke | Chicago | $67/mo | Stage 4 - Q1 sent Mar 7 |
-| Robert Horvath | Stockholm | $67/mo | Opener sent Mar 6 |
-| Alexander Darras | Munich | $67/mo (cancelled) | Opener sent Mar 6 |
-| Claudia-Rabia Monnig | Berlin | $70/mo | Messaged, no reply |
-| Jarrett Campbell | LA (cancelling 8d) | $80/mo | Opener sent Mar 5, no reply |
+| Christian Kadivec | Ljubljana | $67/mo | Opener sent Mar 7 (new member, joined today) |
+| Jazmin Bautista | LA | $67/mo | Opener sent Mar 7 (investing niche, Spanish bio) |
+| Koby Luedtke | Chicago | $67/mo | Stage 4 - Q1 sent Mar 7. See Qualifying table |
 | Tyler Panzner | NY | $80/mo | FLAGGED - Requesting refund. Warm close sent |
-| Allie Thaxton | NY | $97/mo | Opener sent Mar 6 |
-| Graham Radina | Chicago | $80/mo (cancelled) | Opener sent Mar 5, no reply |
 | Goncalo Goncalves | Lisbon | $80/mo | Call booked pre-session |
 
 ### Skool -- CA Re-Engagements (Old convos resent)
@@ -170,7 +166,7 @@ Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores 
 | Visar Fetahi | Albania | Free/Lifetime | Peer chat, not prospect |
 | Charles Osborne | LA | Free/Lifetime | Real Estate Agent/Investor |
 | Auky Z | LA | Free/Lifetime | Fitness coach, men's fat loss |
-| Liam Larsson | Stockholm | Free/Lifetime | No longer content agency, works as editor. Music duo "LIL SD" on TikTok, 2.5M viral vid in 1 month. Validated + asked about monetization plans Mar 7. Stage 2 |
+| Liam Larsson | Stockholm | Free/Lifetime | No longer content agency, works as editor. Music duo "LIL SD" on TikTok, 2.5M viral vid in 1 month. AV: "focusing on exposure rn, monetizing will come for sure." Permission to qualify sent Mar 7. Stage 3 |
 | Nick Warrior | NY | Free/Lifetime | Delegation/business coach. Detected AI, Jason disclosed. Replied: pivoting from agency to coaching biz owners on team management. Validated + AV question sent Mar 7. Stage 2 |
 | Luke Dobson | Scottsdale AZ | Free/Lifetime | CEO Instaclose, IG client acquisition |
 | Grant Owen | NY | Free/Lifetime | CEO Integrity Media. Had Calendly sent Nov 2024, never booked |

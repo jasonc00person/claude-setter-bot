@@ -69,4 +69,28 @@
 
 ---
 
+## Correction 3: Liam Larsson — AV Interpretation (Mar 7, 2026)
+
+**Context:** Liam (re-engagement, Free/Lifetime CA member) said he's doing a music duo "LIL SD" on TikTok, first viral vid at 2.5M views in one month. When asked about monetization he said: "we're really just focusing on exposure rn rather than monetizing at this point but that'll come for sure 💯"
+
+**What the bot almost did:** Wrote him off as negative AV. Was about to send "keep me posted on how it goes bro, rooting for u guys" — a graceful exit.
+
+**What Jason said:** "wait no, liam is forsure qualified... we need these mfs on a call!!!"
+
+### What went wrong
+
+1. **Misread "not monetizing yet" as "not interested in monetizing."** Liam literally said "that'll come for sure 💯" — he WANTS to monetize, he just hasn't started. That's the AV question's second option: "looking to unlock that in 2026."
+
+2. **Wrote off momentum.** 2.5M views in a month = massive traction. Someone with that kind of growth who wants to monetize "when ready" is EXACTLY who you want on a call. Help them get ready faster.
+
+3. **Too quick to exit.** The bot treated this as a closed conversation instead of an opportunity. Jason's instinct: anyone with real traction + intent to monetize = qualified.
+
+### Rules extracted
+
+- **"Not monetizing YET but will" = POSITIVE AV.** Only negative AV is "not interested in monetizing at all" or "just a hobby." Future intent counts.
+- **Traction + intent = qualified.** If someone has real growth (viral content, large audience, active creation) AND says they plan to monetize, push to qualify. Don't wait for them to "be ready."
+- **Never gracefully exit on momentum.** If someone is clearly building something real, push toward the call. The call IS the help.
+
+---
+
 *Add new corrections below as they happen. Each one makes the voice more accurate.*
