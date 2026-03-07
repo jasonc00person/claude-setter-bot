@@ -189,7 +189,7 @@ Daniel BR (dbr.live), Max Jones (m0xjon3s), Toby J (toby.ai.guy), Brian Glusovic
 AminEvan (aminevan66), iam_alba22, Leo (leocorex -- Stage 5, bridge sent), SHANDA SUMPTER (shandasumpter), Panha (kach25558), Dan (dan.videoedits), Gerry Mannion (gerrymannion), Szymon Markowski (szymoneq08), KRISH (krisshh.11), robthebank.daily, Adam Hafner (adam.hafner)
 
 ### IG Notification Outreach
-Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Dev (76K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), gigahurtz.dj (584K verified DJ), rollwithrobbe (Robbe 6.5K), ryanbenoir (Ryan Benoir 9.5K), im_alex_leon (Alex Leon 1K -- REPLIED "Please do send!"), officialmichaelhudson (Michael Lewis Hudson 2.8K, strong ICP), birthtoolbox (Alice Turner 6.4K, Seattle), Ondrej Soldan (ondra_soldan 484, filmmaker & digital marketer, Czech/Europe -- opener sent Mar 6), Jake Bowman (itsjakebowman 4.7K verified, Christian coach helping coaches scale -- Claude Skills delivered + personal opener + AV sent Mar 7)
+Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Dev (76K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), gigahurtz.dj (584K verified DJ), rollwithrobbe (Robbe 6.5K), ryanbenoir (Ryan Benoir 9.5K), im_alex_leon (Alex Leon 1K -- REPLIED "Please do send!"), officialmichaelhudson (Michael Lewis Hudson 2.8K, strong ICP), birthtoolbox (Alice Turner 6.4K, Seattle), Ondrej Soldan (ondra_soldan 484, filmmaker & digital marketer, Czech/Europe -- opener sent Mar 6), Jake Bowman (itsjakebowman 4.7K verified, Christian coach helping coaches scale -- Claude Skills delivered + personal opener + AV sent Mar 7), Luke Anning (iamlukeanning 9.5K, Anti Sabotage Coach, verified -- Viral Hook Library offered Mar 7)
 
 ### Skool -- CA (Paid Group)
 
@@ -375,7 +375,7 @@ Melvin Zhou, Frederik, YGY (after Mar 10), Anish Gautam, Jess Cervellon, Neex Ed
 |-|-|
 | Background Music Library | 40+ |
 | Content OS Template | 5 |
-| Viral Hook Library 2.0 | 3 |
+| Viral Hook Library 2.0 | 4 |
 | Creator Accelerator / Skool | 3 |
 | ManyChat Guide | 2 |
 | Free Sauce page | 2 |
