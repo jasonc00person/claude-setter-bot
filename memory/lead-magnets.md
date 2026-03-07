@@ -14,7 +14,7 @@
 | AI Thumbnail Guide | NEEDS URL - find in ManyChat | Missing |
 | Instagram OS Overview | NEEDS URL - find in ManyChat | Missing |
 | YouTube OS | NEEDS URL - find in ManyChat (keyword: "YT") | Missing |
-| Claude Content Skills | NEEDS URL - find in ManyChat (keyword: "Skill") | Missing |
+| Claude Content Skills | https://drive.google.com/drive/folders/1CO77pn6xsq7mAsvbsWB17dQnOTUAy-iH?usp=sharing | Verified |
 | Creator Accelerator (Skool) | https://www.skool.com/creatoraccelerator | Verified |
 | Content Creator University (Skool) | https://www.skool.com/internet-money-central-9086 | Verified |
 | Calendly (Research Call) | https://calendly.com/jason-creatoreconomy/30m-1-1-meeting | Verified |
