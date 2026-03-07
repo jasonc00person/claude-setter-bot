@@ -13,6 +13,9 @@
 - `jason-dm-voice-guidelines.md` — Brand voice reference
 - `objection-handling.md` — Objection response templates
 - `memory/browser-playbook.md` — Learned efficient browser actions (BEST METHOD + TRAP format). **Read at session start, update at session end.**
+- `memory/voice-message-process.md` — Voice message transcription pipeline (extract audio URL -> curl -> Whisper -> respond)
+- `memory/voice-corrections.md` — Real-time voice corrections from Jason (highest-signal calibration data)
+- `conversation-examples.md` — Annotated full conversation examples (cold lead to booked call)
 - `session-logs/` — Archived session logs by date
 - `reports/` — Session summary reports
 - `archive/disqualified.md` — Disqualified leads (do not re-contact)
@@ -117,6 +120,8 @@ Most notification comments (Music, System, Strategy, Late, etc.) are ManyChat ke
   - ManyChat also runs automations in the background (auto-delivers lead magnets)
   - **Keep ManyChat tags in sync with pipeline stage** — update tags immediately as you work each lead (see CLAUDE.md "ManyChat Tag Management")
   - Only fall back to Instagram native DMs if ManyChat can't handle something specific
+  - "Unsupported message type" = voice note or IG-specific content. Check in IG DMs or ManyChat conversation directly.
+  - **Voice messages:** Download and transcribe with Whisper. Full process in `memory/voice-message-process.md`.
 
 ## Session Sync
 

@@ -158,6 +158,22 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 
 ---
 
+## Voice Message Transcription (ManyChat)
+
+### Extracting audio URLs from voice messages
+- **BEST:** Run `console.log` via `javascript_tool` to log audio source URLs, then read them with `read_console_messages` tool with pattern "VOICE_URL". JS snippet: `document.querySelectorAll('audio source').forEach((s, i) => console.log('VOICE_URL_' + i + ': ' + s.src));`
+- **TRAP:** Don't try `fetch()` or direct DOM download — CORS and security filters block it. Don't try `document.getElementById` tricks either. Console.log + read_console_messages is the only reliable method.
+
+### Downloading voice files
+- **BEST:** Use `curl -L -o /tmp/leadname_voice_N.mp4 "URL"` from Bash
+- **TRAP:** Don't try to download via JavaScript in the browser — it navigates to the URL instead of downloading
+
+### Transcribing with Whisper
+- **BEST:** `export PATH="$PATH:/c/Users/jason/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.0.1-full_build/bin" && python -m whisper /tmp/file.mp4 --model base --language en --output_format txt --output_dir /tmp`
+- **TRAP:** Don't use bare `whisper` command — use `python -m whisper`. ffmpeg must be on PATH or Whisper will fail with FileNotFoundError.
+
+---
+
 ## General Browser Efficiency Rules
 
 1. **Use `find` tool first** — before clicking anything, find the element by description. This is more reliable than guessing coordinates.

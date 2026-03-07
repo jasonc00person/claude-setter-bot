@@ -6,7 +6,7 @@
 | Lead Magnet | URL | Status |
 |-|-|-|
 | Background Music Library | NEEDS URL - find in ManyChat (keyword: "Music") | Missing |
-| Content OS Template | NEEDS URL - find in ManyChat (keyword: "Content OS") | Missing |
+| Content OS Template | https://www.notion.so/creator-economy/Content-OS-Template-2f0f65855e6b809e9974e058c812a76e?source=instagram | Verified |
 | Viral Hook Library 2.0 | NEEDS URL - find in ManyChat (keyword: "Hook") | Missing |
 | Late Scheduling Software | https://getlate.dev | Verified |
 | ManyChat Guide | NEEDS URL - find in ManyChat | Missing |
