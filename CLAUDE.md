@@ -104,6 +104,63 @@ This keeps the repo in sync across machines and sessions. GitHub is the host, th
 
 ---
 
+## Multi-Session Coordination
+
+Jason may run two Claude sessions simultaneously (e.g., one on ManyChat, one on Skool). Since both sessions read and write the same files on disk, follow these rules to avoid conflicts.
+
+### Core Principle
+
+File changes are instant on disk but invisible to the other session until it re-reads the file. There is no merge — the last write wins. A careless edit can silently overwrite the other session's work.
+
+### Session Ownership Rules
+
+Each session should operate in its own workflow and own specific files:
+
+| Session | Owns | Shared (caution) |
+|-|-|-|
+| ManyChat workflow | ManyChat-specific leads in pipeline-state.md | pipeline-state.md, archive files |
+| Skool workflow | Skool-specific leads in pipeline-state.md | pipeline-state.md, archive files |
+| IG Notifications workflow | New openers section of pipeline-state.md | pipeline-state.md |
+| KB audit / maintenance | memory files, CLAUDE.md | pipeline-state.md |
+
+### Editing Shared Files (pipeline-state.md)
+
+`pipeline-state.md` is the highest-conflict file since every workflow writes to it.
+
+1. **Always re-read the file immediately before editing.** Never edit based on a stale read from earlier in the session. The other session may have written changes since your last read.
+2. **Edit only your section.** ManyChat session edits ManyChat leads. Skool session edits Skool leads. Don't touch rows that belong to the other workflow unless necessary.
+3. **Use surgical edits.** Target the specific row or section you need to change. Don't rewrite large blocks — that increases the chance of overwriting the other session's changes.
+4. **Checkpoint frequently.** Save your edits every 10 interactions (already a rule) so changes are on disk for the other session to see.
+
+### When Starting a Session While Another Is Running
+
+1. **Ask Jason which workflow this session should run.** Don't assume.
+2. **Read pipeline-state.md fresh** to pick up any changes the other session already made.
+3. **Announce your workflow** in your first message so Jason can confirm there's no overlap.
+
+### If You Suspect a Conflict
+
+If you read a file and the content doesn't match what you expect (e.g., a lead you just updated is missing or changed), stop and:
+1. Re-read the file to get the latest version
+2. Check if the other session may have edited the same section
+3. Ask Jason before re-applying your changes
+
+### Files That Are Safe to Edit in Parallel
+
+These files are unlikely to conflict because only one session typically touches them:
+- `memory/voice-corrections.md` (append-only)
+- `memory/browser-playbook.md` (session-specific patterns)
+- `session-logs/` (each session writes its own log file)
+- `memory/pipeline-health.md` (updated at session end only)
+
+### Files That Need Extra Care
+
+- **`pipeline-state.md`** — Both sessions write to this. Follow the rules above.
+- **`archive/disqualified.md`** and **`archive/skipped.md`** — Append-only, lower risk, but re-read before appending.
+- **`CLAUDE.md`** — Rarely edited during sessions. If editing, coordinate with Jason.
+
+---
+
 ## DM Session Playbook (Step-by-Step Operating Procedure)
 
 Each session runs ONE of three workflows. Jason will specify which at session start. **Stay in that workflow's tab only.**
