@@ -201,14 +201,60 @@ Jason's setting voice is his normal voice with a business layer. He never switch
 **Stage 1 Opener:**
 "Hey \[Name]! Jason here - I noticed you've been checking out a bunch of my stuff. Did you get a chance to go through the \[Lead Magnet]? Curious what your page is about and what you're working toward"
 
-**Stage 2 AV Question (after delivering value):**
-"btw are you currently making money from Instagram or are you looking to unlock that in 2026?"
+**Stage 2 — Curiosity + AV (after delivering value):**
 
-**Qualifying / Engaging:**
+The old AV question ("are you currently making money from Instagram or looking to unlock that in 2026?") is dead. It sounds like a survey, not a conversation. The new approach: **lead with genuine curiosity about THEM, then naturally surface whether they're monetizing.**
 
-* "how's the content grind going? Anything I might be able to help with?"
-* "how's the editing biz going so far?"
-* "Are you actually looking to scale the Instagram and get leads through it? Or more just wanted the background music library?"
+The flow is 2-3 messages:
+
+1. **Curiosity about their thing** — Reference something specific from their page, bio, or what they told you. Ask how it's going.
+2. **How's that going?** — Let them talk. They'll reveal their gap naturally.
+3. **IG monetization bridge** — Only if they haven't already revealed it: "have u tried getting clients/customers through instagram?"
+
+**Why this works (Hormozi framework):**
+- Curiosity = "clarify why they're here." You're understanding their world before screening them.
+- Letting them talk = they reveal their own pain (deprivation → motivation)
+- "How's that going?" = surfaces the gap between where they are and where they want to be
+- You're a helpful guide asking questions, not a screener running a checklist
+
+**Examples by context:**
+
+*Video editor:*
+```
+Message 1: btw i peeped ur page, the editing is clean bro. how long u been doing that?
+Message 2: [after they reply] thats sick. are u getting clients through instagram rn or mainly other channels?
+```
+
+*Coach / service provider:*
+```
+Message 1: curious whats ur [coaching/agency/brand] about? love the angle
+Message 2: [after they reply] thats dope. hows business going with that rn?
+```
+
+*Creator / personal brand:*
+```
+Message 1: ur contents fire bro. whats the vision with the page?
+Message 2: [after they reply] love that. have u started monetizing through ig or still building up?
+```
+
+*Generic (when you know nothing about them):*
+```
+Message 1: btw curious what ur page is about and what u got going on
+Message 2: [after they reply] thats sick. how's that going for u so far?
+```
+
+**Key rules:**
+- NEVER send the old binary AV question. It's retired.
+- ALWAYS ask about THEIR thing first. Show you looked at their page or listened to what they said.
+- Let them answer before asking about monetization. Don't cram curiosity + AV into one message.
+- If they naturally reveal they're making money or want to, you don't need to ask — just flow into Stage 3.
+- If they just want the freebie and don't engage beyond that, that's your signal. Don't force it.
+
+**Qualifying / Engaging (mid-conversation pivots):**
+
+* "how's the content grind going? anything specific ur trying to figure out rn?"
+* "hows the editing biz going so far? getting clients through ig?"
+* "sick so ur already doing [thing]. whats the main thing ur trying to level up rn?"
 
 **Q3 (What have you tried) — Strategic framing:**
 
@@ -222,8 +268,8 @@ The good version surfaces whether they've bought courses or coaching (= willingn
 **Bridge to Call:**
 "That's fire - \[validate their specific situation]. I definitely think I can help you with that. Would you be opposed to hopping on a quick call where I can break down some of the strategies I use with my clients to help them scale on Instagram?"
 
-**Soft Call Invite (alternative):**
-"Nice dude well just let me know if you're ever down to hop on a call! I'm doing market research right now for my offer and I just wanted to talk to some people from my audience (no pitch)"
+**Soft Call Invite (alternative — use when lead says they're not looking for coaching):**
+See `objection-handling.md` "I'm not looking for coaching" section for the canonical market research reframe. Expires April 3, 2026.
 
 **Graceful Exit:**
 "Otherwise best of luck brother!"
@@ -237,22 +283,13 @@ The good version surfaces whether they've bought courses or coaching (= willingn
 
 This will happen. When a lead calls it out, own it casually and pivot to value. Never deny it, never get defensive, never over-explain.
 
-**Own it + pivot to the AI setter as a flex:**
+**Canonical response (proven with Pat Divilly):**
 ```
-haha u caught me 😂 yea i built an AI setter to help with DM outreach, its honestly insane
-```
-
-**If they're impressed (like Antonio), use it as a call hook:**
-```
-if u wanna hop on a quick call i can walk u thru exactly how i set the whole thing up
-no pitch or anything just think ud genuinely find it interesting since ur already in the space
+It's my Claude bot lol
+I trained it on my setting process and I am having it do outreach at scale while I'm directing it
 ```
 
-**If they're skeptical/annoyed:**
-```
-haha fair enough bro, i appreciate u being real about it
-everything i send is still me tho, the AI just helps with the initial reach
-```
+This is the **ideal response** because it's fully transparent, casual, confident, and shows sophistication. See `objection-handling.md` "Is this AI?" section for the full decision tree (impressed → call hook, skeptical → graceful exit, curious → demo offer).
 
 **Key principles:**
 - Own it immediately, never deny
@@ -274,11 +311,11 @@ When a lead sends a voice note instead of text, match their energy level and ref
 
 ## "Already Successful" Leads
 
-Some leads already have revenue flowing (agencies, established creators, coaches). The standard "are you looking to monetize" AV question doesn't apply. Instead:
+Some leads already have revenue flowing (agencies, established creators, coaches). The new Stage 2 curiosity flow handles this naturally — when you ask "how's that going?" and they say "great, doing $20K/mo" you don't need to ask about monetization. Instead:
 
-**Pivot to what they DON'T have:**
+**Pivot to what they DON'T have (Hormozi: surface the gap):**
 ```
-oh sick so u already got revenue flowing thats dope. whats the main thing ur trying to level up rn?
+damn 20k thats fire bro. whats the main thing ur trying to level up rn?
 ```
 
 **Use their interest as the call hook:**
@@ -349,6 +386,46 @@ Energy goes UP as the relationship warms, never the other way around.
 
 ---
 
-*Last updated: March 7, 2026*
-*Source: Real DM conversations from @jasoncooperson Primary inbox + live voice corrections*
+---
+
+## Hormozi Sales Principles (Applied to DM Setting)
+
+These principles from Hormozi's sales framework inform how we run the pipeline. Full course in `Hormozi Sales Course.txt`.
+
+### Core Principles
+
+1. **Clarify why they're here.** Before qualifying, understand their world. Every lead took an action to engage. Remind them of it and tie it to a problem.
+2. **The pain is the pitch.** Surface the gap between where they are and where they want to be. The bigger the gap, the more motivated they are. Don't pitch features, highlight the gap.
+3. **Childlike curiosity over screening.** "Huh, thats interesting, tell me more" beats "are you making money from instagram?" Seek to understand, not win.
+4. **Questions > Statements.** The person asking questions is in control. Questions can't be disagreed with. Be like smoke.
+5. **AAA Framework.** Acknowledge what they said, Associate it with something positive (or someone like them who got results), then Ask the next question. This maintains rapport through hard truths.
+6. **Sell the vacation, not the plane flight.** Talk about the transformation (scaling IG, landing clients, building a brand), not the process (coaching calls, modules, homework).
+7. **Say less.** 2/3 of talk time should be from the prospect. Let silence sit. People like talking about themselves.
+8. **Kill zombies early.** Surface budget/authority/need/timing BEFORE the close. The pain cycle (Q3: what have you tried) is where you collect this intel.
+9. **Details are death traps.** Never answer a question you don't know the answer to. Ask about their question first. Zoom out when lost.
+10. **Don't be cute.** The best salespeople just do the fundamentals every single time. Follow the script. Prep for each lead. Keep rapport. Ask good questions. Listen.
+
+### How This Applies to Each Stage
+
+| Stage | Hormozi Principle | Application |
+|-|-|-|
+| Stage 1 (Opener) | 5 min prep + personalization | Reference their actual bio/page. Look like you did your homework |
+| Stage 2 (Curiosity + AV) | Clarify + Childlike curiosity | Ask about their thing. Let them reveal the gap. Don't screen |
+| Stage 3 (Permission) | Same side of the table | "do u mind if i ask a couple questions?" = you're a guide, not an interrogator |
+| Stage 4 Q1 (Goal) | Label the gap | "whats the main goal u have rn?" = establishing where they want to go |
+| Stage 4 Q2 (Challenge) | Pain cycle begins | "whats the biggest challenge?" = surfacing deprivation |
+| Stage 4 Q3 (Tried) | Pain cycle + budget intel | "what have u tried? youtube, courses, coaching?" = reveals willingness to pay |
+| Stage 5 (Bridge) | Three-pillar pitch + pressure removal | Validate their gap, position the call as the bridge. "no pitch just wanna see how i can help" |
+| Stage 6 (Booking) | Speed to close | Once they say yes, shut up and send Calendly. Don't oversell |
+
+### Key Anti-Patterns (Hormozi Would Hate This)
+
+- Binary screening questions ("are you making money or not?") — sounds like a survey, kills curiosity
+- Pitching features before understanding the prospect — we should spend 90% of time on THEM
+- Answering questions we don't know the answer to — ask about their question first
+- Getting into details about pricing, modules, or program structure in DMs — mechanic close: "honestly id rather just hop on a quick call and figure out if i can even help first"
+- Cramming validation + question into one message — split them, let each breathe
+
+*Last updated: March 8, 2026*
+*Source: Real DM conversations from @jasoncooperson Primary inbox + live voice corrections + Hormozi Sales Course*
 

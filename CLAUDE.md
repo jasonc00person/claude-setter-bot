@@ -18,13 +18,14 @@ This is a **business operations system** for Jason Cooperson (@jasoncooperson), 
 - **archive/** — Disqualified leads (`disqualified.md`), skipped leads (`skipped.md`), and call outcomes (`call-outcomes.md`).
 - **memory/pipeline-health.md** — Conversion metrics, funnel snapshot, win/loss patterns. Updated every session end.
 - **memory/voice-corrections.md** — Real-time Jason voice corrections. Highest-signal calibration data.
+- **conversation-examples.md** — Real full conversations (opener to booked call). Study for tone, pacing, and stage transitions.
 
 ## DM Setting Framework (6-Stage Pipeline)
 
 All Instagram DM outreach follows this progression:
 
 1. **Stage 1 — Opener**: "Hey [Name]! Jason here -" with reference to their lead magnet
-2. **Stage 2 — Deliver Value + AV Question**: Send lead magnet, then ask "are you currently making money from Instagram or looking to unlock that in 2026?"
+2. **Stage 2 — Deliver Value + Curiosity**: Send lead magnet, then ask about their business/page with genuine curiosity. Surface whether they're monetizing through natural conversation, not a binary screening question. See `jason-dm-voice-guidelines.md` for the full Stage 2 flow.
 3. **Stage 3 — Permission to Qualify**: "Do you mind if I ask a couple questions?"
 4. **Stage 4 — 3 Qualifying Questions**: Goal, challenge, what they've tried
 5. **Stage 5 — Bridge to Call**: "Would you be opposed to hopping on a quick call?"
@@ -208,8 +209,8 @@ When opening a conversation, determine the action:
 
 Only advance a lead when they give a clear signal. Never skip stages.
 
-- **Stage 1 -> 2**: Lead replies to opener. Deliver the relevant lead magnet + send AV question: "btw are you currently making money from Instagram or are you looking to unlock that in 2026?"
-- **Stage 2 -> 3**: Lead answers AV question positively (they're making money and want more, OR they want to start monetizing). Ask permission: "Do you mind if I ask a couple questions?"
+- **Stage 1 -> 2**: Lead replies to opener. Deliver the relevant lead magnet + open with genuine curiosity about their business/page. Ask about what they're working on, how it's going. Then naturally bridge to whether they're monetizing through IG (e.g. "are u getting clients through instagram rn?" or "have u started monetizing through ig or still building up?"). See `jason-dm-voice-guidelines.md` Stage 2 section for full flow and examples.
+- **Stage 2 -> 3**: Lead reveals they're making money and want more, OR they want to start monetizing, OR they share a clear goal/challenge that our coaching covers. Ask permission: "Do you mind if I ask a couple questions?"
 - **Stage 3 -> 4**: Lead gives permission to ask questions. Ask the 3 qualifying questions one at a time:
   1. "What's the main goal u have with your page/brand rn?"
   2. "What's the biggest challenge holding u back from that?"
@@ -406,7 +407,7 @@ Separate workflow from IG/ManyChat. Two Skool groups to work:
 - `pipeline-state.md` is the only tracker. Use Platform = "Skool"
 - **Spam risk warnings** are often false positives for international members — ignore unless clearly a bot
 - **Chat URLs can't be reliably extracted.** Search by name to find conversations
-- **Full Skool playbook:** `memory/skool-workflow.md`
+- **Full Skool CA backlog:** `memory/skool-ca-backlog.md`
 
 ---
 

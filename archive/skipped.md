@@ -2,7 +2,7 @@
 
 ## Friends / Family / Clients
 
-Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, daniellequesadaa, Jay (client), sara cooperson, Austin Connell, shana, Kade Trentham, Patrick Denis, Dave Cooperson, Blake Linde, Josh Butcher, Zain Zitawi, vndrewfox, Brandon Grogan (brandongrogan1), Maximus Ramminger (maximus.ramminger), f3durico, jjculling, ohitsjustlance, Nick Warrior (Skool), CFong (cfongofficial, friend from college)
+Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, daniellequesadaa, Jay (client), sara cooperson, Austin Connell, shana, Kade Trentham, Patrick Denis, Dave Cooperson, Blake Linde, Josh Butcher, Zain Zitawi, vndrewfox, Brandon Grogan (brandongrogan1), Maximus Ramminger (maximus.ramminger), f3durico, jjculling, ohitsjustlance, Nick Warrior (Skool), CFong (cfongofficial, friend from college), Brian H. Hough (brianhhough), Talha (mastertakatalha), Jazmin Bautista (jazminbautista, Skool CA, peer/superior, Jason handles personally), kasim5_ (kasim5_, works with creators/offers, peer/service provider)
 
 ## Not a Fit (Wrong Niche / Spam / Pitching)
 
@@ -19,7 +19,7 @@ Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, danie
 | Dhananjay Virat | Not ICP |
 | Sertac Altun | Not ICP |
 | Caroline Gourley | Not ICP |
-| Ayden Lum | Not ICP |
+| ~~Ayden Lum~~ | ~~Moved to call-outcomes.md (Re-Engage)~~ |
 | Evan Merger | Not ICP |
 | Etele | Pitching |
 | Aidan Cordes | No pic |
@@ -28,7 +28,7 @@ Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, danie
 | Cris | In community |
 | Anthony Sandi | Not ICP |
 | Goncalo Goncalves | Not ICP |
-| Brian H. Hough | Not ICP |
+| ~~Brian H. Hough~~ | ~~Moved to Friends~~ |
 | Crecimiento digital | Spanish |
 | Jakub Wrzodak | Not ICP |
 | HARIS SHAMIM SIDDIQUI | Pitching closer services |
@@ -47,6 +47,11 @@ Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, danie
 | Chris (chris.is.editing) | Pitching video editing services |
 | Enray Liu (syarne) | Setter/closer recruiter, not ICP |
 | Aaron David (aarondvid_) | Pitching dating/lifestyle research |
+| Ayoosh Raj (rajayoosh) | Pitching editing services (Editor Cut Agency) |
+| Hilary (hilary.milburn) | Pitching closer services (New World Sales) |
+| Abiral Acharya (abiral_acharya__) | Cold "Collaborations" message, not ICP |
+| Nathan Sanderson (nathansanderson06) | Pitching setter services |
+| Muhammad Farzan Khan (sketchbyfarzan) | Pitching editing services |
 
 ## IG Notification Outreach — Checked & Skipped (March 4)
 

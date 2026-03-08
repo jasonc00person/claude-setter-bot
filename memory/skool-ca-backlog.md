@@ -9,24 +9,26 @@
 
 Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la Cuesta (Madrid), Kier Porter (London), Cyrus Lancini (Brisbane), Dylan Vandamme (Brussels), Claudia-Rabia Monnig (Berlin), Jarrett Campbell (LA, cancelling), Graham Radina (Chicago, cancelled), Robert Horvath (Stockholm), Alexander Darras (Munich, cancelled)
 
-## Not Yet Messaged (Target Geo)
+## Already Messaged -- No Reply (Mar 3-5 batch)
+
+> These were all contacted Mar 5 during Sessions 3-7. Confirmed via chat history. Do NOT double text.
+
+Yohan Thomas (Edmonton), James Wu (Taiwan — geo fail), Josh Hernandez (Denver), Simon Liu (SF), Niklas Falkenstein (Berlin), Armaan Sidhu (LA)
+
+## Not Yet Messaged / Needs Verification (Target Geo)
+
+> Many of these may also have been messaged Mar 5. Check chat before sending.
 
 | Member | Location | Tier |
 |-|-|-|
-| Yohan Thomas | Edmonton | $70/mo |
-| James Wu | Taiwan | $70/mo |
 | Amir Tai | Chicago (cancelled) | -- |
 | Lawrence Johnson | Chicago (cancelling) | -- |
-| Laraib Lodhi | London | -- |
+| ~~Laraib Lodhi~~ | ~~London~~ | ~~Moved to pipeline Stage 4~~ |
 | Jano S. | Berlin (cancelling) | -- |
-| Josh Hernandez | Denver | -- |
 | Leroy Moritz | Dubai (declining) | -- |
-| Simon Liu | SF Bay Area | -- |
 | Maciej Ca | Warsaw (declining) | -- |
-| Ricky A | Chicago | -- |
-| Niklas Falkenstein | Berlin | -- |
+| Ricky A | Chicago (inactive 40d) | -- |
 | Alexandre Buisson | Dubai | -- |
-| Armaan Sidhu | LA | -- |
 | Media Flooding | NY | -- |
 | Steve Young | Denver | -- |
 | Spencer Simonson | Las Vegas | -- |
@@ -89,5 +91,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 - Allie Thaxton (NY) -- Opener sent Mar 6
 - Goncalo Goncalves (Lisbon) -- Call booked pre-session
 - Victoria Denisse (Melbourne) -- Call completed Mar 3-4
+- Jose Avila (LA) -- Stage 1, welcome back opener sent Mar 8
+- Rayyan Rehman (Karachi) -- DISQUALIFIED, geo filter (Pakistan)
 
 *~50 unmessaged, ~12 opener sent no reply, ~20 active in pipeline. Last updated: March 7, 2026*

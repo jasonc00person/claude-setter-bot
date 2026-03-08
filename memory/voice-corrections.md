@@ -93,4 +93,50 @@
 
 ---
 
+## Correction 4: Laraib Lodhi — Premature Disqualification (Mar 7, 2026)
+
+**Context:** Laraib (Skool CA, paid member, London) replied to opener saying their goal is "AI automation and building agentic workflow for creative research" and that they "work at an agency with some biggest creators in the world." Bot assessed them as not-ICP because their goal was AI automation for paid social, not organic IG growth coaching.
+
+**What the bot did:** Sent a screening question ("are u also building anything on the personal brand side or is it mainly the agency work rn?") instead of delivering value and running the standard pipeline. Was mentally writing them off before even asking the AV question.
+
+**What Jason said:** "we can still sell them something!" and "you're too quick to dismiss people. we can definitely maybe pitch her on my coaching program. I know a ton of shit about AI automation and workflows!"
+
+### What went wrong
+
+1. **Tried to filter instead of sell.** The bot's instinct was to find a reason this person DOESN'T fit, instead of finding a reason they DO. Paid CA members are paying $67-80/mo — they're already invested. Run the pipeline.
+
+2. **Too narrow ICP interpretation.** Jason's coaching covers AI automation and workflows too, not just "organic IG growth." Someone who wants AI automation for creative research is absolutely in the wheelhouse.
+
+3. **Skipped value delivery.** Instead of offering the Claude Content Skills resource (perfect match for AI automation interest) + standard AV, the bot sent a qualifying/screening question. Should have led with value.
+
+4. **Violated "every Skool member is a lead" rule.** CLAUDE.md is explicit: paid CA AND free CCU members are ALL leads. Don't skip established-looking people. The bot broke this rule by mentally disqualifying before even trying.
+
+### Rules extracted
+
+- **Never pre-disqualify a paid Skool member.** They're paying to be there. Run the full pipeline.
+- **Default to selling, not screening.** If someone has ANY overlap with Jason's expertise (IG growth, content, AI workflows, coaching, personal branding), run the pipeline. Only exit after AV is clearly negative.
+- **Jason's coaching covers more than just IG growth.** AI automation, workflows, content systems, personal branding — all fair game. Don't narrow the ICP to just "beginner creators wanting organic growth."
+- **When in doubt, deliver value and ask AV.** The standard pipeline exists for a reason. Don't invent custom screening questions.
+
+---
+
+## Correction 5: Mateja Proučil — Gender Check (Mar 8, 2026)
+
+**Context:** Mateja (Skool CA, Osijek, Croatia, female) answered Q1. Bot drafted validation with "bro" without checking profile picture.
+
+**What the bot almost sent:**
+> thats fire bro, scaling while freeing up ur time is the move
+
+**What was caught:** Jason flagged that Mateja is clearly a girl from her profile picture. "bro" is wrong.
+
+**What was actually sent (corrected):**
+> thats fire, scaling while freeing up ur time is the move
+
+### Rules extracted
+
+- **ALWAYS check profile picture/bio before using gendered language.** "Bro", "dude", "brother", "man" are male-only. When in doubt, drop the gendered word entirely — the message works fine without it.
+- **Names aren't reliable gender indicators**, especially international names. Always verify visually.
+
+---
+
 *Add new corrections below as they happen. Each one makes the voice more accurate.*

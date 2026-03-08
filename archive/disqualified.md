@@ -21,7 +21,7 @@
 | Lokesh Loki | — | Calcutta, India. FAILS GEO FILTER | Unqualified |
 | Vyceheart | vyce_heart | Unqualified per Jason | Unqualified |
 | Harsh Surana | harsh.1806 | Unqualified per Jason | Unqualified |
-| Damien Fraser | dame.fra | 0 posts, 524 followers, bio = Bible verse. No offer/brand | Unqualified |
+| ~~Damien Fraser~~ | ~~dame.fra~~ | ~~Moved to call-outcomes.md (Re-Engage Conditional)~~ | -- |
 | Abdullahi Abdulkadir | @abdullahi | Lagos, Nigeria. FAILS GEO FILTER | Unqualified |
 | Abhiwak Tiwari | heyabhiwak | India. FAILS GEO FILTER | Unqualified |
 | Sushanta Biswas | su.shent | India. FAILS GEO FILTER | Unqualified |
@@ -69,3 +69,6 @@
 | Valentina Cardona | -- | Medellin, Colombia. FAILS GEO FILTER (Skool CA) | Unqualified |
 | Mehdi Asry | -- | Morocco. FAILS GEO FILTER (Skool CA) | Unqualified |
 | Valentijn Wiering | valentijnwiering | Student, no gear, saving for camera, not monetizing. Graceful exit sent | Unqualified |
+| Mr. Abdul Basit | basit_166 | 41 followers, cricket/personal content. Not ICP, likely South Asia. No biz | Unqualified |
+| Rayyan Rehman | -- | Karachi, Pakistan. FAILS GEO FILTER (Skool CA) | Unqualified |
+| Gabriel Genchev | gabriel.genchev | Declined after setter detection handled transparently. "I'm not interested" | Unqualified |

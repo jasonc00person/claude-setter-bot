@@ -78,17 +78,26 @@ Then follow the nudge sequence below.
 
 ## "Can you just send me more info?"
 
+**Hormozi principle: mechanic close.** Don't get into details over text. You can't diagnose without looking under the hood.
+
 ```
 yea for sure! honestly the easiest way to break it all down is just a quick 15 min call
 I can walk u through everything way better than over text haha
 would u be down?
 ```
 
+If they push harder (Hormozi: details are death traps — zoom out):
+```
+honestly it depends on where ur at rn and what u need
+thats why i'd rather just hop on a quick call and figure that out
+if it's not a fit no worries at all 🤝
+```
+
 If they insist on text-only:
 ```
 gotchu bro no worries
 ```
-Then send a brief overview of what the call covers and leave the door open:
+Then send a brief overview and leave the door open:
 ```
 basically I help creators scale their IG and monetize through [relevant strategy]
 if u ever wanna chat more about it just lmk 🤝
