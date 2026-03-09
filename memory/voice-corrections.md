@@ -139,4 +139,16 @@
 
 ---
 
+## Correction 6: Jose Avila — Skip Stage 3 for Paid CA Members (Mar 9, 2026)
+
+**Context:** Jose Avila is a paid CA member. Bot sent Stage 3 permission question ("do you mind if I ask a couple questions?") after he replied to the opener.
+
+**What Jason said:** "I feel like for that one I would have just gone straight to asking him about his problems. we don't need permission to ask questions he's already a paid CA member."
+
+### Rule extracted
+- **Paid Skool CA members don't need Stage 3 (permission to qualify).** They're already paying for access — skip straight to qualifying questions (Q1). The permission step is for cold/warm leads on IG/ManyChat where asking questions might feel intrusive. CA members expect to be coached/engaged.
+- This applies to ALL paid CA members, not just Jose.
+
+---
+
 *Add new corrections below as they happen. Each one makes the voice more accurate.*

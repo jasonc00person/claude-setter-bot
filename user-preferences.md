@@ -4,6 +4,7 @@
 
 ## Session Workflow Preferences
 
+- **Never ask permission to send a DM.** Always just send it. Jason will correct if needed.
 - Don't over-focus on General inbox ManyChat flood -- most aren't worth pursuing
 - Jason may jump in and respond to friends mid-session -- don't touch those convos
 - Look for accounts that already received a lead magnet (ManyChat auto-delivered) when batch-opening. Quality > quantity.

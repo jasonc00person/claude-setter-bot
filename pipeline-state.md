@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 8, 2026 (Session 33 checkpoint 1)
+**Last updated:** March 9, 2026 (Session 34 final)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -27,13 +27,13 @@
 |Edmund \| AI|whatelz.ai|IG (ManyChat)|6 - Calendly sent|AI Engineer, first week posting. Busy w/ hackathon, Calendly sent|
 |Irfan Aziz|--|Skool (CA)|5 - Bridge sent|London. Bridge sent Mar 6|
 |Pat Divilly|--|Skool (CA)|6 - Calendly sent|Ireland. Awaiting booking|
-|Adam Ziak|--|Skool (CA)|6 - Call booked|Sun Mar 9, 1pm PT. Iceland|
+|Adam Ziak|--|Skool (CA)|6 - Call booked|Sun Mar 9, 10:45am PT (rescheduled). Iceland|
 |Kunal Jiwani|--|Skool (CA)|6 - Call booked|Sun Mar 9|
 |Aspen|--|Skool / Direct|6 - Call booked|Sun Mar 9|
 |Cristiano Capasso|--|Skool (CA)|6 - Call booked|Mon Mar 9, 1-1:30pm PT. Rome|
-|Aaron Harun Guner|--|Skool (CA)|6 - Call booked|Mon Mar 10. KL|
+|Aaron Harun Guner|--|Skool (CA)|6 - Call booked|Mon Mar 10, 2:15pm PT. KL|
 |Louis|--|IG (ManyChat)|6 - Call booked|Tue Mar 10, 10-10:30am PT|
-|Shlomo|--|Direct|6 - Call booked|Mon Mar 10|
+|Shlomo|--|Direct|6 - Call booked|Mon Mar 10, 3pm PT|
 |CeCe|--|Direct|6 - Call booked|Wed Mar 11, 10am PT|
 |Nikhil Rana|nikkhil108|IG (ManyChat)|6 - Calendly sent|Said "Lets go" to call. Calendly sent Mar 7|
 |Said-Azzam Righy|said.azzam.rg|IG (ManyChat)|6 - Calendly sent|Agreed to call. Calendly sent Mar 7|
@@ -41,6 +41,11 @@
 |Goncalo Goncalves|--|Skool / Direct|6 - Call booked|Pre-session booking|
 |create (zhuma)|zhumadaily|IG (ManyChat)|6 - Call booked|Mar 9, 11am PT. Beginner creator, portfolio building. Handled "sell me a course?" objection|
 |KALPI|lifeof.kalpi|IG (ManyChat)|6 - Call booked|Tue Mar 10, 10:45am PT. Video editor for digital creators|
+|Rayan|--|Unknown|6 - Call booked|NEW from GCal. Sun Mar 9, 11:30am PT. Not in pipeline previously|
+|George Mobbs|@george-mobbs-2841|Skool (CA)|6 - Call booked|Friend/previous client. Booked via Calendly Mar 9. Rescheduled 2hrs earlier same day. Confirmed "say less"|
+|Pablo Simancas|@pablo-simancas-6385|Skool (CA)|5 - Bridge sent|$15K/mo content agency (Chrome Goat). 3 RE clients. Needs systems/scaling. Had market research call Mar 6. Re-engaged Mar 9 on Skool. Bridge to second call sent|
+|Saharat Raksanoh|--|Text/iMessage|5 - Bridge sent|Fitness coach, zero clients. CA member. Had market research call Mar 4. Sent full pitch via voice note Mar 9: 3K early price, payment plan, 90-day roadmap, guarantee. Awaiting reply|
+|Matt Pham|@matt-pham-3833|Skool (CA)|5 - Bridge sent|Melbourne. Content SOP work. Claude Skills storage issue. Bridge to 1-1 call sent Mar 9. Awaiting reply|
 
 ## Qualifying (Stage 3-4)
 
@@ -56,7 +61,8 @@
 |Enray Liu|syarne|IG (ManyChat)|3 - Permission sent|Finance Softwares lead. Positive AV. Permission sent Mar 7. **ZOMBIE:** Previously skipped as setter/closer recruiter. Flagged for Jason|
 |Sebastien Perreault|sebastienperreault.15|IG (ManyChat)|4 - Q1 sent|Athlete personal brand coach. DFY clients, wants coaching. Q1 sent Mar 7|
 |Collin Bexten|--|Skool (CA)|3 - Permission sent|NY. Permission sent Mar 7|
-|Koby Luedtke|--|Skool (CA)|4 - Q2 sent|$40K MRR agency, Chicago. Wants to slim to content packages, grow presence, dial systems. Q2 sent Mar 8|
+|Koby Luedtke|--|Skool (CA)|4 - Q3 sent|$40K MRR agency, Chicago. Wants to slim to content packages, grow presence, dial systems. Q3 sent Mar 9|
+|Jose Avila|--|Skool (CA)|3 - Permission sent|CA paid member. Permission Q sent Mar 9 (should have skipped straight to qualifying per voice correction)|
 |Anushk|--|IG (ManyChat)|4 - Q1 sent|Permission granted|
 |Mateja Proucil|--|Skool (CA)|4 - Q2 sent|Osijek, Croatia. Female. Content systems for experts. Wants to increase revenue, delegate work, more time for content. Q2 sent Mar 8|
 |Laraib Lodhi|--|Skool (CA)|4 - Q1 sent|London. AI automation + agency. Paid member|
@@ -69,7 +75,7 @@
 |Joey Mulcahy|byjoeym|IG (ManyChat)|4 - Q1 sent|Permission granted. Q1 sent Mar 8|
 |Jeevan Sai|--|IG (ManyChat)|3 - Permission sent|Positive AV. Permission sent Mar 8|
 |zay|zayth_egreat|IG (ManyChat)|3 - Permission sent|BGM Library. Positive AV. Permission sent Mar 8|
-|Lia Tee|--|Skool (CCU)|3 - Permission sent|Female. Writer/photographer, Berlin. Positive AV: makes money but not enough, "bad businesswoman, don't know how to sell." Permission sent Mar 8|
+|Lia Tee|--|Skool (CCU)|4 - Q3 sent|Female. Writer/photographer, Berlin. Goal: inspire people through art/writing, message > performance. Fear/anxiety blocks her from putting herself out there. Followed Jason on IG. Q3 sent Mar 8|
 
 |\_aryanxcreates|\_aryanxcreates|IG (ManyChat)|4 - Q3 sent|Tech/SaaS. Handled automation suspicion|
 |Dev \| Content Marketing|dev.gotmoney|IG (ManyChat)|4 - Q3 sent|76K verified. DFY biz, wants 100k/mo|
@@ -130,7 +136,7 @@
 |-|-|-|-|
 |Jaylen Rodriguez|--|Skool (CA)|NYC. Making videos for client. AV sent Mar 7|
 |Nick Warrior|--|Skool (CA)|Pivoting agency to coaching biz owners. AV sent Mar 7|
-|Matt Pham|--|Skool (CA)|Melbourne. Content SOP work. Claude Skills sent. AV sent Mar 6|
+|~~Matt Pham~~|--|Skool (CA)|Moved to Hot Leads Stage 5 (Mar 9)|
 |Jazmin Bautista|--|Skool (CA)|LA. AV sent Mar 7|
 
 ## Stage 1 -- Opener Sent
@@ -171,6 +177,8 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 * **Tyler Panzner** (Skool CA, NY, $80/mo) -- No refund. Response pending (flagged Mar 7)
 * **Amrit Gill** -- Booked Mar 9 9am PT via Calendly but not in pipeline. Who is this? (flagged Mar 8)
 * **Enray Liu (syarne)** -- ZOMBIE: Was in skipped.md as "setter/closer recruiter" but re-engaged via ManyChat auto-DM with positive AV. Already sent permission question. Keep or drop? (flagged Mar 8)
+* **Hoku Arnold** -- Booked Mar 9 12:15pm PT via Calendly but then DECLINED. Not in pipeline. Who is this? (flagged Mar 9)
+* **Rayan** -- Booked Mar 9 11:30am PT via Calendly. Not in pipeline previously. Who is this? (flagged Mar 9)
 
 ---
 
@@ -192,8 +200,8 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 |Mar 6|Damien Fraser|Good prospect, not financially qualified rn|
 |Mar 6|Ahmad Hassan|DECLINED on calendar. Disqualified|
 |Mar 3-4|Victoria Denisse|Definitely qualified. Re-engage|
-|Pre-session|Pablo Simancas|100% qualified. Re-engage|
-|Pre-session|Saharat Raksanoh|100% qualified. Re-engage|
+|Pre-session|Pablo Simancas|100% qualified. Moved to Hot Leads Stage 5 (Mar 9)|
+|Pre-session|Saharat Raksanoh|100% qualified. Moved to Hot Leads Stage 5 (Mar 9)|
 |Pre-session|CFong|Very qualified, network objection. Friend|
 |Pre-session|Goncalo Goncalves|See call-outcomes.md|
 
@@ -201,18 +209,20 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 |Date|Lead|Notes|
 |-|-|-|
-|Mar 9|Adam Ziak|Skool CA, Iceland. 8am PT|
-|Mar 9|Amrit Gill|NEW: Not in pipeline. Booked directly via Calendly. 9am PT|
 |Mar 9|Kunal Jiwani|Skool CA. 10am PT|
-|Mar 9|Aspen|--|
-|Mar 9|Leinhardt S. Vermillion|IG ManyChat. Gentleman content. France|
-|Mar 9|create (zhuma)|IG ManyChat. Beginner creator. 11am PT|
-|Mar 9|Cristiano Capasso|Skool CA, Rome. 1-1:30pm PT|
-|Mar 10|Aaron Harun Guner|Skool CA, KL|
+|Mar 9|Adam Ziak|Skool CA, Iceland. 10:45am PT (rescheduled)|
+|Mar 9|Rayan|NEW: Not in pipeline. 11:30am PT. Flagged|
+|Mar 9|Hoku Arnold|NEW: Not in pipeline. 12:15pm PT. DECLINED|
+|Mar 9|Cristiano Capasso|Skool CA, Rome. 1pm PT|
+|Mar 9|Amrit Gill|NEW: Not in pipeline. 9am PT. Flagged|
+|Mar 9|Aspen|Not on GCal|
+|Mar 9|Leinhardt S. Vermillion|Not on GCal|
+|Mar 9|create (zhuma)|Not on GCal|
 |Mar 10|Austin Besong|8am PT. RENESO CEO|
-|Mar 10|Shlomo|--|
-|Mar 10|KALPI|10:45am PT. Video editor|
 |Mar 10|Louis|10-10:30am PT|
+|Mar 10|KALPI|10:45am PT. Video editor|
+|Mar 10|Aaron Harun Guner|Skool CA, KL. 2:15pm PT|
+|Mar 10|Shlomo|3pm PT|
 |Mar 11|CeCe|10am PT|
 
 ### Awaiting Booking
@@ -269,14 +279,17 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 ## Priority Follow-ups (Next Session)
 
-1. **Mar 9 calls (6 back-to-back!)** -- Adam Ziak 8am, Amrit Gill 9am, Kunal 10am, zhuma 11am, Leinhardt 12:15pm, Cristiano 1pm PT
-2. **Check for replies** -- Mateja Q2 answer, Lia Tee permission, Josethemarian curiosity Q, Koby Q2, Liam Q2, Austin Coldiron Q2
-3. **Nudge stale Calendly-pending leads** -- Melvin, Frederik, Anish, Yared (5+ days)
-4. **Check for replies** -- Edmund (bridge sent), Abdulwahab8 (Calendly sent), Giancarlo (Calendly sent)
-5. **Continue qualifying** -- Laraib Q1, Collin Bexten permission
-6. **Handle Skool unreads** -- Always first before outreach
-7. **Skool outreach** -- ~50 unmessaged CA/CCU members remain (see `memory/skool-ca-backlog.md`)
-8. **10 completed calls with TBD outcomes** -- Jason needs to fill in `archive/call-outcomes.md`
+1. **Check Saharat reply** -- Full 1-on-1 pitch sent via voice note on iMessage. Awaiting reply to book call (Stage 5)
+2. **Check Pablo Simancas reply** -- Bridge to second call sent on Skool (Stage 5)
+3. **Check Matt Pham reply** -- Call bridge sent on Skool. He's in Melbourne, was asleep (Stage 5)
+4. **Check for replies** -- Koby Q3, Jose Avila permission, Lia Tee Q3, Mateja Q2, Liam Q2, Austin Coldiron Q2, Laraib Q1, Josethemarian curiosity Q
+5. **Kunal Jiwani reschedule** -- Jason needs to open a Calendly slot next week for him
+6. **Nudge stale Calendly-pending leads** -- Melvin, Frederik, Anish, Yared (5+ days)
+7. **Check for replies** -- Edmund (bridge sent), Abdulwahab8 (Calendly sent), Giancarlo (Calendly sent)
+8. **Continue qualifying** -- Collin Bexten permission
+9. **Skool outreach** -- ~50 unmessaged CA/CCU members remain (see `memory/skool-ca-backlog.md`)
+10. **10 completed calls with TBD outcomes** -- Jason needs to fill in `archive/call-outcomes.md`
+11. **Flagged items aging** -- Nico curnock, Marlon Orellana AI detection (3+ sessions). Tyler Panzner refund (3+ sessions)
 
 ---
 
@@ -286,12 +299,12 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 |-|-|
 | Stage 6 (Call Booked) | 10 upcoming |
 | Stage 6 (Calendly sent, awaiting booking) | 12 |
-| Stage 5 (Bridge sent) | 4 |
-| Stage 4 (Questions) | 15 |
+| Stage 5 (Bridge sent) | 7 |
+| Stage 4 (Questions) | 16 |
 | Stage 3 (Permission) | 8 |
 | Stage 2 (Curiosity/AV sent) | ~40 |
 | Stage 1 (Opener sent) | ~80 |
 | Calls Completed | ~16 |
 | Disqualified | 75+ |
 
-*Updated March 8, 2026 (Session 32). Stage 2 renamed from "AV sent" to "Curiosity/AV sent" per new flow.*
+*Updated March 9, 2026 (Session 34).*
