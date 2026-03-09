@@ -2,18 +2,19 @@
 
 > Updated at the end of each session. Tracks what's actually working.
 
-## Funnel Snapshot (as of March 7, 2026 -- post-audit)
+## Funnel Snapshot (as of March 9, 2026 -- Session 35)
 
 | Stage | Count | Notes |
 |-|-|-|
 | Stage 1 (Opener sent) | ~80 | Across IG Primary, General, Notifications, Skool |
-| Stage 2 (AV sent) | ~35 | 28 stale leads archived Mar 7 |
-| Stage 3 (Permission sent) | ~15 | Qualifying in progress |
-| Stage 4 (Questions sent) | ~15 | Qualifying in progress |
-| Stage 5 (Bridge/Calendly sent) | ~15 | Awaiting booking or call acceptance |
-| Stage 6 (Call Booked) | ~7 | Adam Ziak, Kunal, Aspen, Cristiano, Aaron, Louis, Shlomo |
-| Calls Completed | ~10 | Outcomes mostly TBD |
-| Disqualified | 70+ | 10 geo filter violations added Mar 7 |
+| Stage 2 (AV sent) | ~42 | Dame Sellz, It's DC officixl, Danilo Banaga added |
+| Stage 3 (Permission sent) | ~8 | 12..Nathan added |
+| Stage 4 (Questions sent) | ~17 | Jayant Mishra, PAUL BURGESS, Afsarchamp added |
+| Stage 5 (Bridge/Calendly sent) | ~7 | Melvin Hagström, Vicetoc added. Several graduated to Stage 6 |
+| Stage 6 (Call Booked) | ~12 upcoming | Albert Wang, KALPI, Leo, create (zhuma) booked. Leinhardt confirmed |
+| Stage 6 (Calendly sent, awaiting) | ~12 | Jarvis, Antonio added |
+| Calls Completed | ~16 | Outcomes mostly TBD |
+| Disqualified | 76+ | Zero Explanation added (geo filter) |
 
 ## Conversion Rates (Estimated from 9 sessions)
 
@@ -40,6 +41,9 @@
 - Albin: Quick qualifier, booked same day. Key: video editor wanting to monetize
 - CFong: Replied to bridge after delay. Key: patience, no double texting
 - Adam Ziak (Skool): SM agency, clear need, Iceland. Key: paid CA member = higher intent
+- Jarvis: Opener→call in one session. Key: content strategist with clear need, fast replies
+- Melvin Hagström: AI detection turned into call hook (Antonio pattern). Key: owning the AI, using it as value prop for tech-savvy leads
+- Dame Sellz: Market research call → low-ticket Skool CA pitch. Key: referencing prior call, $67/mo = low risk vs course he got scammed on
 
 ## Loss Patterns (What Leads to Disqualification)
 
@@ -62,4 +66,4 @@
 - [ ] Track which lead magnets correlate with highest booking rates
 - [ ] After April 3: Update objection-handling.md market research reframe
 
-*Last updated: March 7, 2026*
+*Last updated: March 9, 2026 (Session 35)*

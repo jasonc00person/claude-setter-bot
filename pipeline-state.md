@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 9, 2026 (Session 34 final)
+**Last updated:** March 9, 2026 (Session 35 checkpoint 4)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -28,7 +28,7 @@
 |Irfan Aziz|--|Skool (CA)|5 - Bridge sent|London. Bridge sent Mar 6|
 |Pat Divilly|--|Skool (CA)|6 - Calendly sent|Ireland. Awaiting booking|
 |Adam Ziak|--|Skool (CA)|6 - Call booked|Sun Mar 9, 10:45am PT (rescheduled). Iceland|
-|Kunal Jiwani|--|Skool (CA)|6 - Call booked|Sun Mar 9|
+|Kunal Jiwani|--|Skool (CA)|6 - Call booked|Mon Mar 16, 10am PT (rescheduled from Mar 9)|
 |Aspen|--|Skool / Direct|6 - Call booked|Sun Mar 9|
 |Cristiano Capasso|--|Skool (CA)|6 - Call booked|Mon Mar 9, 1-1:30pm PT. Rome|
 |Aaron Harun Guner|--|Skool (CA)|6 - Call booked|Mon Mar 10, 2:15pm PT. KL|
@@ -37,7 +37,7 @@
 |CeCe|--|Direct|6 - Call booked|Wed Mar 11, 10am PT|
 |Nikhil Rana|nikkhil108|IG (ManyChat)|6 - Calendly sent|Said "Lets go" to call. Calendly sent Mar 7|
 |Said-Azzam Righy|said.azzam.rg|IG (ManyChat)|6 - Calendly sent|Agreed to call. Calendly sent Mar 7|
-|Leinhardt S. Vermillion|louardi.nessah|IG (ManyChat)|6 - Call booked|Mar 9. Gentleman content. France|
+|Leinhardt S. Vermillion|louardi.nessah|IG (ManyChat)|6 - Call booked|Gentleman content. France. Booked confirmed Mar 9 ("Done it")|
 |Goncalo Goncalves|--|Skool / Direct|6 - Call booked|Pre-session booking|
 |create (zhuma)|zhumadaily|IG (ManyChat)|6 - Call booked|Mar 9, 11am PT. Beginner creator, portfolio building. Handled "sell me a course?" objection|
 |KALPI|lifeof.kalpi|IG (ManyChat)|6 - Call booked|Tue Mar 10, 10:45am PT. Video editor for digital creators|
@@ -46,17 +46,24 @@
 |Pablo Simancas|@pablo-simancas-6385|Skool (CA)|5 - Bridge sent|$15K/mo content agency (Chrome Goat). 3 RE clients. Needs systems/scaling. Had market research call Mar 6. Re-engaged Mar 9 on Skool. Bridge to second call sent|
 |Saharat Raksanoh|--|Text/iMessage|5 - Bridge sent|Fitness coach, zero clients. CA member. Had market research call Mar 4. Sent full pitch via voice note Mar 9: 3K early price, payment plan, 90-day roadmap, guarantee. Awaiting reply|
 |Matt Pham|@matt-pham-3833|Skool (CA)|5 - Bridge sent|Melbourne. Content SOP work. Claude Skills storage issue. Bridge to 1-1 call sent Mar 9. Awaiting reply|
+|Jarvis|\_\_1jay\_|IG (ManyChat)|6 - Calendly sent|HOT. Content strategist, friend's consulting biz. Went opener→call in one session. Calendly sent Mar 9|
+|Antonio Guerrieri|tonyybakes|IG (ManyChat)|6 - Calendly sent|Content Marketing. AI detection→call bridge (Pattern 7). Calendly sent Mar 9|
+|Leo \| Copywriting \| Marketing|leocorex|IG (ManyChat)|6 - Call booked|Copywriting/Marketing. Said "Scheduled" + confirmed meeting. Call booked Mar 9|
+|Vicetoc \| Designer|vicetoc|IG (ManyChat)|5 - Bridge sent|Roster designs + AI digital products for creators. Bridge to call sent Mar 9|
+|Melvin Hagström|ai.volve.news|IG (ManyChat)|5 - Bridge sent|AI Tools & Content Marketing. $106K ARR SaaS (shutting down). Did coaching, community, courses. Caught AI setter, Antonio pattern used. Bridge sent Mar 9|
+|Albert Wang|--|Skool (CA)|6 - Call booked|Booked via Jason on Skool. Mar 9|
 
 ## Qualifying (Stage 3-4)
 
 |Lead|Handle|Platform|Stage|Notes|
 |-|-|-|-|-|
+|12..........Nathan|nat.h.an\_12|IG (ManyChat)|3 - Permission sent|AI solopreneurship niche. Wants to monetize. Positive AV. Permission sent Mar 9|
+|Afsarchamp|afsarchamp|IG (ManyChat)|4 - Q1 sent|Mindset/Money/Fitness. Lost 40K account (suspended). Wants to start personal brand. Permission granted, Q1 sent Mar 9|
 |Sacha|sachablt\_|IG (Primary)|3 - Permission sent|Video editor|
 |Ben Petersen|dr.benpetersen|IG (ManyChat)|3 - Permission sent|161K fitness. Strong ICP. "$10 on IG"|
 |Ash|fitherover40|IG (Notifications)|3 - Permission sent|Fitness Coach Women 40+|
 |Fortune|fortunedreyy\_|IG (Notifications)|3 - Permission sent|Video Editor. Polishing fulfillment|
 |thrustonbenny|thrustonbenny|IG (Notifications)|3 - Permission sent|DP & Creative Director|
-|Vicetoc \| Designer|vicetoc|IG (ManyChat)|4 - Q2 sent|Roster designs. Wants to grow/reach people/get clients. Q2 sent|
 |Marko Kaufmann|marko\_kaufmann|IG (ManyChat)|3 - Permission sent|Founder Performance Systems. Europe, verified|
 |Enray Liu|syarne|IG (ManyChat)|3 - Permission sent|Finance Softwares lead. Positive AV. Permission sent Mar 7. **ZOMBIE:** Previously skipped as setter/closer recruiter. Flagged for Jason|
 |Sebastien Perreault|sebastienperreault.15|IG (ManyChat)|4 - Q1 sent|Athlete personal brand coach. DFY clients, wants coaching. Q1 sent Mar 7|
@@ -69,9 +76,11 @@
 |Liam Larsson|--|Skool (CA)|4 - Q2 sent|Stockholm. Music duo "LIL SD", 2.5M viral vid. Goal: go worldwide, live off music, reinvest. Q2 sent Mar 8|
 |Austin Coldiron|--|Skool (CA)|4 - Q2 sent|Bali|
 |Alkin Cakiralar|alkincakiralar|IG (ManyChat)|4 - Q2 sent|Scaling ads step by step|
-|PAUL BURGESS|paulburgess_|IG (ManyChat)|3 - Permission sent|OnlyFans agency @hushytalent + cosmetic surgery biz @serenecosmetic_. Permission sent Mar 8|
+|PAUL BURGESS|paulburgess_|IG (ManyChat)|4 - Q1 sent|OnlyFans agency @hushytalent + cosmetic surgery biz @serenecosmetic_. Wants AI automation for content research/plans. Q1 sent Mar 9|
 |MADBLOX252|madblox252|IG (ManyChat)|3 - Permission sent|Positive AV ("Looking to unlock"). BGM Library lead. Permission sent Mar 8|
 |CRAXON|craxonhq|IG (ManyChat)|4 - Q1 sent|Inspiring Possibility Thinking. Wants to unlock monetization. Q1 sent Mar 8|
+|~~Zero Explanation~~|zero_explanation99|IG (ManyChat)|~~DISQUALIFIED~~|India geo filter. Graceful exit sent Mar 9|
+|Jayant Mishra|_jayantmishra_|IG (ManyChat)|4 - Q1 sent|Video editing agency for coaches/founders. Inbound from Claude skill reel. Getting clients via IG DM outreach. Pivoted to short form. Q1 sent Mar 9|
 |Joey Mulcahy|byjoeym|IG (ManyChat)|4 - Q1 sent|Permission granted. Q1 sent Mar 8|
 |Jeevan Sai|--|IG (ManyChat)|3 - Permission sent|Positive AV. Permission sent Mar 8|
 |zay|zayth_egreat|IG (ManyChat)|3 - Permission sent|BGM Library. Positive AV. Permission sent Mar 8|
@@ -117,18 +126,25 @@
 |Darshan Mannur|--|IG (ManyChat)|BGM Library. Added Mar 7|
 |devbymighty|devbymighty|IG (ManyChat)|BGM Library manually sent. Added Mar 7|
 |Lewis|lewis.hindle1|IG (ManyChat)|summitais backend systems. Added Mar 7|
-|Danilo Banaga|cinemadanny|IG (ManyChat)|Filmmaker. Asked "Is this automation?" Added Mar 7|
+|Danilo Banaga|cinemadanny|IG (ManyChat)|Filmmaker. Planning to start, waiting on computer upgrade. Curiosity Q sent Mar 9|
 |Antoine Ryan|antoine.ryan|IG (ManyChat)|Free Sauce link. Added Mar 7|
 |Eliot Xavier|eliotprivv\_|IG (ManyChat)|BGM Library auto. AV sent Mar 7|
 |jakubvetchy|jakubvetchy|IG (ManyChat)|Claude Skills auto. AV sent Mar 7|
 |Bojan Obradovic|obojan.ai|IG (ManyChat)|Claude Skills lead. AV sent Mar 8|
-|Zero Explanation|zero_explanation99|IG (ManyChat)|Viral Streamer Clips. 1 month in. AV sent Mar 8|
+|~~Zero Explanation~~|zero_explanation99|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 9)|
 |Shiddhartha Sinha|slash.frame|IG (ManyChat)|Content Strategist. Free Sauce lead. AV sent Mar 8|
 |Szabó Zétény|iamzetenyszabo|IG (ManyChat)|BGM Library lead. AV sent, read, no reply. Mar 8|
 |Tanishq Jain|thetanishqjain|IG (ManyChat)|BGM Library auto. AV sent Mar 7|
 |Chandrangshu Paul Choudhury|chandrangshuu|IG (ManyChat)|BGM Library auto. AV sent Mar 8|
 |Jaun|thesocial.authority|IG (ManyChat)|Brand Authority Builder. Content Marketing. BGM Library delivered. AV sent Mar 8|
 |Josethemarian|jose\_la\_marian|IG (ManyChat)|BGM Library manually sent (button glitch). Curiosity Q sent Mar 8|
+|~~12..........Nathan~~|nat.h.an\_12|IG (ManyChat)|Moved to Qualifying Stage 3 (Mar 9)|
+|Ty \| Social Media Marketing|tylivezey|IG (ManyChat)|Shared Poppy AI reel. SMM/Content Creation. Old lead from Sep 2025. Curiosity Q sent Mar 9|
+|Sajid Shaik|bizsajid|IG (ManyChat)|MATRIX keyword. Old follower Feb 28. Curiosity Q sent Mar 9|
+|Pol Vaque|polvaque|IG (ManyChat)|Growth Partner. Scales high ticket offers w/ funnels. Curiosity Q about IG lead gen sent Mar 9|
+|It's DC officixl|itsdcofficixl_sa|IG (ManyChat)|Free Sauce lead. IG tips/tutorials content. AV Q sent Mar 9|
+|Dame Sellz|dame.sel1z|IG (ManyChat)|= Damien Fraser. Had market research call Mar 6. Barber, Australia. Skool CA pitch sent ($67/mo). Link + pressure removal sent Mar 9|
+|~~Jayant Mishra~~|_jayantmishra_|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 9)|
 
 ### Skool
 
@@ -177,8 +193,10 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 * **Tyler Panzner** (Skool CA, NY, $80/mo) -- No refund. Response pending (flagged Mar 7)
 * **Amrit Gill** -- Booked Mar 9 9am PT via Calendly but not in pipeline. Who is this? (flagged Mar 8)
 * **Enray Liu (syarne)** -- ZOMBIE: Was in skipped.md as "setter/closer recruiter" but re-engaged via ManyChat auto-DM with positive AV. Already sent permission question. Keep or drop? (flagged Mar 8)
-* **Hoku Arnold** -- Booked Mar 9 12:15pm PT via Calendly but then DECLINED. Not in pipeline. Who is this? (flagged Mar 9)
+* **Hoku Arnold** -- Rescheduled to Mar 9 1:45pm PT (was DECLINED, now confirmed). Not in pipeline previously. Who is this? (flagged Mar 9)
 * **Rayan** -- Booked Mar 9 11:30am PT via Calendly. Not in pipeline previously. Who is this? (flagged Mar 9)
+* **Dame Sellz (dame.sel1z)** -- HANDLED: Skool CA pitch sent ($67/mo) with link + pressure removal. Awaiting reply (Mar 9)
+* **Leo \| Copywriting (leocorex)** -- Call booked and likely already happened. Jason needs to update call outcome (flagged Mar 9)
 
 ---
 
@@ -209,10 +227,10 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 |Date|Lead|Notes|
 |-|-|-|
-|Mar 9|Kunal Jiwani|Skool CA. 10am PT|
+|Mar 16|Kunal Jiwani|Skool CA. 10am PT (rescheduled from Mar 9)|
 |Mar 9|Adam Ziak|Skool CA, Iceland. 10:45am PT (rescheduled)|
 |Mar 9|Rayan|NEW: Not in pipeline. 11:30am PT. Flagged|
-|Mar 9|Hoku Arnold|NEW: Not in pipeline. 12:15pm PT. DECLINED|
+|Mar 9|Hoku Arnold|NEW: Not in pipeline. 1:45pm PT. Rescheduled, now confirmed|
 |Mar 9|Cristiano Capasso|Skool CA, Rome. 1pm PT|
 |Mar 9|Amrit Gill|NEW: Not in pipeline. 9am PT. Flagged|
 |Mar 9|Aspen|Not on GCal|
@@ -279,11 +297,15 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 ## Priority Follow-ups (Next Session)
 
-1. **Check Saharat reply** -- Full 1-on-1 pitch sent via voice note on iMessage. Awaiting reply to book call (Stage 5)
-2. **Check Pablo Simancas reply** -- Bridge to second call sent on Skool (Stage 5)
-3. **Check Matt Pham reply** -- Call bridge sent on Skool. He's in Melbourne, was asleep (Stage 5)
-4. **Check for replies** -- Koby Q3, Jose Avila permission, Lia Tee Q3, Mateja Q2, Liam Q2, Austin Coldiron Q2, Laraib Q1, Josethemarian curiosity Q
-5. **Kunal Jiwani reschedule** -- Jason needs to open a Calendly slot next week for him
+1. **Check Melvin Hagström reply** -- HOT. AI detection handled (Antonio pattern), bridge sent. $106K ARR, AI tools niche. Expecting reply soon (Stage 5)
+2. **Check Saharat reply** -- Full 1-on-1 pitch sent via voice note on iMessage. Awaiting reply to book call (Stage 5)
+3. **Check Pablo Simancas reply** -- Bridge to second call sent on Skool (Stage 5)
+4. **Check Matt Pham reply** -- Call bridge sent on Skool. He's in Melbourne, was asleep (Stage 5)
+5. **Check PAUL BURGESS reply** -- Q1 sent (agency + cosmetics + AI automation). Stage 4
+6. **Check Danilo Banaga reply** -- Curiosity Q sent. Pre-revenue filmmaker waiting on computer. Stage 2
+7. **Check for replies** -- Koby Q3, Jose Avila permission, Lia Tee Q3, Mateja Q2, Liam Q2, Austin Coldiron Q2, Laraib Q1, Josethemarian curiosity Q, 12..Nathan permission, Afsarchamp Q1, Pol Vaque curiosity Q
+8. **Leinhardt S. Vermillion** -- Call booked and confirmed. Check GCal for date/time
+9. **Kunal Jiwani reschedule** -- Jason needs to open a Calendly slot next week for him
 6. **Nudge stale Calendly-pending leads** -- Melvin, Frederik, Anish, Yared (5+ days)
 7. **Check for replies** -- Edmund (bridge sent), Abdulwahab8 (Calendly sent), Giancarlo (Calendly sent)
 8. **Continue qualifying** -- Collin Bexten permission
@@ -297,14 +319,14 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 | Stage | Count |
 |-|-|
-| Stage 6 (Call Booked) | 10 upcoming |
+| Stage 6 (Call Booked) | 12 upcoming |
 | Stage 6 (Calendly sent, awaiting booking) | 12 |
 | Stage 5 (Bridge sent) | 7 |
-| Stage 4 (Questions) | 16 |
+| Stage 4 (Questions) | 17 |
 | Stage 3 (Permission) | 8 |
-| Stage 2 (Curiosity/AV sent) | ~40 |
+| Stage 2 (Curiosity/AV sent) | ~42 |
 | Stage 1 (Opener sent) | ~80 |
 | Calls Completed | ~16 |
-| Disqualified | 75+ |
+| Disqualified | 76+ |
 
-*Updated March 9, 2026 (Session 34).*
+*Updated March 9, 2026 (Session 35).*

@@ -151,4 +151,33 @@
 
 ---
 
+## Pattern 7: Antonio Guerrieri — AI Detection → Call Bridge (Mar 9, 2026)
+
+**Context:** Antonio Guerrieri (tonyybakes, Content Marketing) noticed/called out the AI setter automation in the DM conversation. Instead of denying or deflecting, Jason's approach was to OWN IT and turn it into the hook for a call.
+
+**What was sent (3 messages):**
+1. "bro thats actually fire that u picked up on it haha most ppl have no idea 🤩 yea man i built the whole AI setter setup myself its honestly insane"
+2. "if u wanna hop on a quick call i can walk u thru exactly how i set the whole thing up"
+3. "no pitch or anything just think ud genuinely find it interesting since ur already in the space"
+
+**Antonio's reply:** "Yeah, dude absolutely send me a link"
+
+**Result:** Calendly sent. Stage 6.
+
+### Why this works
+
+1. **Own it, don't deny.** When someone catches the automation, don't pretend it doesn't exist. Treat it like a flex — "most ppl have no idea" makes them feel smart for spotting it.
+2. **Turn the detection into the value prop.** The AI setter IS the interesting thing. Content marketers and creators would want to know how to build one. Use it as the call hook.
+3. **"no pitch" + "since ur already in the space"** = pressure removal + flattery combo. Makes them feel like peers being let in on something cool, not prospects being sold to.
+4. **Works specifically for:** People in content/marketing/tech who notice the automation. NOT for leads who are upset about it — those need a different approach (see musicbyplv flag).
+
+### Rules extracted
+
+- **When a lead calls out the AI/automation: own it enthusiastically, don't deny.** "haha yeah i built the whole thing myself" > "no this is really me"
+- **Use the AI setup as the call hook for tech/marketing leads.** "wanna hop on a call and I'll show u how i set it up" is a genuine value offer that also gets them on a call.
+- **Pressure removal is critical here.** "no pitch" makes it feel like showing off a cool project, not a sales tactic.
+- **Only use this bridge when the person is in content/marketing/tech.** For non-tech leads, use the standard qualifying pipeline instead.
+
+---
+
 *Add new corrections below as they happen. Each one makes the voice more accurate.*

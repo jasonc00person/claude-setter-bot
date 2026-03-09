@@ -72,3 +72,4 @@
 | Mr. Abdul Basit | basit_166 | 41 followers, cricket/personal content. Not ICP, likely South Asia. No biz | Unqualified |
 | Rayyan Rehman | -- | Karachi, Pakistan. FAILS GEO FILTER (Skool CA) | Unqualified |
 | Gabriel Genchev | gabriel.genchev | Declined after setter detection handled transparently. "I'm not interested" | Unqualified |
+| Zero Explanation | zero_explanation99 | India. FAILS GEO FILTER. Went through full pipeline (Stage 2→5) before revealing location. Graceful exit sent Mar 9 | Unqualified |
