@@ -37,7 +37,7 @@
 |CeCe|--|Direct|6 - Call booked|Wed Mar 11, 10am PT|
 |Nikhil Rana|nikkhil108|IG (ManyChat)|6 - Calendly sent|Said "Lets go" to call. Calendly sent Mar 7|
 |Said-Azzam Righy|said.azzam.rg|IG (ManyChat)|6 - Calendly sent|Agreed to call. Calendly sent Mar 7|
-|Leinhardt S. Vermillion|louardi.nessah|IG (ManyChat)|6 - Call booked|Gentleman content. France. Booked confirmed Mar 9 ("Done it")|
+|~~Leinhardt S. Vermillion~~|louardi.nessah|IG (ManyChat)|~~DISQUALIFIED~~|Unqualified per Jason. Call cancelled. Excuse sent Mar 9. Ghost after|
 |Goncalo Goncalves|--|Skool / Direct|6 - Call booked|Pre-session booking|
 |create (zhuma)|zhumadaily|IG (ManyChat)|6 - Call booked|Mar 9, 11am PT. Beginner creator, portfolio building. Handled "sell me a course?" objection|
 |KALPI|lifeof.kalpi|IG (ManyChat)|6 - Call booked|Tue Mar 10, 10:45am PT. Video editor for digital creators|
@@ -297,7 +297,8 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 ## Priority Follow-ups (Next Session)
 
-1. **Check Melvin Hagström reply** -- HOT. AI detection handled (Antonio pattern), bridge sent. $106K ARR, AI tools niche. Expecting reply soon (Stage 5)
+1. **NEW UNREADS (spotted at session end):** Antonio Guerrieri ("Yeah dude, I have nothing for this we..."), Melvin Hagström ("Always down for a chat, share knowle..."), Afsarchamp ("I'm trying to build a good following an..."), Jayant Mishra (replied to Q1), KIRA (new inbound "Hey jason, I saw some of your reels..."), Dhruv Banthia ("Matrix")
+2. **Check Melvin Hagström reply** -- HOT. Replied positively to bridge ("Always down for a chat"). Book him!
 2. **Check Saharat reply** -- Full 1-on-1 pitch sent via voice note on iMessage. Awaiting reply to book call (Stage 5)
 3. **Check Pablo Simancas reply** -- Bridge to second call sent on Skool (Stage 5)
 4. **Check Matt Pham reply** -- Call bridge sent on Skool. He's in Melbourne, was asleep (Stage 5)

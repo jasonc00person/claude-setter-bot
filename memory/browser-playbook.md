@@ -226,7 +226,7 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 ## Key Lessons from Past Sessions (Condensed)
 
 - **ManyChat "Follower" entries are automation events**, not real messages. Blue dots but not actionable.
-- **ManyChat channel expiration fallback**: "This channel is not available for communication" = 24h window expired. Switch to IG native DMs.
+- **ManyChat "channel not available" is a LOADING ISSUE**: "This channel is not available for communication" does NOT mean the channel expired. It's a page loading glitch. Fix: refresh the page or navigate directly to the chat URL again and wait for it to load. Do NOT switch to IG native DMs.
 - **MUST scan full sidebar for blue dots BEFORE working sequentially.** Don't go top-to-bottom without checking for new replies first.
 - **ManyChat keyword triggers in conversation previews are NOT real replies.** "Follower", "Music", "Automate", "YT" etc. = automation event.
 - **Don't manually send lead magnet links from memory.** Find correct URLs from existing automation messages or `memory/lead-magnets.md`.
