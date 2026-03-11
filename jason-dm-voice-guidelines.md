@@ -266,7 +266,17 @@ Bad: "what have u tried so far to fix that? like have u tested any new content i
 The good version surfaces whether they've bought courses or coaching (= willingness to pay). The bad version is vague and doesn't qualify anything.
 
 **Bridge to Call:**
+
+Use "fractional SMM" framing, not "coaching program." From 12 sales calls: hands-on help positioning closed deals, course/program positioning didn't.
+
+*Default (works for most leads):*
 "That's fire - \[validate their specific situation]. I definitely think I can help you with that. Would you be opposed to hopping on a quick call where I can break down some of the strategies I use with my clients to help them scale on Instagram?"
+
+*Hands-on framing (use when lead is action-oriented or skeptical of courses):*
+"honestly I think I can help u with that. its not like a course or anything, its more like having a fractional social media manager, id literally help u with scripts, content strategy, and building ur pipeline 1 on 1. wanna hop on a quick call so I can show u what that looks like?"
+
+*Guarantee framing (use when lead has been burned by other programs):*
+"yea bro i get the skepticism. heres the deal, if i dont get u [specific result] in 90 days i keep working with u for free. wanna hop on a quick call and ill walk u through exactly how it works?"
 
 **Soft Call Invite (alternative — use when lead says they're not looking for coaching):**
 See `objection-handling.md` "I'm not looking for coaching" section for the canonical market research reframe. Expires April 3, 2026.

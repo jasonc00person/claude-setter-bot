@@ -58,6 +58,54 @@
 
 - **"Network quality" objection (CFong):** Qualified lead, wants to see other killers in the program making $20-50K/mo. Network > curriculum for him. This will come up again with experienced biz owners. Need social proof of high-performing members.
 
+## Call Conversion Data (12 Calls, Mar 4-10)
+
+| Metric | Value |
+|-|-|
+| Total calls | 12 |
+| Closed | 3 (George Mobbs, Saharat, Gobb) |
+| Close rate | 25% |
+| Follow-up needed | 6 (Victoria, Damien, Salim, Pierre, Pablo, Ayden) |
+| Not a fit | 2 (Brayden — no budget, CFong — too advanced) |
+| Avg price closed | ~$1.3K (range: $0 to $3K) |
+| $4K sticker closes | 0/12 |
+
+### What Closes Have in Common
+- High urgency (quitting jobs, "done with side quests," returning from breaks)
+- Existing relationship with Jason (prior client or community member)
+- Accepted creative payment terms (payment plans, early-founder discounts, pay-on-results)
+- Wanted hands-on help, not a course
+- All 3 closes happened Mar 9-10 after Jason iterated on pricing
+
+### Top Objections on Calls (by frequency)
+1. Price/budget (9/12) — $4K is the #1 killer
+2. Lack of proof/case studies (5/12) — no evidence of results for people like them
+3. Cohort vs 1-on-1 preference (4/12) — advanced leads reject group format
+4. Program not ready yet (3/12) — April 3 launch = buying a promise
+5. Burned by other coaches (3/12) — skeptical of coaching in general
+
+### What Worked on Calls
+- Market research reframe (lowered resistance)
+- Personal story (dropout to 10K/mo)
+- Flexible pricing (payment plans, discounts, conditional deals)
+- Done-for-you elements (scriptwriting, video review, 1-on-1s)
+- "Fractional SMM" positioning > "coaching program"
+- Clean guarantee: "3 clients in 90 days or I keep working with you free"
+
+### What Didn't Work on Calls
+- $4K sticker price (0 closes at full price)
+- Cohort pitch to advanced leads
+- No case studies / social proof
+- Generic "10K/month in 90 days" promise to leads already above 5K
+
+### Loss Patterns (New)
+- Budget constraint + low urgency = never closes on first call
+- "Hit me up when it's ready" = program not tangible enough yet
+- Advanced leads (>$10K/mo) want peer network, not coaching
+- French/non-English content = can't review their work = poor fit
+
+> Full analysis: `Sales Call Transcripts/analysis.md`
+
 ## Action Items for Self-Improvement
 
 - [ ] Jason: Fill in call outcomes for all 10 completed calls
@@ -66,4 +114,4 @@
 - [ ] Track which lead magnets correlate with highest booking rates
 - [ ] After April 3: Update objection-handling.md market research reframe
 
-*Last updated: March 9, 2026 (Session 35)*
+*Last updated: March 11, 2026 (added call conversion data from 12-transcript analysis)*

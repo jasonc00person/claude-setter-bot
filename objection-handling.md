@@ -105,7 +105,7 @@ if u ever wanna chat more about it just lmk 🤝
 
 ---
 
-## "I don't have money right now"
+## "I don't have money right now" (Pre-Call — Getting Them on the Call)
 
 ```
 totally get it bro, honestly the call is just to see if I can help
@@ -116,6 +116,60 @@ If they're still hesitant:
 ```
 for real tho it's just a convo, worst case u walk away with some free game 🤝
 ```
+
+---
+
+## Price Objections ON the Call (Post-Qualification)
+
+> From 12 sales calls (Mar 4-10): Price was the #1 objection (9/12 calls). $4K sticker closed 0 people. All 3 closes used flexible pricing. These are the patterns that actually worked.
+
+### "$4K is too much right now"
+
+**Option 1 — Payment plan (closed Saharat at $3K):**
+```
+totally get it bro. what if we did a payment plan?
+like $1K now and $1K a month for 2 months
+that way u dont have to drop it all at once
+```
+
+**Option 2 — Early founder discount (closed Gobb at $1K):**
+```
+honestly since ur one of the first people in this
+i can do $[lower price] rn as an early founder rate
+full price is gonna be $4K when i launch in April
+```
+
+**Option 3 — Pay on results (closed George):**
+```
+tell u what, why dont u just get started and when u close ur first client from this we can figure out the rest
+i just wanna help u win rn
+```
+
+### "I already paid for another program that didn't work"
+
+> 3/12 leads had been burned before (Saharat, Salim, Damien). Key: acknowledge the pain, differentiate with hands-on support.
+
+```
+yea bro i feel that, honestly most programs are just courses with group calls where u never get direct help
+thats exactly why this is different, its literally me working with u 1 on 1 every week
+if i dont get u [specific result] in 90 days i keep working with u for free
+```
+
+### "Can I think about it?" / Stalling on price
+
+```
+for sure bro no rush at all
+```
+
+Then: Do NOT follow up on price. Let them come back. If they're in the low-ticket community, they'll see results from other members and self-close.
+
+### Key Pricing Principles (From Call Data)
+
+1. **Never lead with $4K.** Start with the value, then present flexible options
+2. **All 3 closes used creative structures** (payment plans, early-access discounts, pay-on-results)
+3. **"Fractional SMM" framing > "coaching program"** — hands-on help justifies the price better than a course
+4. **Guarantee removes risk:** "3 clients in 90 days or I keep working with you for free" — simple, no BS clauses
+5. **Low-ticket nurture path:** If they can't pay now, get them into the $67/mo community. They'll upgrade when they have cash
 
 ---
 
@@ -188,4 +242,4 @@ If they don't have a clear gap but are curious about something specific (AI, set
 
 ---
 
-*Last updated: March 7, 2026*
+*Last updated: March 11, 2026 (added call pricing objections from 12-transcript analysis)*

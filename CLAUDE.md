@@ -215,7 +215,7 @@ Only advance a lead when they give a clear signal. Never skip stages.
   1. "What's the main goal u have with your page/brand rn?"
   2. "What's the biggest challenge holding u back from that?"
   3. "What have u tried so far to fix that?"
-- **Stage 4 -> 5**: Lead's qualifying answers indicate fit (wants growth, has a real challenge, has tried things that didn't work). Send bridge to call: "That's fire - [validate their situation]. I definitely think I can help you with that. Would you be opposed to hopping on a quick call where I can break down some of the strategies I use with my clients to help them scale on Instagram?"
+- **Stage 4 -> 5**: Lead's qualifying answers indicate fit (wants growth, has a real challenge, has tried things that didn't work). Send bridge to call using the appropriate framing from `jason-dm-voice-guidelines.md` (default, hands-on, or guarantee framing depending on lead type). **Fast-track signals:** If the lead mentions quitting their job, being "done" with their current path, or returning from a break with high urgency, they are top close candidates (from 12 call analysis: urgency was the #1 predictor of closing). Flag as hot and prioritize.
 - **Stage 5 -> 6**: Lead agrees to a call. Follow the Call Booking Flow below.
 - **Stage 6**: After booking confirmed, say "Sick dude speak soon!" and mark Stage 6 - Call Booked.
 
