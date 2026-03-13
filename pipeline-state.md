@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 12, 2026 (Session 40 final — ManyChat + Skool complete)
+**Last updated:** March 13, 2026 (Session 41 final — ManyChat complete)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -37,7 +37,7 @@
 |CeCe|--|Direct|6 - Call booked|Wed Mar 11, 10am PT|
 |Nikhil Rana|nikkhil108|IG (ManyChat)|6 - Calendly sent|Said "Lets go" to call. Calendly sent Mar 7|
 |Said-Azzam Righy|said.azzam.rg|IG (ManyChat)|6 - Calendly sent|Agreed to call. Calendly sent Mar 7|
-|Jay VanDamm|jay.vandammm|IG (ManyChat)|5 - Calendly sent|HOT INBOUND. Self-requested coaching info (Feb 19 + Mar 12). Replied Mar 12, bridged to call, Calendly sent. Awaiting booking|
+|Jay VanDamm|jay.vandammm|IG (ManyChat)|5 - Calendly sent|Was HOT INBOUND. Calendly sent but pivoted to pitching "momentum challenge/workshop" model. Reverse-pitching us. FLAGGED FOR JASON|
 |~~Leinhardt S. Vermillion~~|louardi.nessah|IG (ManyChat)|~~DISQUALIFIED~~|Unqualified per Jason. Call cancelled. Excuse sent Mar 9. Ghost after|
 |Goncalo Goncalves|--|Skool / Direct|6 - Call booked|Pre-session booking|
 |create (zhuma)|zhumadaily|IG (ManyChat)|6 - Call booked|Mar 9, 11am PT. Beginner creator, portfolio building. Handled "sell me a course?" objection|
@@ -94,8 +94,8 @@
 |Jeevan Sai|--|IG (ManyChat)|3 - Permission sent|Positive AV. Permission sent Mar 8|
 |zay|zayth_egreat|IG (ManyChat)|3 - Re-qualifying|BGM Library. Editing business. Just starting, discouraged by low views. Didn't answer permission Q directly. Gave consistency tip + asked about goal (clients vs portfolio). Mar 12|
 |Pol Vaque|polvaque|IG (ManyChat)|3 - Permission sent|Growth Partner. Scales high ticket offers w/ funnels. Using outreach + planning content for IG. Permission Q sent Mar 11|
-|devbymighty|devbymighty|IG (ManyChat)|3 - Permission sent|Software dev. Wants IG to get clients for building software. Permission Q sent Mar 11|
-|Lana Djikirba|dlana.l|IG (ManyChat)|3 - Permission sent|Female. Business analyst, low-code/vibecoding. Building "pocket SMM manager" product. Permission Q sent Mar 11|
+|~~devbymighty~~|devbymighty|IG (ManyChat)|~~Graceful exit~~|Nigerian software dev. Geo filter (Africa). Graceful exit sent Mar 13|
+|Lana Djikirba|dlana.l|IG (ManyChat)|4 - Q1 sent|Female. Business analyst, low-code/vibecoding. Building "pocket SMM manager" product. Permission granted. Q1 sent Mar 13|
 |Malcolm Mensah|malcolmmensah63|IG (ManyChat)|4 - Q2 sent|HOT. Wants to replace 9-5 in 2-3 months and go all in. Interested in n8n/Claude automations. Q1 answered, Q2 sent Mar 12. **Quit-job urgency = top close signal**|
 |Dev|\_\_.dev.\_|IG (ManyChat)|3 - Permission sent|Video editor at digital marketing company. Wants to unlock IG monetization + extra income through editing. Permission Q sent Mar 12|
 |~~Penbera's Portraits~~|penberas_portraits|IG (ManyChat)|~~Moved to Hot Leads~~|Agreed to call. Calendly sent Mar 12|
@@ -143,7 +143,7 @@
 |Darshan Mannur|--|IG (ManyChat)|BGM Library. Added Mar 7|
 |~~devbymighty~~|devbymighty|IG (ManyChat)|Moved to Qualifying Stage 3 (Mar 11)|
 |Lewis|lewis.hindle1|IG (ManyChat)|summitais backend systems. Added Mar 7|
-|Danilo Banaga|cinemadanny|IG (ManyChat)|Filmmaker. Planning to start, waiting on computer upgrade. Curiosity Q sent Mar 9|
+|Danilo Banaga|cinemadanny|IG (ManyChat)|Filmmaker. Planning to start, waiting on computer upgrade. Replied Mar 13 about starting videography/editing biz. Curiosity Q about niche sent. Stage 2|
 |Antoine Ryan|antoine.ryan|IG (ManyChat)|Free Sauce link. Added Mar 7|
 |Eliot Xavier|eliotprivv\_|IG (ManyChat)|BGM Library auto. AV sent Mar 7|
 |jakubvetchy|jakubvetchy|IG (ManyChat)|Claude Skills auto. AV sent Mar 7|
@@ -200,6 +200,10 @@
 |Isa|isaabuhuseina|IG (ManyChat)|BGM Library sent manually (button glitch). Curiosity Q sent. Stage 2. Mar 12|
 |Proshanto'Da|proshantodatalk|IG (ManyChat)|BGM Library lead. Does YouTube documentaries. Curiosity Q + monetization Q sent. Stage 2. Mar 12|
 |Riya Singh Designs|riyu.thedesigner|IG (ManyChat)|YouTube Thumbnails. Shared 2 reels. Curiosity Q sent. Stage 1/2. Mar 12|
+|Paul Fowleer|paulfowleer|IG (ManyChat)|Influencer/model management. Inbound: "wanted to talk to you for a long time." Replied, curiosity Q about his work sent. Stage 2. Mar 13|
+|Amna|--|IG (ManyChat)|Content OS lead. Curiosity Q sent. Stage 2. Mar 13|
+|Dean \| Digital Assets|--|IG (ManyChat)|Content OS lead. Curiosity Q sent. Stage 2. Mar 13|
+|layt.mcc|layt.mcc|IG (ManyChat)|BGM Library sent + curiosity Q. Stage 2. Mar 13|
 
 ### Skool
 
@@ -257,13 +261,14 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 * **Dame Sellz (dame.sel1z)** -- HANDLED: Skool CA pitch sent ($67/mo) with link + pressure removal. Awaiting reply (Mar 9)
 * ~~**Leo \| Copywriting (leocorex)**~~ -- RESOLVED: Rebooked as "Rayan Leo". Fri Mar 13, 11:30am PT
 * **Danielle Smith** -- NEW Calendly booking Fri Mar 13, 1:15pm PT (danielle.allthingslife@gmail.com). Not in pipeline. Who is this? (flagged Mar 10)
-* **"Jason X Patrick Call"** -- Mar 12, 11:30am PT (patappid2222@gmail.com). Non-Calendly event. Is this Pat Divilly? (flagged Mar 10)
+* ~~**"Jason X Patrick Call"**~~ -- RESOLVED: Now shows as "Patrick x Jason 1-1 Scripting/Ideation Call" Mar 17, 1:30pm PT (patappid2222@gmail.com). Non-Calendly, client call
 * **Saharat Raksanoh SIGNED UP** -- GCal shows "Saharat x Jason Onboarding Call" Mar 13, 4:30pm PT. Looks like he closed! (flagged Mar 10)
 * **URGENT: BRIAN GLUSOVICH (bglusovich_fit)** -- Online Fitness Coach. Expressed suicidal ideation ("kinda of want to unalive myself ngl bro"). Responded with empathy. Jason should personally follow up. This is NOT a sales lead right now. (flagged Mar 10)
 * **Shutova Victoria (Yocreate/Higgsfield)** -- Brand deal inquiry. Wants Reel + bio link for 5 days. Content creation niche campaign. Tight deadline (1 week). Jason should reply with rates. (flagged Mar 11)
 * **Kimi AI** -- Paid collab request. Wants Jason to early-test KimiClaw (cloud-native browser agent) and feature in a Reel. (flagged Mar 11)
 * **Matt Harden** (@matt-harden-7504) -- From implementation call. Asking about the AI DM setter tool: "Can you tell me about this AI DM setter? I need this!" Acknowledged, said will send details. Jason should handle personally. (flagged Mar 12)
 * **Goncalo Goncalves** (@xenos-smith-4642) -- #1 on 30-day leaderboard. Asking about CA guarantee at 3 months: "wasn't there a guarantee or smth?" Told him checking details. Jason should respond with guarantee terms. (flagged Mar 12)
+* **Jay VanDamm** (jay.vandammm) -- Was Stage 5 Calendly sent. Instead of booking, pivoted to pitching us on a "momentum challenge/workshop" model for IG coaches. Asking to send a video. Reverse-pitching. Jason should decide: engage or drop? (flagged Mar 13)
 
 ---
 

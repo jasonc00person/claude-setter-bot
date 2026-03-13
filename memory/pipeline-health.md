@@ -2,19 +2,19 @@
 
 > Updated at the end of each session. Tracks what's actually working.
 
-## Funnel Snapshot (as of March 9, 2026 -- Session 35)
+## Funnel Snapshot (as of March 13, 2026 -- Session 41)
 
 | Stage | Count | Notes |
 |-|-|-|
 | Stage 1 (Opener sent) | ~80 | Across IG Primary, General, Notifications, Skool |
-| Stage 2 (AV sent) | ~42 | Dame Sellz, It's DC officixl, Danilo Banaga added |
-| Stage 3 (Permission sent) | ~8 | 12..Nathan added |
-| Stage 4 (Questions sent) | ~17 | Jayant Mishra, PAUL BURGESS, Afsarchamp added |
-| Stage 5 (Bridge/Calendly sent) | ~7 | Melvin Hagström, Vicetoc added. Several graduated to Stage 6 |
-| Stage 6 (Call Booked) | ~12 upcoming | Albert Wang, KALPI, Leo, create (zhuma) booked. Leinhardt confirmed |
-| Stage 6 (Calendly sent, awaiting) | ~12 | Jarvis, Antonio added |
-| Calls Completed | ~16 | Outcomes mostly TBD |
-| Disqualified | 76+ | Zero Explanation added (geo filter) |
+| Stage 2 (AV sent) | ~48 | Paul Fowleer, Amna, Dean, layt.mcc, Danilo updated added |
+| Stage 3 (Permission sent) | ~7 | devbymighty geo-filtered out |
+| Stage 4 (Questions sent) | ~18 | Lana Djikirba Q1, mohd_atif Q2, Yohan Q2, Malcolm Q2 added |
+| Stage 5 (Bridge/Calendly sent) | ~5 | Penbera + Afsarchamp graduated to Stage 6. Jay VanDamm pivoted to pitching |
+| Stage 6 (Call Booked) | ~12 upcoming | Koby, Antonio, Melvin Hagström on Mar 16 |
+| Stage 6 (Calendly sent, awaiting) | ~14 | Penbera's Portraits, Afsarchamp added |
+| Calls Completed | ~20 | Paul Burgess, Albert Wang ($3K PIF!), Pablo today |
+| Disqualified | 78+ | devbymighty (geo), Edward M Brady added |
 
 ## Conversion Rates (Estimated from 9 sessions)
 
@@ -62,20 +62,22 @@
 
 | Metric | Value |
 |-|-|
-| Total calls | 12 |
-| Closed | 3 (George Mobbs, Saharat, Gobb) |
-| Close rate | 25% |
+| Total calls | 13 |
+| Closed | 4 (George Mobbs, Saharat, Gobb, Albert Wang) |
+| Close rate | 31% (4/13) |
 | Follow-up needed | 6 (Victoria, Damien, Salim, Pierre, Pablo, Ayden) |
 | Not a fit | 2 (Brayden — no budget, CFong — too advanced) |
-| Avg price closed | ~$1.3K (range: $0 to $3K) |
-| $4K sticker closes | 0/12 |
+| Avg price closed | ~$1.75K (range: $0 to $3K) |
+| $4K sticker closes | 0/13 |
+| Total revenue closed | ~$7K ($0 + $3K + $1K + $3K) |
 
 ### What Closes Have in Common
 - High urgency (quitting jobs, "done with side quests," returning from breaks)
 - Existing relationship with Jason (prior client or community member)
 - Accepted creative payment terms (payment plans, early-founder discounts, pay-on-results)
 - Wanted hands-on help, not a course
-- All 3 closes happened Mar 9-10 after Jason iterated on pricing
+- All 4 closes happened Mar 9-12 after Jason iterated on pricing
+- Albert Wang: $3K PIF at "early bird" discount (from $4K). 2-week money-back + results guarantee closed the deal. Already in coaching programs = skeptical but serious buyer
 
 ### Top Objections on Calls (by frequency)
 1. Price/budget (9/12) — $4K is the #1 killer
@@ -114,4 +116,4 @@
 - [ ] Track which lead magnets correlate with highest booking rates
 - [ ] After April 3: Update objection-handling.md market research reframe
 
-*Last updated: March 11, 2026 (added call conversion data from 12-transcript analysis)*
+*Last updated: March 13, 2026 (Session 41 — ManyChat round 2 complete)*

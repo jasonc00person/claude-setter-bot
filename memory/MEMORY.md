@@ -20,6 +20,11 @@
 - `archive/skipped.md` — Friends, not-a-fit, spam
 - `archive/call-outcomes.md` — Post-call results + re-engage list
 
+## Feedback
+
+- `memory/feedback_send_without_asking.md` — Don't ask before sending DMs, just send them
+- `memory/four-pillars-dm-setting.md` — The 4 Pillars: Conversation, Follow-ups, Prospecting, Outreach. Daily order + how they map to workflows. If not booking calls, one of these 4 is missing.
+
 ## Tool Rules
 
 - **Edit tool (not Bash) for pipeline-state.md updates.** Auto-approved, faster.
