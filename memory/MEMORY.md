@@ -31,6 +31,7 @@
 ## Tool Rules
 
 - **Edit tool (not Bash) for pipeline-state.md updates.** Auto-approved, faster.
+- **Git commands: NEVER use cd prefix.** Just run `git status`, `git push`, etc. directly. cd + git triggers security prompt. See `memory/feedback_git_commands.md`.
 - **Whisper STT** for voice notes. Full process: `memory/voice-message-process.md`
 - **Audio URL extraction:** Must use `console.log()` + `read_console_messages` (CDN URLs blocked by security filter on direct return)
 
