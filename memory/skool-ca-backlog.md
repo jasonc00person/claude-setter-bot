@@ -13,7 +13,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 > These were all contacted Mar 5 during Sessions 3-7. Confirmed via chat history. Do NOT double text.
 
-Yohan Thomas (Edmonton), James Wu (Taiwan — geo fail), Josh Hernandez (Denver), Simon Liu (SF), Niklas Falkenstein (Berlin), Armaan Sidhu (LA)
+Yohan Thomas (Edmonton), James Wu (Taiwan — geo fail), Josh Hernandez (Denver), Simon Liu (SF), Niklas Falkenstein (Berlin), Armaan Sidhu (LA), Vincent Huisman (Amsterdam), Justin Klein (NY), Hakeem Hoang (Melbourne), Brett Fullerton (Phoenix), Kelvin Hsu (NY), Otavio Zerbini (Miami), Mike Oddo (Phoenix, Real Estate)
 
 ## Not Yet Messaged / Needs Verification (Target Geo)
 
@@ -46,28 +46,28 @@ Yohan Thomas (Edmonton), James Wu (Taiwan — geo fail), Josh Hernandez (Denver)
 | Ana Carolina Pereira | NY (cancelling) | -- |
 | Leonid Kim | LA | -- |
 | Pedro Branco | London | -- |
-| Kelvin Hsu | NY | -- |
-| Larry Fan | California | -- |
+| ~~Kelvin Hsu~~ | ~~NY~~ | ~~Messaged Mar 5, no reply~~ |
+| Larry Fan | California | Surgeon, not ICP. Skip |
 | David W | Sydney | -- |
 | Nick Stacy | -- | -- |
 | Jazmina Lopez | Mexico City | -- |
 | Edgar Pfohl | Paris | -- |
 | Abdel Kader Jrab | Dubai | -- |
-| Otavio Zerbini | Miami | -- |
-| Justin Klein | NY | -- |
-| Brett Fullerton | Phoenix | -- |
+| ~~Otavio Zerbini~~ | ~~Miami~~ | ~~Messaged Mar 5, no reply~~ |
+| ~~Justin Klein~~ | ~~NY~~ | ~~Messaged Mar 5, no reply~~ |
+| ~~Brett Fullerton~~ | ~~Phoenix~~ | ~~Messaged Mar 5, no reply. Declined/churning~~ |
 | Gabe Saporta | LA | -- |
 | Marti Fox | Dubai | -- |
-| Vincent Huisman | Amsterdam | -- |
+| ~~Vincent Huisman~~ | ~~Amsterdam~~ | ~~Messaged Mar 5, no reply~~ |
 | John Ladd | Berlin | -- |
-| Hakeem Hoang | Melbourne | -- |
-| Shayan Maredia | Austin TX | -- |
+| ~~Hakeem Hoang~~ | ~~Melbourne~~ | ~~Messaged Mar 5, no reply~~ |
+| Shayan Maredia | Austin TX | Free member, referred by Jason. Skip |
 | Mikhail Nadeson | -- | $75/mo |
 | Elijah Bricker | NY | $800/yr (cancelled) |
 | Tulio Sasaya | LA | $80/mo |
 | Samuel Millsap | Chicago | Free |
 | Santiago Castro | LA | $80/mo (active 44d ago) |
-| Mike Oddo | -- | CA member |
+| ~~Mike Oddo~~ | ~~Phoenix~~ | ~~Messaged Mar 5, no reply. $480/yr~~ |
 
 ## Moved to Pipeline (Active)
 
@@ -93,5 +93,8 @@ Yohan Thomas (Edmonton), James Wu (Taiwan — geo fail), Josh Hernandez (Denver)
 - Victoria Denisse (Melbourne) -- Call completed Mar 3-4
 - Jose Avila (LA) -- Stage 1, welcome back opener sent Mar 8
 - Rayyan Rehman (Karachi) -- DISQUALIFIED, geo filter (Pakistan)
+- Nuno Machado Lopes (Lisbon) -- Stage 1, opener sent Mar 13. DNA Health & Fitness Coach
+- Equipo Expansión (Buenos Aires) -- SKIPPED, geo filter (Argentina/South America)
+- Tyler Panzner (NY) -- Stage 6, Calendly sent Mar 13. Re-engaged, agreed to call
 
-*~50 unmessaged, ~12 opener sent no reply, ~20 active in pipeline. Last updated: March 7, 2026*
+*~30 unmessaged (many confirmed messaged Mar 5), ~20 opener sent no reply, ~25 active in pipeline. Last updated: March 13, 2026*

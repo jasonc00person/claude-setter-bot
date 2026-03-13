@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 13, 2026 (Session 41 final — ManyChat complete)
+**Last updated:** March 13, 2026 (Session 42 — Prospecting + KB overhaul)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -61,6 +61,7 @@
 |Umar|socialcomumar|IG (ManyChat)|5 - Bridge sent|TikTok shop management. Goal: 10 clients at $5K/mo. Challenge: consistency. Tried: nothing yet. Bridge to call sent Mar 10|
 |Penbera's Portraits|penberas_portraits|IG (ManyChat)|6 - Calendly sent|HS junior, photographer. Goal: get hired by bigger creators. Challenge: time (school+soccer). Tried IG templates. Agreed to call. Calendly sent Mar 12|
 |Afsarchamp|afsarchamp|IG (ManyChat)|6 - Calendly sent|Mindset/Money/Fitness. Lost 40K account. Getting clients from own network only. Agreed to call. Calendly sent Mar 12|
+|Tyler Panzner|@tyler-panzner-1763|Skool (CA)|6 - Calendly sent|NY, $80/mo. Was going to cancel. Re-engaged asking about systems/implementation. Said yes to call. Calendly sent Mar 13|
 
 ## Qualifying (Stage 3-4)
 
@@ -216,7 +217,7 @@
 |Theo Smith|@faceless-automation-7730|Skool (CA)|Mauritius. YT growth/channel audits + Fiverr. Pitched services, redirected to qualifying. Curiosity Q sent Mar 10|
 |Lekhs Reddy|@lekhs-reddy-8152|Skool (CA)|NEW. Data & AI niche. Joined Mar 11. Commented "interested" on $10k post. Welcome + curiosity Q sent Mar 11|
 |Simon Liu|@simon-liu-7223|Skool (CA)|Real estate marketing agency. Focused on IG for leads/clients. Building content for nurture. Q1 sent Mar 11|
-|Tyler Panzner|@tyler-panzner-1763|Skool (CA)|NY, $80/mo. Was going to cancel (no bandwidth). Re-engaged Mar 11 asking about Claude cowork + implementation. Bridge to call sent Mar 11. ONLINE|
+|~~Tyler Panzner~~|@tyler-panzner-1763|Skool (CA)|Moved to Hot Leads Stage 6 (Mar 13)|
 
 ## Stage 1 -- Opener Sent
 
@@ -230,11 +231,11 @@ AminEvan (aminevan66), iam\_alba22, SHANDA SUMPTER (shandasumpter), Panha (kach2
 
 ### IG Notification Outreach
 
-Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Prince Zerihun (1.9K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), Roger Rodulfo (3.9K), Tyler Casey (23.6K), Pierre Khoury (38.8K), Sebastien Perreault (25.5K), Kallaway (418K)
+Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Prince Zerihun (1.9K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), Roger Rodulfo (3.9K), Tyler Casey (23.6K), Pierre Khoury (38.8K), Sebastien Perreault (25.5K), Kallaway (418K), EF Socials (efsocials.de, 337, SM agency NRW Germany, personal opener sent Mar 13)
 
 ### Skool Openers
 
-Christian Kadivec (Ljubljana, CA), Allie Thaxton (NY, CA)
+Christian Kadivec (Ljubljana, CA), Allie Thaxton (NY, CA), Nuno Machado Lopes (Lisbon, CA - joined Mar 13, DNA Health & Fitness Coach)
 
 ### ManyChat Stage 1
 
@@ -253,10 +254,10 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 * **Nico curnock** -- AI detection response pending (flagged Mar 6, 3+ sessions)
 * **Marlon Orellana** -- AI detection response pending (flagged Mar 6, 3+ sessions)
 * **Aurelie Couble (musicbyplv)** -- Called out Dan Martell framework. Handling in progress (flagged Mar 7)
-* ~~**Tyler Panzner**~~ (Skool CA, NY, $80/mo) -- RESOLVED: Re-engaged Mar 11. Asking about Claude cowork + implementation services. Replied, qualifying in progress
+* ~~**Tyler Panzner**~~ (Skool CA, NY, $80/mo) -- RESOLVED: Calendly sent Mar 13. Agreed to call. Awaiting booking
 * **Amrit Gill** -- Booked Mar 9 9am PT via Calendly but not in pipeline. Who is this? (flagged Mar 8)
 * **Enray Liu (syarne)** -- ZOMBIE: Was in skipped.md as "setter/closer recruiter" but re-engaged via ManyChat auto-DM with positive AV. Already sent permission question. Keep or drop? (flagged Mar 8)
-* **Hoku Arnold** -- Rescheduled to Mar 9 1:45pm PT (was DECLINED, now confirmed). Not in pipeline previously. Who is this? (flagged Mar 9)
+* ~~**Hoku Arnold**~~ -- RESOLVED: Friend per Jason. Not a sales lead. (flagged Mar 9)
 * ~~**Rayan**~~ -- RESOLVED: Rayan = Leo | Copywriting (leocorex). Scheduled under real name. Call was no-show/miscommunication. Calendly re-sent for rescheduling (Mar 10)
 * **Dame Sellz (dame.sel1z)** -- HANDLED: Skool CA pitch sent ($67/mo) with link + pressure removal. Awaiting reply (Mar 9)
 * ~~**Leo \| Copywriting (leocorex)**~~ -- RESOLVED: Rebooked as "Rayan Leo". Fri Mar 13, 11:30am PT
@@ -349,6 +350,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 | ~~Koby Luedtke~~ | Mar 10 | BOOKED Mon Mar 16, 12pm PT |
 | Penbera's Portraits | Mar 12 | HS junior, photographer. Agreed to call for tomorrow |
 | Afsarchamp | Mar 12 | Mindset/Money/Fitness. Agreed to call |
+| Tyler Panzner | Mar 13 | Skool CA, NY. Systems/implementation. Agreed to call |
 
 ---
 
@@ -397,9 +399,11 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 8. **Nudge stale Calendly-pending leads** -- Melvin Zhou, Frederik, Anish, Yared (5+ days)
 9. **Check for replies** -- Koby Q3, Jose Avila Q1, Mateja Q3, Liam Q2, Austin Coldiron Q2, Laraib Q2, 12..Nathan permission, Afsarchamp bridge, Pol Vaque curiosity Q
 10. **Kunal Jiwani reschedule** -- Jason needs to open a Calendly slot next week for him
-11. **Skool outreach** -- ~50 unmessaged CA/CCU members remain (see `memory/skool-ca-backlog.md`)
-12. **10 completed calls with TBD outcomes** -- Jason needs to fill in `archive/call-outcomes.md`
-13. **Flagged items aging** -- Nico curnock, Marlon Orellana AI detection (3+ sessions). Tyler Panzner refund (3+ sessions)
+11. **Skool outreach** -- Backlog mostly exhausted (Mar 5 blitz). ~30 remain but most cancelling/inactive. Nuno (new member) opener sent, awaiting reply
+12. **Check Tyler Panzner booking** -- Calendly sent Mar 13. He was online. Should book quickly
+13. **Check Nuno Machado Lopes reply** -- New CA member (Lisbon, DNA coach). Opener sent Mar 13
+14. **Flagged items aging** -- Nico curnock, Marlon Orellana AI detection (3+ sessions)
+15. **Danielle Smith call prep** -- See `call-prep-danielle-smith.md`. Fri Mar 13, 1:15pm PT
 
 ---
 
@@ -417,4 +421,4 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 | Calls Completed | ~16 |
 | Disqualified | 76+ |
 
-*Updated March 9, 2026 (Session 35).*
+*Updated March 13, 2026 (Session 42).*

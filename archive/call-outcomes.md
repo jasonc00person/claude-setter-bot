@@ -10,6 +10,7 @@
 | George Mobbs | [Skool] | Skool | CLOSED Mar 9 | $0 (existing $2.5K client) | Free entry to 90-day program. Verbal: pay on first client. Onboarding booked. Bottleneck: content engine, not sales. "Done with side quests." |
 | Saharat Raksanoh | [Skool](https://www.skool.com/@saharat-raksanoh-7834) | Skool (CA) | CLOSED Mar 10 | $3K ($1K x 3mo) | Onboarding Fri 4:30 PM PST. Fitness coach, quitting job, first entrepreneur in family. Killer close: done-for-you scripting + 3-client guarantee |
 | Gobb | [Skool] | Skool | CLOSED Mar 10 | $1K ($500 + $500 on first client) | Onboarding Mar 11 2:30 PM PT. Music creator, early-founder discount. Cohort with Saharat. Video-first, good production quality |
+| Albert Wang | [Skool](https://www.skool.com/@albert-wang) | Skool (CA) | CLOSED Mar 12 | $3K PIF | Swing trader community ($300 MRR). Bottleneck: IG content execution (stuck at 200 views, needs 5-10K baseline). Guarantee: 5-10K views/video in 90 days or keep working free. 2-week money-back. Already uses Claude/Gemini for scripting, AI systems "almost there" but execution gap. Onboarding Mon Mar 16 3:45pm PT. WhatsApp Inner Circle added. Backbone Worksheet due before onboarding |
 
 ## Re-Engage When Offer Ready (High Priority)
 
@@ -43,4 +44,4 @@
 | Vyceheart | vyce_heart | Skool | Unqualified per Jason |
 | Harsh Surana | harsh.1806 | Skool | Unqualified per Jason |
 
-*Last updated: March 11, 2026 (backfilled from 12 call transcript analysis)*
+*Last updated: March 12, 2026 (Albert Wang CLOSED $3K PIF)*

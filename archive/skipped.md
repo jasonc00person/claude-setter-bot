@@ -2,7 +2,7 @@
 
 ## Friends / Family / Clients
 
-Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, daniellequesadaa, Jay (client), sara cooperson, Austin Connell, shana, Kade Trentham, Patrick Denis, Dave Cooperson, Blake Linde, Josh Butcher, Zain Zitawi, vndrewfox, Brandon Grogan (brandongrogan1), Maximus Ramminger (maximus.ramminger), f3durico, jjculling, ohitsjustlance, Nick Warrior (Skool), CFong (cfongofficial, friend from college), Brian H. Hough (brianhhough), Talha (mastertakatalha), Jazmin Bautista (jazminbautista, Skool CA, peer/superior, Jason handles personally), kasim5_ (kasim5_, works with creators/offers, peer/service provider)
+Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, daniellequesadaa, Jay (client), sara cooperson, Austin Connell, shana, Kade Trentham, Patrick Denis, Dave Cooperson, Blake Linde, Josh Butcher, Zain Zitawi, vndrewfox, Brandon Grogan (brandongrogan1), Maximus Ramminger (maximus.ramminger), f3durico, jjculling, ohitsjustlance, Nick Warrior (Skool), CFong (cfongofficial, friend from college), Brian H. Hough (brianhhough), Talha (mastertakatalha), Jazmin Bautista (jazminbautista, Skool CA, peer/superior, Jason handles personally), kasim5_ (kasim5_, works with creators/offers, peer/service provider), Hoku Arnold (friend, had Calendly booking Mar 9)
 
 ## Not a Fit (Wrong Niche / Spam / Pitching)
 

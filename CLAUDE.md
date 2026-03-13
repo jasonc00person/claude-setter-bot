@@ -8,44 +8,30 @@ This is a **business operations system** for Jason Cooperson (@jasoncooperson), 
 
 ## Key Files
 
-- **jason-dm-voice-guidelines.md** — Brand voice and tone reference for writing DMs as Jason. Must be followed exactly when drafting any DM copy.
-- **objection-handling.md** — Quick-reference for handling common objections (no time, not interested, ghosting, price questions). Follow this exactly when a lead pushes back.
-- **pipeline-state.md** — Active pipeline tracker: hot leads, qualifying, Stage 1-2, Calendly schedule. **This is the single source of truth for the pipeline. Update every 10 interactions.**
-- **user-preferences.md** — Workflow preferences and learned mistakes (rules that aren't in CLAUDE.md).
-- **memory/** — Persistent memory files (browser playbook, MEMORY.md).
-- **session-logs/** — Archived session logs by date (e.g., `2026-03-04.md`).
-- **reports/** — Session summary reports (e.g., `ig-outreach-march-4-2026.md`).
-- **archive/** — Disqualified leads (`disqualified.md`), skipped leads (`skipped.md`), and call outcomes (`call-outcomes.md`).
-- **memory/pipeline-health.md** — Conversion metrics, funnel snapshot, win/loss patterns. Updated every session end.
-- **memory/voice-corrections.md** — Real-time Jason voice corrections. Highest-signal calibration data.
+### DM Setting & Voice (Read before any DM session)
+- **setting-script.md** — **THE setting script.** Complete Stage 1-6 DM flow with voice rules, objection handling, decision trees, and real examples. This is the single authoritative doc for how to run a DM conversation from opener to booked call.
+- **jason-dm-voice-guidelines.md** — Deep voice reference. Greetings, reactions, abbreviations, tone spectrum, Hormozi principles. Consult for nuance beyond what's in the setting script.
+- **objection-handling.md** — Extended objection responses including post-call price objections. Setting script covers DM-stage objections; this file goes deeper.
 - **conversation-examples.md** — Real full conversations (opener to booked call). Study for tone, pacing, and stage transitions.
+- **sales-call-script.md** — Phone call script (what happens AFTER the Calendly booking). 7-phase call structure + objection cheat sheet.
 
-## DM Setting Framework (6-Stage Pipeline)
+### Pipeline & Operations
+- **pipeline-state.md** — Active pipeline tracker. **Single source of truth. Update every 10 interactions.**
+- **user-preferences.md** — Workflow preferences and learned mistakes (rules that aren't in CLAUDE.md).
 
-All Instagram DM outreach follows this progression:
+### Memory & Reference
+- **memory/** — Persistent memory files (browser playbook, MEMORY.md index, voice corrections, pipeline health, lead magnets, Skool backlog).
+- **memory/voice-corrections.md** — Real-time Jason voice corrections. Highest-signal calibration data.
+- **memory/pipeline-health.md** — Conversion metrics, funnel snapshot, win/loss patterns.
 
-1. **Stage 1 — Opener**: "Hey [Name]! Jason here -" with reference to their lead magnet
-2. **Stage 2 — Deliver Value + Curiosity**: Send lead magnet, then ask about their business/page with genuine curiosity. Surface whether they're monetizing through natural conversation, not a binary screening question. See `jason-dm-voice-guidelines.md` for the full Stage 2 flow.
-3. **Stage 3 — Permission to Qualify**: "Do you mind if I ask a couple questions?"
-4. **Stage 4 — 3 Qualifying Questions**: Goal, challenge, what they've tried
-5. **Stage 5 — Bridge to Call**: "Would you be opposed to hopping on a quick call?"
-6. **Stage 6 — Call Booked**: Research call is booked via Calendly
+### Archive & History
+- **session-logs/** — Archived session logs by date.
+- **reports/** — Session summary reports.
+- **archive/** — Disqualified leads, skipped leads, and call outcomes.
 
-## Voice Rules (Critical)
+## DM Setting Framework
 
-When writing any DM or message as Jason, follow `jason-dm-voice-guidelines.md` strictly:
-
-- **ALWAYS first person.** We ARE Jason. Say "I built this" not "Jason built this." Third person = game over.
-- **Tone**: Casual, high-energy, bro-culture. Never formal or corporate.
-- **Structure**: Short, punchy, multi-message (2-4 short messages, not paragraphs).
-- **Greetings**: "Yooo", "what up broski" — NEVER "Hello", "Hi there", "Dear"
-- **Abbreviations**: u, rn, tho, ur, ngl, tbh — lowercase default
-- **Validation first**: Always acknowledge what they said before transitioning
-- **No sales language**: No "limited time", "exclusive offer", "leverage", "synergy"
-- **No em dashes (—)**: Dead AI giveaway. Use commas, periods, or split into separate messages.
-- **Emojis**: Sparingly (max 1-2 per message), never emoji spam
-- **Pressure removal**: Use "(no pitch)", "Otherwise best of luck brother!"
-- **Humor on unexpected moments**: When a lead does something unexpected, lean into humor before redirecting. Be human, not robotic.
+The complete 6-stage pipeline (Opener -> Value + Curiosity -> Permission -> Qualifying -> Bridge -> Call Booked), all voice rules, objection handling, decision trees, and real examples live in **`setting-script.md`**. Read that file before any DM session. It is the single authoritative source for how to set.
 
 ## Working with Pipeline State
 
@@ -61,13 +47,9 @@ When writing any DM or message as Jason, follow `jason-dm-voice-guidelines.md` s
 - **Calendly Schedule**: Completed, Upcoming, Awaiting Booking
 - **Pipeline Metrics**: Stage counts, updated each session
 
-## Lead Magnets
-
-Common value assets referenced in outreach: Background Music Library, Content OS Template, Viral Hook Library 2.0, Instagram OS Overview, AI Thumbnail Guide, Late scheduling software (getlate.dev), Free Sauce page, ManyChat Guide, Creator Accelerator / Skool community links.
-
 ## Upcoming Deadline
 
-- **April 3, 2026:** The "market research" reframe in `objection-handling.md` expires. Update the "I'm not looking for coaching" response after this date.
+- **April 3, 2026:** The "market research" reframe in `objection-handling.md` and `setting-script.md` expires. Update the "I'm not looking for coaching" response after this date.
 
 ---
 
@@ -162,33 +144,30 @@ These files are unlikely to conflict because only one session typically touches 
 
 ---
 
-## DM Session Playbook (Step-by-Step Operating Procedure)
+## The 4 Workflows of DM Setting
 
-Each session runs ONE of three workflows. Jason will specify which at session start. **Stay in that workflow's tab only.**
+These are the 4 main workflows. At any given time, we are in one of these 4. All 4 must be done every day to keep the pipeline stacking. Doing only one per day causes the pipeline to dry out.
 
-### Session Start (All Workflows)
+| Order | Workflow | What It Is |
+|-|-|-|
+| 1st | **Conversing** | Handle replies. Move leads through stages. This is where calls get booked |
+| 2nd | **Following Up** | Re-engage stale leads, nudge "Awaiting Booking", bring quiet leads back to life |
+| 3rd | **Prospecting** | Find new ICP leads. Scan notifications, Skool members, story viewers. **Curate the best prospects into a list.** This is about FINDING, not messaging |
+| 4th | **Outreach** | Send the initial message (Stage 1 opener) to prospects found during Prospecting. Seeds tomorrow's conversations |
+
+**Why this order:** Conversing first = warmest leads, highest ROI. Outreach last so leads see messages overnight and reply by next session.
+
+**Critical:** Prospecting ≠ Outreach. Prospecting is **finding and curating**. Outreach is **sending the first message**. Two separate activities.
+
+All 4 workflows happen across all platforms (Instagram, ManyChat, Skool). They are activity-based, not platform-based. Full details in `memory/four-pillars-dm-setting.md`.
+
+### Session Start
 
 1. **Git pull + load pipeline state** (see Session Sync above)
 2. Read `pipeline-state.md` to load current state
-
-### Skool Workflow (Skool tab only)
-1. **Check GCal for new bookings** — cross-reference "Awaiting Booking" leads against calendar events
-2. **Handle all unread Skool chats first** — replies always come before outreach
-3. **Outreach ICP members** — CA first (newest members), then CCU free group
-4. **Full pipeline** — outreach through call booked, all stages
-5. **Update pipeline-state.md** every 10 interactions (using Edit tool)
-
-### ManyChat Workflow (ManyChat tab only)
-1. **Check GCal for new bookings** — cross-reference "Awaiting Booking" leads
-2. **Work replies only** — move leads through stages toward call booked
-3. **No new outreach** — only respond to existing conversations
-4. **Update pipeline-state.md** every 10 interactions (using Edit tool)
-
-### Instagram Notifications Workflow (Instagram tab only)
-1. **Monitor notifications** — story viewers, likers, reel likers, new followers
-2. **Find ICP prospects only** — check profile, bio, follower count, geo (US/Europe/Australia only)
-3. **Send personalized openers only** — no replying, no qualifying, no booking. Just Stage 1 openers
-4. **Update pipeline-state.md** every 10 interactions (using Edit tool)
+3. **Check GCal for new bookings** — cross-reference "Awaiting Booking" leads
+4. Jason specifies which workflow(s) to run this session
+5. At session end, note which workflows were NOT touched so next session can prioritize them
 
 ### Per-Conversation Decision Logic
 
@@ -196,52 +175,16 @@ When opening a conversation, determine the action:
 
 | Situation | Action |
 |-|-|
-| Lead replied | Read their message, determine current stage, advance or handle objection per `objection-handling.md` |
-| Lead seen message but no reply | Do NOT double text. Wait for them to respond. Check back next session. |
-| Lead hasn't seen message yet | Skip — check again next session |
-| Lead is a friend/family/already a client | Skip — do not message |
-| Lead replied in non-English | Skip — log as "non-English" |
-| Lead is pitching their services | Skip — log as "pitching their services" |
-| New follower or story reply | Treat as new Stage 1 opportunity (see New Lead Handling below) |
-| Lead already received ManyChat auto-DM today | Do NOT offer another lead magnet. Open with compliment + curiosity question about their page/niche instead. One lead magnet per first interaction. |
+| Lead replied | Read their message, determine current stage, advance per `setting-script.md` |
+| Lead seen message but no reply | Do NOT double text. Wait for them to respond. Check back next session |
+| Lead hasn't seen message yet | Skip, check again next session |
+| Lead is a friend/family/already a client | Skip, do not message |
+| Lead replied in non-English | Skip, log as "non-English" |
+| Lead is pitching their services | Skip, log as "pitching their services" |
+| New follower or story reply | Treat as new Stage 1 opportunity per `setting-script.md` |
+| Lead already received ManyChat auto-DM today | Do NOT offer another lead magnet. Compliment + curiosity question only |
 
-### Stage Advancement Rules
-
-Only advance a lead when they give a clear signal. Never skip stages.
-
-- **Stage 1 -> 2**: Lead replies to opener. Deliver the relevant lead magnet + open with genuine curiosity about their business/page. Ask about what they're working on, how it's going. Then naturally bridge to whether they're monetizing through IG (e.g. "are u getting clients through instagram rn?" or "have u started monetizing through ig or still building up?"). See `jason-dm-voice-guidelines.md` Stage 2 section for full flow and examples.
-- **Stage 2 -> 3**: Lead reveals they're making money and want more, OR they want to start monetizing, OR they share a clear goal/challenge that our coaching covers. Ask permission: "Do you mind if I ask a couple questions?"
-- **Stage 3 -> 4**: Lead gives permission to ask questions. Ask the 3 qualifying questions one at a time:
-  1. "What's the main goal u have with your page/brand rn?"
-  2. "What's the biggest challenge holding u back from that?"
-  3. "What have u tried so far to fix that?"
-- **Stage 4 -> 5**: Lead's qualifying answers indicate fit (wants growth, has a real challenge, has tried things that didn't work). Send bridge to call using the appropriate framing from `jason-dm-voice-guidelines.md` (default, hands-on, or guarantee framing depending on lead type). **Fast-track signals:** If the lead mentions quitting their job, being "done" with their current path, or returning from a break with high urgency, they are top close candidates (from 12 call analysis: urgency was the #1 predictor of closing). Flag as hot and prioritize.
-- **Stage 5 -> 6**: Lead agrees to a call. Follow the Call Booking Flow below.
-- **Stage 6**: After booking confirmed, say "Sick dude speak soon!" and mark Stage 6 - Call Booked.
-
-**If a lead's answers don't qualify (not serious, no real challenge, just wants freebies):**
-```
-respect bro! Otherwise best of luck brother
-```
-Mark as "Disqualified" in pipeline-state.md and move on.
-
----
-
-## Call Booking Flow
-
-When a lead agrees to a call (Stage 5 -> 6):
-
-1. **Send Calendly link with casual framing:**
-```
-sick dude here's the link
-https://calendly.com/jason-creatoreconomy/30m-1-1-meeting
-just grab whatever time works for u
-```
-
-2. **If they book:** "Sick dude speak soon!"
-3. **If they say they'll book later:** "bettt no rush, just whenever u get a sec"
-4. **If they don't book after 24h:** Light nudge: "hey bro did u get a chance to grab a time? no rush just wanna make sure the link worked haha"
-5. **After booking confirmed:** Update pipeline-state.md — change status to "Stage 6 - Call Booked" with the call date/time
+For stage advancement rules, call booking flow, objection handling, and voice rules, see `setting-script.md`.
 
 ---
 
@@ -286,32 +229,6 @@ Calendly events have these signatures:
 
 ### Calendly URL (for sending to leads)
 `https://calendly.com/jason-creatoreconomy/30m-1-1-meeting`
-
----
-
-## New Lead Handling
-
-Rules for incoming DMs from people not yet in the pipeline:
-
-### Story Replies
-1. Validate their reply naturally (react to what they said, not generic)
-2. Transition to asking about their page: "appreciate that bro! curious what your page is about"
-3. Based on their answer, offer a relevant lead magnet -> this becomes their Stage 1 opener
-
-### New Followers Who DM
-1. Welcome warmly: "yooo appreciate the follow bro!"
-2. Ask what they're working on: "curious what ur page is about and what u got going on"
-3. Based on their answer, offer the most relevant lead magnet
-4. This becomes their Stage 1 entry
-
-### Message Requests
-1. Check if it's a legit account (has posts, real profile pic, not spam/bot)
-2. If legit: treat same as new follower DM
-3. If spam/bot: ignore, do not accept request
-
-### People Pitching Their Services
-- **Do not engage.** Skip entirely.
-- Log in pipeline-state.md: "Skipped - pitching their services"
 
 ---
 
@@ -398,10 +315,8 @@ Separate workflow from IG/ManyChat. Two Skool groups to work:
 3. **Outreach free group (CCU) members** — Same approach, lower priority, massive pool
 4. **Draft promotional post for free group** — Toggle "send email to all" for reach
 
-### Skool Opener Flow (New Members)
-1. Welcome: "yooo welcome in bro! glad to have u here"
-2. Personalized opener referencing their bio/role
-3. This = Stage 1. Then follow standard 6-stage pipeline on replies.
+### Skool Opener Flow
+New member openers and the full pipeline flow are in `setting-script.md`. Welcome + personalized comment = Stage 1, then follow the standard 6-stage pipeline.
 
 ### Skool-Specific Rules
 - `pipeline-state.md` is the only tracker. Use Platform = "Skool"
