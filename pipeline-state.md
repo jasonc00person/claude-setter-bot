@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 13, 2026 (Session 43 — IG Notification Outreach ongoing)
+**Last updated:** March 14, 2026 (Session 44 — All 4 workflows)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -90,6 +90,7 @@
 |~~PAUL BURGESS~~|paulburgess_|IG (ManyChat)|~~Moved to Hot Leads~~|Calendly sent Mar 10|
 |MADBLOX252|madblox252|IG (ManyChat)|3 - Permission sent|Positive AV ("Looking to unlock"). BGM Library lead. Permission sent Mar 8|
 |CRAXON|craxonhq|IG (ManyChat)|5 - Bridge sent|Inspiring Possibility Thinking. Q2: reach+engagement. Q3: YouTube only. Bridge to call sent Mar 13|
+|fredycomics|fredycomics|IG (ManyChat)|4 - Q2 sent|**TOP CLOSE CANDIDATE.** True crime AI content. 1K views day 1. QUIT JOB: "employed failed me, i quit, trying to be independent." Q1: followers+monetization. Q2 sent Mar 14|
 |~~Zero Explanation~~|zero_explanation99|IG (ManyChat)|~~DISQUALIFIED~~|India geo filter. Graceful exit sent Mar 9|
 |~~Jayant Mishra~~|_jayantmishra_|IG (ManyChat)|~~Graceful exit~~|Video editing agency. Declined call: "enjoying figuring all this out myself." Graceful exit sent Mar 10. Door open|
 |Joey Mulcahy|byjoeym|IG (ManyChat)|4 - Q1 sent|Permission granted. Q1 sent Mar 8|
@@ -179,13 +180,13 @@
 |Akshatsadhu|akshatsadhu.web|IG (ManyChat)|Free Sauce lead. Hyped. Websites/funnels/AI strategist. Curiosity Q sent. Stage 2. Mar 10|
 |Fred Jérémie|fred.jeremie|IG (ManyChat)|AI & Digital Transformation Strategist. Primarily on LinkedIn, designs AI autonomous systems. Asked about IG interest. Stage 2. Mar 12|
 |optimistic_juice|optimistic_juice|IG (ManyChat)|Claude Content Skills auto-delivered. Curiosity Q sent Mar 12|
-|fredycomics|fredycomics|IG (ManyChat)|Content OS Template auto-delivered. Curiosity Q sent Mar 12|
+|fredycomics|fredycomics|IG (ManyChat)|True crime AI content. 1K views day 1. Permission granted "help is what i need." Q1 sent Mar 14. Stage 4|
 |ridam|ridam_pagi|IG (ManyChat)|BGM Library auto-delivered. Curiosity Q sent Mar 12|
 |ad_karoly|karo1y|IG (ManyChat)|Fashion/travel page (proteen.co) w/ business partner. Monetization Q sent Mar 12|
 |Vicetoc Designer|vicetoc|IG (ManyChat)|Building AI resource for creators (@VeltoMind). Offered content strategy help. Stage 2. Mar 12|
 |prathvi arya|prathxi|IG (ManyChat)|Fan, started creating because of Jason. Asked about monetization goal. Stage 2. Mar 12|
 |Mike \| Video Editor|_socialmike|IG (ManyChat)|Video editor. Curiosity Q sent Mar 12|
-|shaan|shadyss64|IG (ManyChat)|18yo founder, AI startup "genuine", building LinkedIn page. Asked about IG presence. Mar 12|
+|shaan|shadyss64|IG (ManyChat)|18yo founder, AI startup "genuine". Building MVP, growing LinkedIn. ASKED to be qualified. Q1 sent Mar 14. Stage 4|
 |~~Penbera's Portraits~~|penberas_portraits|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 12)|
 |lohitaksh|lohitaksh57_|IG (ManyChat)|Curiosity Q sent Mar 12|
 |Just my thoughts|justmythought11|IG (ManyChat)|Digital marketing beginner. Curiosity Q sent Mar 12|
@@ -393,21 +394,21 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 ## Priority Follow-ups (Next Session)
 
-1. **Check CRAXON reply** -- Bridge to call sent Mar 13. Reach+engagement challenge, YouTube only. Stage 5
-2. **Check Paul Fowleer reply** -- Permission Q sent Mar 13. 4yr influencer manager. Stage 3
-3. **Check fredycomics reply** -- Permission Q sent Mar 13. True crime AI content, 1K views day 1. Stage 3
-4. **Check Umar reply** -- Bridge to call sent. TikTok shop, $5K/mo clients. Stage 5
-5. **BRIAN GLUSOVICH** -- URGENT: Expressed suicidal ideation. Jason should personally follow up
-6. **Check Riya Singh Designs reply** -- She replied positively. Stage 2 advancing
-7. **Check Dean | Digital Assets reply** -- AV question sent. Wants advice. Stage 2
-8. **Check Yannic Ziane reply** -- $220K/mo, replied to our curiosity Q. Possible advanced lead
-9. **Nudge remaining stale Calendly leads** -- Melvin Zhou, Frederik, Anish (7-day ManyChat limit, need IG native), Said-Azzam, Abdulwahab8, Giancarlo, Edmund, Jarvis
-10. **YGY nudge sent** -- Check for booking. Wanted call after Mar 10
-11. **Nikhil Rana nudge sent** -- Check for booking. Said "Lets go" Mar 7
-12. **Check Tyler Panzner booking** -- Calendly sent Mar 13
-13. **Skool 4 unread chats** -- Need to check. Couldn't access chat panel this session
-14. **Flagged items aging** -- Nico curnock, Marlon Orellana AI detection (URGENT: 4+ sessions)
-15. **Check for replies** -- Koby Q3, Jose Avila Q1, Mateja Q3, Liam Q2, Laraib Q2, Malcolm Mensah Q2 (HOT quit-job signal)
+1. **fredycomics Q2 reply** -- TOP CLOSE CANDIDATE. Quit job signal. Q2 sent Mar 14. FAST-TRACK to call when Q3 answered
+2. **Malcolm Mensah Q3 reply** -- TOP CLOSE CANDIDATE. Quit job signal. Q3 sent Mar 13. Fast-track
+3. **shaan Q1 reply** -- High intent (asked to be qualified). AI startup. Q1 sent Mar 14
+4. **Check CRAXON reply** -- Bridge to call sent Mar 13. Stage 5
+5. **Check shrezzy_fitz reply** -- Fitness coach 18.8K. AV Q sent Mar 14. Stage 2
+6. **Check Harsh reply** -- Personal brand page. AV Q sent via IG Mar 14. Stage 2
+7. **Check Dean | Digital Assets reply** -- Permission Q sent Mar 14. Stage 3
+8. **Check Paul Fowleer reply** -- Permission Q sent Mar 13. Stage 3
+9. **Vibha / SocialCircle** -- FLAGGED: Paid reel collab $600/reel. Deadline Mar 20. Jason decide
+10. **Skool 5 unread chats** -- Can't access via automation. Check manually
+11. **Nudge remaining stale Calendly leads** -- Melvin Zhou, Frederik, Anish, Said-Azzam, Abdulwahab8, Giancarlo, Edmund, Jarvis (need IG native)
+12. **YGY + Nikhil Rana nudge replies** -- Nudged Mar 13. Check bookings
+13. **BRIAN GLUSOVICH** -- URGENT: Suicidal ideation. Jason personal follow-up
+14. **Flagged items aging** -- Nico curnock, Marlon Orellana (URGENT: 5+ sessions)
+15. **Check for replies** -- ad_karoly, Vicetoc, Vijay Jadhavar, Riya Singh Designs, Yannic Ziane
 
 ---
 
