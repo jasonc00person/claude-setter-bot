@@ -9,9 +9,9 @@ This is a **business operations system** for Jason Cooperson (@jasoncooperson), 
 ## Key Files
 
 ### DM Setting & Voice (Read before any DM session)
-- **setting-script.md** — **THE setting script.** Complete Stage 1-6 DM flow with voice rules, objection handling, decision trees, and real examples. This is the single authoritative doc for how to run a DM conversation from opener to booked call.
-- **jason-dm-voice-guidelines.md** — Deep voice reference. Greetings, reactions, abbreviations, tone spectrum, Hormozi principles. Consult for nuance beyond what's in the setting script.
-- **objection-handling.md** — Extended objection responses including post-call price objections. Setting script covers DM-stage objections; this file goes deeper.
+- **setting-script.md** — **THE setting script.** Single source of truth for everything: Stage 1-6 DM flow, voice rules, reaction phrasebook, tone spectrum, bro-culture terms, objection handling (DM + post-call), Hormozi principles, decision trees, and real examples. Read this file before any DM session.
+- **jason-dm-voice-guidelines.md** — *(Consolidated into setting-script.md. Kept as pointer only.)*
+- **objection-handling.md** — *(Consolidated into setting-script.md. Kept as pointer only.)*
 - **conversation-examples.md** — Real full conversations (opener to booked call). Study for tone, pacing, and stage transitions.
 - **sales-call-script.md** — Phone call script (what happens AFTER the Calendly booking). 7-phase call structure + objection cheat sheet.
 
@@ -49,7 +49,7 @@ The complete 6-stage pipeline (Opener -> Value + Curiosity -> Permission -> Qual
 
 ## Upcoming Deadline
 
-- **April 3, 2026:** The "market research" reframe in `objection-handling.md` and `setting-script.md` expires. Update the "I'm not looking for coaching" response after this date.
+- **April 3, 2026:** The "market research" reframe in `setting-script.md` expires. Update the "I'm not looking for coaching" response after this date.
 
 ---
 
@@ -63,7 +63,7 @@ The complete 6-stage pipeline (Opener -> Value + Curiosity -> Permission -> Qual
    - Move any past-date Calendly entries from "Upcoming" to "Completed Calls" table
    - Verify "Last updated" date on pipeline-state.md. If stale (>1 day), flag it.
    - Check for any leads stuck in "Awaiting Booking" for 3+ days and flag for nudge
-   - Check `objection-handling.md` deadlines (April 3 market research reframe)
+   - Check `setting-script.md` deadlines (April 3 market research reframe)
    - **Zombie check:** Scan Hot Leads and Qualifying tables for anyone who also appears in `archive/disqualified.md` or `archive/call-outcomes.md` (Unqualified section). Remove duplicates from pipeline.
    - **Stale lead archival:** Stage 2 leads with no reply for 5+ days should be flagged for archival. Stage 1 openers with no reply for 7+ days can be moved to "Old Openers -- No Reply (Stale)".
    - **Flagged cleanup:** Review "Flagged for Jason" section. If any flags are >3 sessions old and unresolved, re-flag with urgency marker or ask Jason directly.
@@ -152,7 +152,7 @@ These are the 4 main workflows. At any given time, we are in one of these 4. All
 |-|-|-|
 | 1st | **Conversing** | Handle replies. Move leads through stages. This is where calls get booked |
 | 2nd | **Following Up** | Re-engage stale leads, nudge "Awaiting Booking", bring quiet leads back to life |
-| 3rd | **Prospecting** | Find new ICP leads. Scan notifications, Skool members, story viewers. **Curate the best prospects into a list.** This is about FINDING, not messaging |
+| 3rd | **Prospecting** | Find people to reach out to. **Tier 1: Re-Engage list first** (call-outcomes.md) — these already know Jason and close at 2-3x cold rate. **Tier 2: Cold discovery** — scan notifications, Skool members, story viewers. Curate best prospects into a list. FINDING, not messaging |
 | 4th | **Outreach** | Send the initial message (Stage 1 opener) to prospects found during Prospecting. Seeds tomorrow's conversations |
 
 **Why this order:** Conversing first = warmest leads, highest ROI. Outreach last so leads see messages overnight and reply by next session.
@@ -285,8 +285,8 @@ The system gets better every session. These rules ensure it.
 
 ### Voice Improvement (Every Session)
 1. **Log every correction.** When Jason corrects a DM or shows how he'd say something, immediately add it to `memory/voice-corrections.md` with full context.
-2. **Pattern extraction.** After 3+ corrections with a similar pattern, add a new rule to `jason-dm-voice-guidelines.md`.
-3. **Anti-pattern tracking.** If the bot makes the same mistake twice (e.g., "ok so" opener, summarizing instead of reacting), add it to the "Things Jason NEVER Does" section in voice guidelines.
+2. **Pattern extraction.** After 3+ corrections with a similar pattern, add a new rule to `setting-script.md`.
+3. **Anti-pattern tracking.** If the bot makes the same mistake twice (e.g., "ok so" opener, summarizing instead of reacting), add it to the "Things Jason NEVER Does" section in `setting-script.md`.
 
 ### Conversion Tracking (Every Session End)
 1. Update `memory/pipeline-health.md` with current stage counts.

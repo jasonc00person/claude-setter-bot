@@ -44,6 +44,7 @@
 - Jarvis: Opener→call in one session. Key: content strategist with clear need, fast replies
 - Melvin Hagström: AI detection turned into call hook (Antonio pattern). Key: owning the AI, using it as value prop for tech-savvy leads
 - Dame Sellz: Market research call → low-ticket Skool CA pitch. Key: referencing prior call, $67/mo = low risk vs course he got scammed on
+- **Ayden Lum (Re-Engage close): Follow-up call → $3K PIF. Key: trust banked from prior free value (scaled Misha to $12K on Jason's advice). Didn't need case studies. Re-Engage list is the highest-ROI "prospecting" source — warmer than any notification viewer**
 
 ## Loss Patterns (What Leads to Disqualification)
 
@@ -58,26 +59,27 @@
 
 - **"Network quality" objection (CFong):** Qualified lead, wants to see other killers in the program making $20-50K/mo. Network > curriculum for him. This will come up again with experienced biz owners. Need social proof of high-performing members.
 
-## Call Conversion Data (12 Calls, Mar 4-10)
+## Call Conversion Data (14 Calls, Mar 4-13)
 
 | Metric | Value |
 |-|-|
-| Total calls | 13 |
-| Closed | 4 (George Mobbs, Saharat, Gobb, Albert Wang) |
-| Close rate | 31% (4/13) |
-| Follow-up needed | 6 (Victoria, Damien, Salim, Pierre, Pablo, Ayden) |
+| Total calls | 14 |
+| Closed | 5 (George Mobbs, Saharat, Gobb, Albert Wang, Ayden Lum) |
+| Close rate | 36% (5/14) |
+| Follow-up needed | 5 (Victoria, Damien, Salim, Pierre, Pablo) |
 | Not a fit | 2 (Brayden — no budget, CFong — too advanced) |
-| Avg price closed | ~$1.75K (range: $0 to $3K) |
-| $4K sticker closes | 0/13 |
-| Total revenue closed | ~$7K ($0 + $3K + $1K + $3K) |
+| Avg price closed | ~$2K (range: $0 to $3K) |
+| $4K sticker closes | 0/14 |
+| Total revenue closed | ~$10K ($0 + $3K + $1K + $3K + $3K) |
 
 ### What Closes Have in Common
 - High urgency (quitting jobs, "done with side quests," returning from breaks)
 - Existing relationship with Jason (prior client or community member)
 - Accepted creative payment terms (payment plans, early-founder discounts, pay-on-results)
 - Wanted hands-on help, not a course
-- All 4 closes happened Mar 9-12 after Jason iterated on pricing
+- All 5 closes happened Mar 9-13 after Jason iterated on pricing
 - Albert Wang: $3K PIF at "early bird" discount (from $4K). 2-week money-back + results guarantee closed the deal. Already in coaching programs = skeptical but serious buyer
+- **Ayden Lum: $3K PIF. Follow-up call close (was on Re-Engage list). Closed by reframing vehicle (setting agency > SaaS), collapsing decision to "get to 10K first," and no-stipulation guarantee. Prior free value (scaled Misha to $12K on Jason's advice) = banked trust that closed the deal. Proof that follow-up calls convert Re-Engage leads**
 
 ### Top Objections on Calls (by frequency)
 1. Price/budget (9/12) — $4K is the #1 killer
@@ -93,6 +95,10 @@
 - Done-for-you elements (scriptwriting, video review, 1-on-1s)
 - "Fractional SMM" positioning > "coaching program"
 - Clean guarantee: "3 clients in 90 days or I keep working with you free"
+- **"Handle what's in front of us" reframe** — when prospect is torn between paths, collapse to immediate goal ("let's get to 10K first, then decide")
+- **"Play it out" technique** — let them walk through their alternative out loud and realize it's worse ("go ahead and try that. what do you think will happen?")
+- **No-stipulation guarantee + refund story** — Ayden: "that's why I took the call today, I genuinely feel like you care." Miggle refund story = trust proof
+- **Prior free value that produced results** — Ayden referenced Jason's advice that got Misha to $12K. Free value → banked trust → close
 
 ### What Didn't Work on Calls
 - $4K sticker price (0 closes at full price)
@@ -116,4 +122,4 @@
 - [ ] Track which lead magnets correlate with highest booking rates
 - [ ] After April 3: Update objection-handling.md market research reframe
 
-*Last updated: March 13, 2026 (Session 41 — ManyChat round 2 complete)*
+*Last updated: March 14, 2026 (Ayden Lum CLOSED $3K PIF — 5th IC member, $10K total revenue)*

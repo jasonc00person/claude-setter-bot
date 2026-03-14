@@ -22,12 +22,12 @@ Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, danie
 | ~~Ayden Lum~~ | ~~Moved to call-outcomes.md (Re-Engage)~~ |
 | Evan Merger | Not ICP |
 | Etele | Pitching |
+| Maaz Ali (@maaz-ali-1613) | Pitching from AI Automation Agency Hub. Classic setter opener from a different paid group. Berlin. Mar 14 |
 | Aidan Cordes | No pic |
 | Tyler Beedle | Pitching |
 | Dr.Nick | Wrong niche |
 | Cris | In community |
 | Anthony Sandi | Not ICP |
-| Goncalo Goncalves | Not ICP |
 | ~~Brian H. Hough~~ | ~~Moved to Friends~~ |
 | Crecimiento digital | Spanish |
 | Jakub Wrzodak | Not ICP |
@@ -36,7 +36,6 @@ Kevin Hackel, Davis Goldman, Anthony Chestnut, Jonas Rorwick, hayleyylesh, danie
 | Alex Seyranian | Pitching setter services |
 | Kanumbi Luboya | Pitching DoseScan app |
 | maxwesemann_ | Pitching PR articles |
-| _aryanxcreates | Pitching SaaS promotion |
 | Tai (taivideoeditor) | Pitching editing services |
 | Abdou-Salam (abdouscales) | Pitching coaching services |
 | Areeb (areebonline) | Pitching setter services |

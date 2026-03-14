@@ -8,13 +8,16 @@ These are the 4 main workflows. At all times, we are operating in one of these 4
 
 ## The 4 Workflows
 
-1. **Prospecting** — Finding people to DM. Scanning notifications (likes, comments, story viewers, new followers), browsing Skool members, identifying ICP leads. This is about **curating the best prospects**, not sending messages. The output is a qualified list. ~100+ new opportunities per day is enough to book 4-6 calls/day.
+1. **Conversing** — Actually having the conversation. Handling replies, moving leads through stages (Stage 2 through Stage 6), qualifying, bridging to call, booking. This is where calls get booked. Follow the setting script.
 
-2. **Outreach** — Sending the initial message to prospects found during Prospecting. This is the Stage 1 opener only. For people with no conversation history: compliment + curiosity ("yoo! curious what ur page is about and what u got going on"). For people who already received a lead magnet via ManyChat: ask if they checked it out and if it was helpful.
+2. **Following Up** — Re-engaging people you've outreached who didn't reply, and people mid-conversation who went quiet. Nudging "Awaiting Booking" leads. Bringing stale leads back to life.
 
-3. **Conversing** — Actually having the conversation. Handling replies, moving leads through stages (Stage 2 through Stage 6), qualifying, bridging to call, booking. This is where calls get booked. Follow the setting script.
+3. **Prospecting** — Finding people to DM. Two tiers:
+   - **Tier 1 (Warm re-engage):** Check `archive/call-outcomes.md` Re-Engage lists first. These people already know Jason, already did a call, already told us their problems. They close at a MUCH higher rate than cold leads. Ayden closed $3K PIF from Re-Engage without the case studies we thought we needed — trust was already banked from free value.
+   - **Tier 2 (Cold discovery):** Scanning notifications (likes, comments, story viewers, new followers), browsing Skool members, identifying ICP leads.
+   This is about **curating the best prospects**, not sending messages. The output is a qualified list. Always work Tier 1 before Tier 2.
 
-4. **Following Up** — Re-engaging people you've outreached who didn't reply, and people mid-conversation who went quiet. Nudging "Awaiting Booking" leads. Bringing stale leads back to life.
+4. **Outreach** — Sending the initial message to prospects found during Prospecting. This is the Stage 1 opener only. For people with no conversation history: compliment + curiosity ("yoo! curious what ur page is about and what u got going on"). For people who already received a lead magnet via ManyChat: ask if they checked it out and if it was helpful.
 
 ## Daily Order
 
@@ -36,7 +39,7 @@ These are the 4 main workflows. At all times, we are operating in one of these 4
 
 All 4 workflows happen across all platforms (Instagram, ManyChat, Skool). They're not tied to a specific tab or platform:
 
-- **Prospecting** = IG notifications, Skool member browse, story viewers, new followers
+- **Prospecting** = Re-Engage list (Tier 1), then IG notifications, Skool member browse, story viewers, new followers (Tier 2)
 - **Outreach** = IG native DMs, Skool chat, ManyChat (for leads who already have a thread)
 - **Conversing** = ManyChat Live Chat (primary for IG leads), Skool chat, IG DMs
 - **Following Up** = ManyChat, Skool chat, IG DMs

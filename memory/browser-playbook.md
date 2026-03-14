@@ -113,8 +113,12 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 > **Free Group URL:** `https://www.skool.com/internet-money-central-9086`
 
 ### Checking for unread chats (PRIORITY 1 — always do first)
-- **BEST:** Click the chat icon (speech bubble) in the top-right nav bar. Use the dropdown next to "Mark all as read" to filter "Unread". Handle all unread chats before any outreach.
+- **BEST:** Use `ref_8` (the chat button in top nav). This is the reliable ref for the chat icon. Click it once to open the Chats panel. Click again to close. The panel shows unread chats with blue dots. Filter "Unread" next to "Mark all as read" if needed.
+- **COORDINATE:** The chat icon is at approximately **(1185, 25)** in the viewport. However, using `ref_8` is more reliable than coordinates because hover tooltips can intercept clicks.
 - **TRAP:** Don't start outreach without checking unreads first. Replies always take priority over new messages.
+- **TRAP:** The chat icon is a TOGGLE. If you click it and only see a "Chats" tooltip, it means the panel opened and closed in quick succession. Wait a beat, then click `ref_8` once more.
+- **TRAP:** Do NOT navigate to `/chat` — that URL 404s. Always navigate to `skool.com/creatoraccelerator` and use the chat icon from there.
+- **TRAP:** The notifications bell (ref_10) is right next to the chat icon. Don't click it by mistake — it opens the Notifications panel, not Chats.
 
 ### Opening a member's chat from the Members page
 - **BEST:** Click the "CHAT" button on the member card. This opens the chat overlay directly.
@@ -126,12 +130,26 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 - **TRAP:** Don't try to scroll infinitely. Members are paginated. You must click to the next page.
 
 ### Sending a message in Skool chat overlay
-- **BEST:** Click the message input at the bottom of the chat overlay, type the message, press Enter to send.
+- **BEST:** Use `find` tool to locate the "Message [Name]" textbox by searching for "Message [Name] text input". Click the returned ref. Type the message. Press Enter to send.
+- **CURSOR STAYS:** After pressing Enter, the cursor remains in the input field. Do NOT click the input again before typing the next message — just type immediately.
+- **TRAP:** Clicking coordinates on the input field often misses. Always use `find` tool to get the ref on the first message per chat.
 - **TRAP:** NEVER use dashes or em dashes in messages. Use periods, line breaks, or run sentences together. Dashes are AI coded.
 
 ### Closing chat overlay after sending
-- **BEST:** Click the X in the top-right of the chat window to close, then continue to the next member.
-- **TRAP:** Don't navigate away. Just close the overlay and you're back on the Members page.
+- **BEST:** Press **Escape** key. Cleanly closes the chat overlay every time. Most reliable method.
+- **ALT:** Click the X button in the top-right corner of the chat overlay.
+- **TRAP:** Don't click coordinates to close — Escape is faster and never misses.
+
+### Workflow for handling multiple unread chats
+1. Click `ref_8` to open Chats panel
+2. Click on the first unread chat (top of the list = most recent)
+3. Chat overlay opens. Read the conversation.
+4. Use `find` tool to get the "Message [Name]" textbox ref. Click it.
+5. Type message. Press Enter. Type next message immediately (cursor stays). Press Enter.
+6. Press **Escape** to close overlay.
+7. Click `ref_8` to reopen Chats panel. Click next unread.
+8. Repeat until all unreads are handled.
+9. To find a specific person: use the **Search users** field at the top of the Chats panel. Click it, type their name, click the result.
 
 ### Deciding who to skip on the Members page
 - **SKIP:** Premium + Free + Lifetime access members (friends/partners of Jason)

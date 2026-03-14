@@ -6,12 +6,12 @@
 
 ## Topic Files
 
-- `setting-script.md` — **THE setting script.** Complete Stage 1-6 DM flow, voice rules, objection handling, decision trees, examples. Read before any DM session.
+- `setting-script.md` — **THE setting script.** Single source of truth: Stage 1-6 DM flow, voice rules, reaction phrasebook, tone spectrum, objection handling (DM + post-call), Hormozi principles, decision trees. Read before any DM session.
 - `pipeline-state.md` — Active pipeline (single source of truth)
 - `sales-call-script.md` — Phone call script (post-booking). 7-phase call + objection cheat sheet.
 - `user-preferences.md` — Workflow preferences + learned mistakes
-- `jason-dm-voice-guidelines.md` — Deep voice reference (nuance beyond setting script)
-- `objection-handling.md` — Extended objection responses (beyond what's in setting script)
+- `jason-dm-voice-guidelines.md` — *(Consolidated into setting-script.md)*
+- `objection-handling.md` — *(Consolidated into setting-script.md)*
 - `memory/browser-playbook.md` — Learned browser actions (BEST METHOD + TRAP)
 - `memory/pipeline-health.md` — Conversion metrics, win/loss patterns
 - `memory/voice-corrections.md` — Jason's real-time voice corrections (highest-signal data)
@@ -25,8 +25,10 @@
 ## Feedback
 
 - `memory/feedback_send_without_asking.md` — Don't ask before sending DMs, just send them
-- `memory/four-pillars-dm-setting.md` — **The 4 Workflows: Prospecting, Outreach, Conversing, Following Up.** Activity-based, not platform-based. All 4 every day. Prospecting = finding/curating. Outreach = sending first message.
-- `memory/four-pillars-dm-setting.md` — The 4 Pillars: Conversation, Follow-ups, Prospecting, Outreach. Daily order + how they map to workflows. If not booking calls, one of these 4 is missing.
+- `memory/feedback_work_autonomously.md` — Don't pause between workflows. Keep working until told to stop
+- `memory/feedback_no_cd_in_git.md` — NEVER use cd in Bash commands. Use `git -C <path>` or absolute paths
+- `memory/feedback_skool_url.md` — Skool DMs: navigate to skool.com/creatoraccelerator (not /chat). Use chat icon, not notifications bell
+- `memory/four-pillars-dm-setting.md` — The 4 Workflows: Conversing, Following Up, Prospecting, Outreach. All 4 every day.
 
 ## Tool Rules
 
@@ -58,6 +60,11 @@
 - **No em dashes.** Dead AI giveaway.
 - **Default to selling, not screening.** If ANY overlap with Jason's coaching, run the pipeline.
 - **Paid Skool members:** ALWAYS run pipeline. Never pre-disqualify.
+- **Bridge messages = SHORT.** One sentence max. Don't over-explain what happens on the call.
+- **Emoji specificity matters.** 🤠 (cowboy, playful) not 😊 (generic, customer service). Jason's emoji picks have personality.
+- **Scheduling friction: explain WHY you're busy.** Two messages: empathy + solution. "I can def fit you in on tuesday tho!"
+- **Pitcher from other Skool groups:** "Saw you in [group], what are you working on?" = skip. They're running THEIR pipeline on us.
+- **Warm re-engages override geo filter.** Prior relationship + exchanged value = run pipeline regardless of geography.
 
 ## Session History
 
@@ -74,14 +81,15 @@
 | 35-37 | Mar 9-10 | ManyChat. Melvin AI detection. Dame Sellz CA pitch. Albert Wang booked |
 | 38-39 | Mar 10-11 | 12-call transcript analysis. Call outcomes backfilled. Sales call script built |
 | 40-41 | Mar 12-13 | ManyChat. Penbera + Afsarchamp Calendly sent. Yohan Q2. Matt Pham re-engaged |
+| 42-44 | Mar 13-14 | KB overhaul. Setting-script created. IG outreach (6 openers). Ayden $3K PIF. Albert $3K PIF |
+| 45 | Mar 14 | Jay convo (Example 4). Skool DMs: Markus/Mateja/Victoria/Prince. Voice: scheduling empathy, emoji 🤠, pitcher detection, bridge shortness. KB audit + cleanup |
 
 ## Known Issues / Action Items
 
-- [ ] 6 lead magnet URLs still missing in lead-magnets.md. Pull from ManyChat next session
-- [x] ~~10 completed calls have "TBD" outcomes.~~ Backfilled from 12 transcript analysis (Mar 11)
+- [ ] 5 lead magnet URLs still missing in lead-magnets.md. Pull from ManyChat next session
 - [ ] April 3 deadline: Update objection-handling.md + setting-script.md market research reframe
-- [ ] Stage 2 graveyard: 35+ leads with no reply. Need periodic archival
-- [ ] "Flagged for Jason" has 9 items. Review and resolve stale flags
 - [ ] George + Saharat + Gobb: Document results for April 3 launch (first 3 case studies)
-- [ ] Build agency-specific track/proof for Pablo + Ayden re-engagement
-- [ ] Victoria requalify late March (needs cash from new clients first)
+- [ ] Build agency-specific track/proof for Pablo re-engagement
+- [x] ~~Victoria requalify late March~~ Victoria agreed to call next week. Calendly sent Mar 14
+- [x] ~~DRY cleanup~~ voice-guidelines.md + objection-handling.md consolidated into setting-script.md (Mar 14)
+- [ ] 12+ completed calls in Hot Leads need outcomes filled + archival

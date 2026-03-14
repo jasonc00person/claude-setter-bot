@@ -1,7 +1,7 @@
 # Sales Call Script & Framework
 
 > Built from 12 market research calls (Mar 4-10) + Hormozi CLOSER framework.
-> 3/12 closed. All 3 closes used: urgency + existing relationship + flexible pricing + hands-on framing.
+> 5/14 closed. All 3 closes used: urgency + existing relationship + flexible pricing + hands-on framing.
 > Zero people paid $4K sticker. This script fixes that.
 
 ---
@@ -422,6 +422,13 @@ that's exactly why this is different:
 I literally have zero incentive to not get u results
 ```
 
+**The Miggle refund story (trust nuke -- use when they're skeptical):**
+```
+I've had to refund people before too -- and I'll do it
+I'm not gonna be like "well u didn't show up to this call so no refund"
+```
+> Ayden's response: "that's why I took the call today. I genuinely feel like you care about people." This story alone can close skeptical leads who've been burned. The willingness to refund = proof you're not like the other coaches.
+
 ### "How do I know this will work for MY niche?"
 ```
 great question -- so what's ur niche exactly?
@@ -486,6 +493,41 @@ and what would happen if they said no?
 and have they already agreed that [the problem] is something u need to solve?
 
 [if yes]: so it sounds like they'd support u on this, u just need to loop them in. what if we get them on a quick 5-min call?
+```
+
+---
+
+## DIRECTION / "WRONG VEHICLE"
+
+### "I want to build a SaaS, not run a service business"
+> Closed Ayden at $3K PIF with this exact sequence.
+
+```
+totally get it bro -- and honestly u should keep building that on the side
+
+but here's the thing -- ur vehicle is the agency. the SaaS is just how u deliver
+ur clients don't care if it's ur software or ManyChat or Claude -- they're paying for the result
+
+so what if we just got u to 10K a month first?
+then u can decide whether to go full SaaS or keep scaling the service
+either way u'll have more money and more clarity to make that call
+```
+
+**Key techniques:**
+1. **Don't fight the dream.** Validate it, then redirect
+2. **"Play it out"** — ask "what do you think will happen if you run meta ads to a landing page at $150/mo?" Let them realize the math doesn't work
+3. **"Handle what's in front of us"** — collapse scattered decisions into one immediate goal
+4. **Anti-SaaS positioning (2026):** "Building a SaaS right now is a red ocean. Everyone's vibe coding. Claude keeps wiping out SaaS products." Use sparingly, only when prospect is wavering
+
+### "I don't want a service business, it's just a job"
+```
+I hear u -- but real talk, whether it's SaaS, agency, or coaching, u're never gonna escape fulfillment
+
+the difference is -- at 10K a month from services, u have cash and skills to build whatever u want next
+
+right now tho, u're making [their current revenue] and going in circles trying to pick the right vehicle
+
+what if we just locked in on what's already working?
 ```
 
 ---
@@ -628,5 +670,5 @@ After every call, answer these 5 questions:
 
 ---
 
-*Built from: 12 call transcripts (Mar 4-10), Hormozi CLOSER framework, 3 successful closes (George, Saharat, Gobb)*
-*Last updated: March 12, 2026*
+*Built from: 14 call transcripts (Mar 4-13), Hormozi CLOSER framework, 5 successful closes (George, Saharat, Gobb, Albert, Ayden)*
+*Last updated: March 14, 2026*

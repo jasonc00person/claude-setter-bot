@@ -62,7 +62,7 @@ Yohan Thomas (Edmonton), James Wu (Taiwan — geo fail), Josh Hernandez (Denver)
 | John Ladd | Berlin | -- |
 | ~~Hakeem Hoang~~ | ~~Melbourne~~ | ~~Messaged Mar 5, no reply~~ |
 | Shayan Maredia | Austin TX | Free member, referred by Jason. Skip |
-| Mikhail Nadeson | -- | $75/mo |
+| ~~Mikhail Nadeson~~ | ~~Johannesburg, South Africa~~ | ~~DISQUALIFIED - Geo filter~~ |
 | Elijah Bricker | NY | $800/yr (cancelled) |
 | Tulio Sasaya | LA | $80/mo |
 | Samuel Millsap | Chicago | Free |
