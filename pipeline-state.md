@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 13, 2026 (Session 42 — Prospecting + KB overhaul)
+**Last updated:** March 13, 2026 (Session 43 — IG Notification Outreach ongoing)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -46,11 +46,12 @@
 |George Mobbs|@george-mobbs-2841|Skool (CA)|6 - SIGNED UP|Friend/previous client. Call Mar 10 3:30pm PT. Onboarding call Mar 11 12:30pm PT. CLOSED!|
 |Pablo Simancas|@pablo-simancas-6385|Skool (CA)|6 - Call booked|$15K/mo content agency (Chrome Goat). 3 RE clients. Thu Mar 12, 12:45pm PT. Booked as "Juan Simancas" on Calendly|
 |Saharat Raksanoh|--|Text/iMessage|6 - SIGNED UP|Fitness coach, zero clients. CA member. Onboarding call Mar 13, 4:30pm PT. CLOSED!|
+|Ayden Lum|--|Direct|6 - CLOSED|Follow-up call Mar 13 2pm PT. $3K PIF! Onboarding Mon Mar 17 2:30pm PT. CLOSED!|
 |Matt Pham|@matt-pham-3833|Skool (CA)|5 - Re-engaged|Melbourne. Called out "setter" voice. Recently invested in another program. Re-engaged Mar 12: keen to hear 1-1 offer when done. Gave overview, door open|
 |Jarvis|\_\_1jay\_|IG (ManyChat)|6 - Calendly sent|HOT. Content strategist, friend's consulting biz. Went opener→call in one session. Calendly sent Mar 9|
 |Antonio Guerrieri|tonyybakes|IG (ManyChat)|6 - Call booked|Content Marketing. AI detection→call bridge (Pattern 7). Mon Mar 16, 2:30pm PT|
 |Leo \| Copywriting \| Marketing|leocorex|IG (ManyChat)|6 - Call booked|Copywriting/Marketing. Rebooked as "Rayan Leo". Fri Mar 13, 11:30am PT|
-|Vicetoc \| Designer|vicetoc|IG (ManyChat)|2 - Re-engaged|Previously graceful exit. Re-engaged Mar 12 showing interest in content strategy for VeltoMind. Curiosity Q sent about current content. Stage 2 re-entry|
+|Vicetoc \| Designer|vicetoc|IG (ManyChat)|3 - Permission sent|Previously graceful exit. Building VeltoMind (AI resources for creators). Pre-launch, planning content. Permission Q sent Mar 13|
 |Melvin Hagström|ai.volve.news|IG (ManyChat)|6 - Call booked|AI Tools & Content Marketing. $106K ARR SaaS (shutting down). Mon Mar 16, 11am PT|
 |Albert Wang|--|Skool (CA)|6 - CLOSED|$3K PIF! Swing trader community, 300 MRR. Bottleneck: IG content execution (200 views). Guarantee: 5-10K views/video in 90 days. 2-week money-back. Onboarding Mon Mar 16, 3:45pm PT. WhatsApp added. Backbone Worksheet sent|
 |PAUL BURGESS|paulburgess_|IG (ManyChat)|6 - Call booked|OnlyFans agency + surgery biz. Thu Mar 12, 10:45am PT|
@@ -88,7 +89,7 @@
 |Alkin Cakiralar|alkincakiralar|IG (ManyChat)|4 - Q2 sent|Scaling ads step by step|
 |~~PAUL BURGESS~~|paulburgess_|IG (ManyChat)|~~Moved to Hot Leads~~|Calendly sent Mar 10|
 |MADBLOX252|madblox252|IG (ManyChat)|3 - Permission sent|Positive AV ("Looking to unlock"). BGM Library lead. Permission sent Mar 8|
-|CRAXON|craxonhq|IG (ManyChat)|4 - Q1 sent|Inspiring Possibility Thinking. Wants to unlock monetization. Q1 sent Mar 8|
+|CRAXON|craxonhq|IG (ManyChat)|5 - Bridge sent|Inspiring Possibility Thinking. Q2: reach+engagement. Q3: YouTube only. Bridge to call sent Mar 13|
 |~~Zero Explanation~~|zero_explanation99|IG (ManyChat)|~~DISQUALIFIED~~|India geo filter. Graceful exit sent Mar 9|
 |~~Jayant Mishra~~|_jayantmishra_|IG (ManyChat)|~~Graceful exit~~|Video editing agency. Declined call: "enjoying figuring all this out myself." Graceful exit sent Mar 10. Door open|
 |Joey Mulcahy|byjoeym|IG (ManyChat)|4 - Q1 sent|Permission granted. Q1 sent Mar 8|
@@ -97,7 +98,7 @@
 |Pol Vaque|polvaque|IG (ManyChat)|3 - Permission sent|Growth Partner. Scales high ticket offers w/ funnels. Using outreach + planning content for IG. Permission Q sent Mar 11|
 |~~devbymighty~~|devbymighty|IG (ManyChat)|~~Graceful exit~~|Nigerian software dev. Geo filter (Africa). Graceful exit sent Mar 13|
 |Lana Djikirba|dlana.l|IG (ManyChat)|4 - Q1 sent|Female. Business analyst, low-code/vibecoding. Building "pocket SMM manager" product. Permission granted. Q1 sent Mar 13|
-|Malcolm Mensah|malcolmmensah63|IG (ManyChat)|4 - Q2 sent|HOT. Wants to replace 9-5 in 2-3 months and go all in. Interested in n8n/Claude automations. Q1 answered, Q2 sent Mar 12. **Quit-job urgency = top close signal**|
+|Malcolm Mensah|malcolmmensah63|IG (ManyChat)|4 - Q3 sent|HOT. Wants to replace 9-5 in 2-3 months. Q2: "nothing holding me back, just about executing, ready for help." Q3 sent Mar 13. **TOP CLOSE CANDIDATE**|
 |Dev|\_\_.dev.\_|IG (ManyChat)|3 - Permission sent|Video editor at digital marketing company. Wants to unlock IG monetization + extra income through editing. Permission Q sent Mar 12|
 |~~Penbera's Portraits~~|penberas_portraits|IG (ManyChat)|~~Moved to Hot Leads~~|Agreed to call. Calendly sent Mar 12|
 |mohd_atif__303|mohd_atif__303|IG (ManyChat)|4 - Q2 sent|Editor. Goal: 2-3 permanent clients for a year, then start own studio with colleague. Q2 sent Mar 12|
@@ -201,7 +202,7 @@
 |Isa|isaabuhuseina|IG (ManyChat)|BGM Library sent manually (button glitch). Curiosity Q sent. Stage 2. Mar 12|
 |Proshanto'Da|proshantodatalk|IG (ManyChat)|BGM Library lead. Does YouTube documentaries. Curiosity Q + monetization Q sent. Stage 2. Mar 12|
 |Riya Singh Designs|riyu.thedesigner|IG (ManyChat)|YouTube Thumbnails. Shared 2 reels. Curiosity Q sent. Stage 1/2. Mar 12|
-|Paul Fowleer|paulfowleer|IG (ManyChat)|Influencer/model management. Inbound: "wanted to talk to you for a long time." Replied, curiosity Q about his work sent. Stage 2. Mar 13|
+|Paul Fowleer|paulfowleer|IG (ManyChat)|Influencer/model management 4 yrs. Ecommerce. Inbound. Permission Q sent Mar 13. Stage 3|
 |Amna|--|IG (ManyChat)|Content OS lead. Curiosity Q sent. Stage 2. Mar 13|
 |Dean \| Digital Assets|--|IG (ManyChat)|Content OS lead. Curiosity Q sent. Stage 2. Mar 13|
 |layt.mcc|layt.mcc|IG (ManyChat)|BGM Library sent + curiosity Q. Stage 2. Mar 13|
@@ -231,7 +232,7 @@ AminEvan (aminevan66), iam\_alba22, SHANDA SUMPTER (shandasumpter), Panha (kach2
 
 ### IG Notification Outreach
 
-Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Prince Zerihun (1.9K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), Roger Rodulfo (3.9K), Tyler Casey (23.6K), Pierre Khoury (38.8K), Sebastien Perreault (25.5K), Kallaway (418K), EF Socials (efsocials.de, 337, SM agency NRW Germany, personal opener sent Mar 13)
+Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores (2.5K), Dorian (1.7K), Taki Wong (51K), Edouard Brochu (64.4K), Bianca Gonzalez (32.2K), Sukhmehar (91.2K), Tarun (353), Tayeb Ben (255), Isaiah (10.7K), Hunter Paulsen (5K), Prince Zerihun (1.9K), Cam Mann (177K), Luke Alexander (127K), Joshua Jay (12K), Roger Rodulfo (3.9K), Tyler Casey (23.6K), Pierre Khoury (38.8K), Sebastien Perreault (25.5K), Kallaway (418K), EF Socials (efsocials.de, 337, SM agency NRW Germany, personal opener sent Mar 13), Shunta (everflw.email, 20, verified, email retention for skincare brands, personal opener sent Mar 13), shrezzy_fitz (18.8K, fitness coach, opener sent Mar 13), Jeff Luki/mynamesjeeff_ (1.3K, AI generalist, opener sent Mar 13), Davon Lee/thedavonlee (3.9K, media+marketing+ministry, opener sent Mar 13 — restricted DMs)
 
 ### Skool Openers
 
@@ -311,16 +312,19 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 |Mar 10|George Mobbs|3:30pm PT. CLOSED!|
 |Mar 10|Shlomo|3pm PT|
 |Mar 11|CeCe|10am PT|
+|Mar 12|Paul Burgess|OnlyFans agency + surgery biz. 10:45am PT|
+|Mar 12|Albert Wang|Skool CA. **CLOSED $3K PIF**. 12pm PT|
+|Mar 12|Pablo Simancas|Chrome Goat agency. 12:45pm PT|
+|Mar 13|Rayan Leo|Rebooked. 11:30am PT|
+|Mar 13|Ayden Lum|Follow Up. **CLOSED $3K PIF**. 2pm PT|
 
 ### Upcoming
 
 |Date|Lead|Notes|
 |-|-|-|
-|Mar 12|Paul Burgess|10:45am PT. OnlyFans agency + surgery biz|
-|Mar 12|Albert Wang|12pm PT. Skool CA. **CLOSED $3K PIF**|
-|Mar 12|Pablo Simancas|12:45pm PT. Chrome Goat agency. Booked as "Juan Simancas"|
 |Mar 13|Rayan Leo (Leo \| Copywriting)|11:30am PT. Rebooked|
 |Mar 13|Danielle Smith|1:15pm PT. NEW - not in pipeline previously|
+|Mar 13|Ayden Lum|Follow Up. 2pm PT. **CLOSED $3K PIF**|
 |Mar 13|Saharat Raksanoh|Onboarding call. 4:30pm PT. CLOSED!|
 |Mar 16|Kunal Jiwani|Skool CA. 10am PT (rescheduled from Mar 9)|
 |Mar 16|Melvin Hagström|11am PT. AI Tools & Content Marketing|
@@ -389,21 +393,21 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 ## Priority Follow-ups (Next Session)
 
-1. **Check Umar reply** -- Bridge to call sent. TikTok shop, $5K/mo clients. Stage 5
-2. **Check Flankks reply** -- Asked about layering IG for inbound leads. Stage 2
-3. **Check Lana Djikirba reply** -- Free Sauce lead, curiosity Q sent. Stage 2
-4. **BRIAN GLUSOVICH** -- URGENT: Expressed suicidal ideation. Voice note: grateful for support, wants to stay connected. Jason should personally follow up
-5. **Check ysaberedits reply** -- Calendly sent. Video editor, editing agency goal. Stage 6
-6. **Check Γιάννης Μαυρομάτης reply** -- Calendly sent. Local SM agency. Stage 6
-7. **Check for replies** -- gc.sngh, Aleksandar Tomas, Ana Paula Soares (Stage 2 curiosity Qs sent)
-8. **Nudge stale Calendly-pending leads** -- Melvin Zhou, Frederik, Anish, Yared (5+ days)
-9. **Check for replies** -- Koby Q3, Jose Avila Q1, Mateja Q3, Liam Q2, Austin Coldiron Q2, Laraib Q2, 12..Nathan permission, Afsarchamp bridge, Pol Vaque curiosity Q
-10. **Kunal Jiwani reschedule** -- Jason needs to open a Calendly slot next week for him
-11. **Skool outreach** -- Backlog mostly exhausted (Mar 5 blitz). ~30 remain but most cancelling/inactive. Nuno (new member) opener sent, awaiting reply
-12. **Check Tyler Panzner booking** -- Calendly sent Mar 13. He was online. Should book quickly
-13. **Check Nuno Machado Lopes reply** -- New CA member (Lisbon, DNA coach). Opener sent Mar 13
-14. **Flagged items aging** -- Nico curnock, Marlon Orellana AI detection (3+ sessions)
-15. **Danielle Smith call prep** -- See `call-prep-danielle-smith.md`. Fri Mar 13, 1:15pm PT
+1. **Check CRAXON reply** -- Bridge to call sent Mar 13. Reach+engagement challenge, YouTube only. Stage 5
+2. **Check Paul Fowleer reply** -- Permission Q sent Mar 13. 4yr influencer manager. Stage 3
+3. **Check fredycomics reply** -- Permission Q sent Mar 13. True crime AI content, 1K views day 1. Stage 3
+4. **Check Umar reply** -- Bridge to call sent. TikTok shop, $5K/mo clients. Stage 5
+5. **BRIAN GLUSOVICH** -- URGENT: Expressed suicidal ideation. Jason should personally follow up
+6. **Check Riya Singh Designs reply** -- She replied positively. Stage 2 advancing
+7. **Check Dean | Digital Assets reply** -- AV question sent. Wants advice. Stage 2
+8. **Check Yannic Ziane reply** -- $220K/mo, replied to our curiosity Q. Possible advanced lead
+9. **Nudge remaining stale Calendly leads** -- Melvin Zhou, Frederik, Anish (7-day ManyChat limit, need IG native), Said-Azzam, Abdulwahab8, Giancarlo, Edmund, Jarvis
+10. **YGY nudge sent** -- Check for booking. Wanted call after Mar 10
+11. **Nikhil Rana nudge sent** -- Check for booking. Said "Lets go" Mar 7
+12. **Check Tyler Panzner booking** -- Calendly sent Mar 13
+13. **Skool 4 unread chats** -- Need to check. Couldn't access chat panel this session
+14. **Flagged items aging** -- Nico curnock, Marlon Orellana AI detection (URGENT: 4+ sessions)
+15. **Check for replies** -- Koby Q3, Jose Avila Q1, Mateja Q3, Liam Q2, Laraib Q2, Malcolm Mensah Q2 (HOT quit-job signal)
 
 ---
 
@@ -413,12 +417,13 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 |-|-|
 | Stage 6 (Call Booked) | 12 upcoming |
 | Stage 6 (Calendly sent, awaiting booking) | 12 |
-| Stage 5 (Bridge sent) | 7 |
+| Stage 6 (CLOSED) | 4 (Albert $3K, Saharat, Ayden $3K, George) |
+| Stage 5 (Bridge sent) | 8 (+CRAXON) |
 | Stage 4 (Questions) | 17 |
-| Stage 3 (Permission) | 8 |
-| Stage 2 (Curiosity/AV sent) | ~42 |
+| Stage 3 (Permission) | 10 (+Paul Fowleer, fredycomics) |
+| Stage 2 (Curiosity/AV sent) | ~50 (+IH Safa, Harsh, Jonibek, Architect Archiviz, krnvl, Mikel Peralta, Pragati Anand, Mike Rozhko, Dean Digital Assets) |
 | Stage 1 (Opener sent) | ~80 |
-| Calls Completed | ~16 |
+| Calls Completed | ~21 (+Paul Burgess, Albert, Pablo, Rayan Leo, Ayden) |
 | Disqualified | 76+ |
 
-*Updated March 13, 2026 (Session 42).*
+*Updated March 13, 2026 (Session 43).*
