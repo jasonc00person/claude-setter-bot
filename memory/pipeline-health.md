@@ -2,11 +2,11 @@
 
 > Updated at the end of each session. Tracks what's actually working.
 
-## Funnel Snapshot (as of March 13, 2026 -- Session 41)
+## Funnel Snapshot (as of March 14, 2026 -- Session 44)
 
 | Stage | Count | Notes |
 |-|-|-|
-| Stage 1 (Opener sent) | ~80 | Across IG Primary, General, Notifications, Skool |
+| Stage 1 (Opener sent) | ~88 | +6 IG Notifications openers this session (Session 44), +2 Skool. Added Joshua Djuang, Stefan Savevski, Denis Markidov, Jonathan Lutz, Auky, Nathan Axson |
 | Stage 2 (AV sent) | ~48 | Paul Fowleer, Amna, Dean, layt.mcc, Danilo updated added |
 | Stage 3 (Permission sent) | ~7 | devbymighty geo-filtered out |
 | Stage 4 (Questions sent) | ~18 | Lana Djikirba Q1, mohd_atif Q2, Yohan Q2, Malcolm Q2 added |

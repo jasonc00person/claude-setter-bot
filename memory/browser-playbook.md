@@ -198,6 +198,17 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 - **TRAP:** Don't press F5 on a profile page — it refreshes the profile, not notifications. Always navigate to instagram.com first.
 - **TRAP:** Don't guess coordinates for the Notifications icon. Use `find` tool every time — the heart icon and DMs icon are close together and easy to misclick.
 
+### Opening the Notifications panel reliably
+- **BEST:** Use `find` tool with query "Notifications link in sidebar" — when the sidebar is expanded, this returns the named ref (e.g. ref_49) for the Notifications entry. Click it. Always works regardless of page state.
+- **TRAP:** Do NOT use href="#" refs from `read_page` output to open Notifications. These refs (ref_5, ref_7, etc.) shift on every page load and often open Search, Explore, or nothing instead of Notifications. The `find` tool by semantic description is the only reliable method.
+- **TRAP:** If clicking a ref opens the Search overlay by mistake, close it first (find "Close search" button or press Escape), then re-read the page and use `find` to locate the correct Notifications ref.
+
+### "Related keyboard shortcuts" panel blocking the message input
+- **SYMPTOM:** After clicking a message input box, a "Related keyboard shortcuts" overlay appears, preventing typing.
+- **FIX:** Use `find` tool with query "Close keyboard shortcuts" → locate the X button ref → click it → then proceed to type.
+- **TRAP:** Don't try to type while the shortcuts panel is visible — keystrokes go to the panel, not the message input. Must close it first.
+- **TRAP:** This panel can appear multiple times in a single session. Treat each occurrence the same way.
+
 ### Identifying ManyChat keyword triggers vs real engagement
 - **Keywords to skip:** Music, System, Strategy, Late, Automate, Hook, Skill, Follower, YT, Gpt, Machine, Content OS — these are ALL ManyChat automation triggers, not real comments
 - **Real engagement signals:** Story reactions, comment likes on non-keyword comments, genuine questions, "Follow Back" button (new follower)
