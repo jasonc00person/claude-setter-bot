@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 14, 2026 (Session 44 — All 4 workflows)
+**Last updated:** March 17, 2026 (Session 48 — Edmund no-show, 2 Skool outreaches, call cheat sheet)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -24,11 +24,11 @@
 |Joshua Lu|joshua\_dalu|IG (General)|5 - Bridge sent|Web agency. Awaiting reply|
 |Abdulwahab8|abdulwahab\_8\_|IG (ManyChat)|6 - Calendly sent|Agency, 14.2K, wants 30K. Awaiting booking|
 |Giancarlo Kerg|giancarlokerg|IG (ManyChat)|5 - Calendly sent|Former $50K/mo YT channel. Awaiting booking|
-|Edmund \| AI|whatelz.ai|IG (ManyChat)|6 - Calendly sent|AI Engineer, first week posting. Busy w/ hackathon, Calendly sent|
+|Edmund \| AI|whatelz.ai|IG (ManyChat)|6 - No show|AI Engineer. Booked Mar 15 — NO SHOW. Follow-up DM sent Mar 17|
 |Irfan Aziz|--|Skool (CA)|5 - Bridge sent|London. Bridge sent Mar 6|
 |Pat Divilly|--|Skool (CA)|6 - Calendly sent|Ireland. Awaiting booking|
 |Adam Ziak|--|Skool (CA)|6 - Call booked|Sun Mar 9, 10:45am PT (rescheduled). Iceland|
-|Kunal Jiwani|--|Skool (CA)|6 - Call booked|Mon Mar 16, 10am PT (rescheduled from Mar 9)|
+|Kunal Jiwani|--|Skool (CA)|6 - Rebook needed|Mon Mar 16, 10am PT — NO SHOW (Jason missed). Kunal waited 10 min. Apologized + Calendly resent Mar 17|
 |Aspen|--|Skool / Direct|6 - Call booked|Sun Mar 9|
 |Cristiano Capasso|--|Skool (CA)|6 - Call booked|Mon Mar 9, 1-1:30pm PT. Rome|
 |Aaron Harun Guner|--|Skool (CA)|6 - Call booked|Mon Mar 10, 2:15pm PT. KL|
@@ -49,10 +49,9 @@
 |Jay (vijyone)|vijyone|IG (Native)|6 - Call booked|Warm re-engage. Content marketing / SMM. India (geo override — existing relationship, 2-3 prior calls). Call booked Tue Mar 18. Wants Claude content automation walkthrough|
 |Matt Pham|@matt-pham-3833|Skool (CA)|5 - Re-engaged|Melbourne. Called out "setter" voice. Recently invested in another program. Re-engaged Mar 12: keen to hear 1-1 offer when done. Gave overview, door open|
 |Jarvis|\_\_1jay\_|IG (ManyChat)|6 - Calendly sent|HOT. Content strategist, friend's consulting biz. Went opener→call in one session. Calendly sent Mar 9|
-|~~Antonio Guerrieri~~|tonyybakes|IG (ManyChat)|~~ZOMBIE REMOVED~~|Was in disqualified.md as Unqualified. Removed from Hot Leads Mar 14|
 |Leo \| Copywriting \| Marketing|leocorex|IG (ManyChat)|6 - Call booked|Copywriting/Marketing. Rebooked as "Rayan Leo". Fri Mar 13, 11:30am PT|
 |Vicetoc \| Designer|vicetoc|IG (ManyChat)|3 - Permission sent|Previously graceful exit. Building VeltoMind (AI resources for creators). Pre-launch, planning content. Permission Q sent Mar 13|
-|Melvin Hagström|ai.volve.news|IG (ManyChat)|6 - Call booked|AI Tools & Content Marketing. $106K ARR SaaS (shutting down). Mon Mar 16, 11am PT|
+|~~Melvin Hagström~~|ai.volve.news|IG (ManyChat)|6 - Call completed|Not buying rn. Comfortable. Follow up Mar 31. Moved to call-outcomes.md (Lukewarm)|
 |Albert Wang|--|Skool (CA)|6 - CLOSED|$3K PIF! Swing trader community, 300 MRR. Bottleneck: IG content execution (200 views). Guarantee: 5-10K views/video in 90 days. 2-week money-back. Onboarding Mon Mar 16, 3:45pm PT. WhatsApp added. Backbone Worksheet sent|
 |PAUL BURGESS|paulburgess_|IG (ManyChat)|6 - Call booked|OnlyFans agency + surgery biz. Thu Mar 12, 10:45am PT|
 |ysaberedits \| Video Editor|ysaberedits|IG (ManyChat)|6 - Calendly sent|Video editor, 1 client, wants more. Editing agency goal. Full qualify Q1-Q3 done. Calendly sent Mar 10|
@@ -66,6 +65,7 @@
 |Markus Drößler|@markus-droler-3700|Skool (CA)|6 - Calendly sent|Berlin. Building creator brand w/ wife in German market (personal dev niche, @ronjadroessler). Wants Tue Mar 18. Calendly sent. Awaiting booking|
 |Mateja Proučil|@mateja-proucil-7365|Skool (CA)|5 - Bridge sent|Zagreb. Q3 answered: "Yes, coaching program." Bridge to call sent Mar 14|
 |Victoria Denisse|@vicky-clavero-6849|Skool (CA)|6 - Calendly sent|Melbourne. Re-engage. Said "happy to chat next week?" Calendly sent Mar 14. Awaiting booking|
+|Maximus Ramminger|maximus.ramminger|IG (ManyChat)|6 - Call booked|Fat Loss Coach. Friend. Australia. Wants Claude walkthrough for content (hook analysis, scripting). Booked Fri (his time) / Thu (PT). Mar 15|
 
 ## Qualifying (Stage 3-4)
 
@@ -83,15 +83,15 @@
 |Collin Bexten|--|Skool (CA)|3 - Permission sent|NY. Permission sent Mar 7|
 |Jose Avila|--|Skool (CA)|4 - Q1 sent|CA paid member. Said "Yes" to permission. Q1 sent Mar 10. Building personal brand, not getting anywhere, works with N8n|
 |Anushk|plashar.visuals|IG (ManyChat)|4 - Q1 sent|Permission granted ("sure go ahead!"). Q1 sent Mar 12|
-|Laraib Lodhi|--|Skool (CA)|4 - Q2 sent|London. AI automation + agency. Paid member. Female. Goal: improve creative research/briefs to 50%+ success rate on organic + paid content. Q2 sent Mar 10|
-|Liam Larsson|--|Skool (CA)|4 - Q2 sent|Stockholm. Music duo "LIL SD", 2.5M viral vid. Goal: go worldwide, live off music, reinvest. Q2 sent Mar 8|
+|Laraib Lodhi|--|Skool (CA)|4 - Q3 sent|London. AI automation + agency. Paid member. Female. Goal: improve creative research/briefs to 50%+ success rate. Q2: wants vibe marketing for SaaS ads (Cluely, Cal AI). Q3 sent Mar 17|
+|Liam Larsson|--|Skool (CA)|4 - Q3 sent|Stockholm. Music duo "LIL SD", 2.5M viral vid. Goal: go worldwide, live off music, reinvest. Q2: nothing holding back, just need to post more consistently. Q3 sent Mar 17|
 |Austin Coldiron|--|Skool (CA)|4 - Q2 sent|Bali|
 |Alkin Cakiralar|alkincakiralar|IG (ManyChat)|4 - Q2 sent|Scaling ads step by step|
 |MADBLOX252|madblox252|IG (ManyChat)|3 - Permission sent|Positive AV ("Looking to unlock"). BGM Library lead. Permission sent Mar 8|
 |CRAXON|craxonhq|IG (ManyChat)|5 - Bridge sent|Inspiring Possibility Thinking. Q2: reach+engagement. Q3: YouTube only. Bridge to call sent Mar 13|
 |Prince Mandoriya|@prince-mandoriya-9529|Skool (CCU)|4 - Q2 sent|Calcutta. AI Automation Agency, 1 client. NOT a paid CA member (from CCU + 4 other groups). Q2 sent Mar 14|
 |fredycomics|fredycomics|IG (ManyChat)|4 - Q2 sent|**TOP CLOSE CANDIDATE.** True crime AI content. 1K views day 1. QUIT JOB: "employed failed me, i quit, trying to be independent." Q1: followers+monetization. Q2 sent Mar 14|
-|Joey Mulcahy|byjoeym|IG (ManyChat)|4 - Q1 sent|Permission granted. Q1 sent Mar 8|
+|Joey Mulcahy|byjoeym|IG (ManyChat)|4 - Q2 sent|Goal: paid course, growing audience. Q2 (audience size/consistency) sent Mar 15|
 |Jeevan Sai|--|IG (ManyChat)|3 - Permission sent|Positive AV. Permission sent Mar 8|
 |zay|zayth_egreat|IG (ManyChat)|3 - Re-qualifying|BGM Library. Editing business. Just starting, discouraged by low views. Didn't answer permission Q directly. Gave consistency tip + asked about goal (clients vs portfolio). Mar 12|
 |Pol Vaque|polvaque|IG (ManyChat)|3 - Permission sent|Growth Partner. Scales high ticket offers w/ funnels. Using outreach + planning content for IG. Permission Q sent Mar 11|
@@ -100,6 +100,9 @@
 |Dev|\_\_.dev.\_|IG (ManyChat)|3 - Permission sent|Video editor at digital marketing company. Wants to unlock IG monetization + extra income through editing. Permission Q sent Mar 12|
 |mohd_atif__303|mohd_atif__303|IG (ManyChat)|4 - Q2 sent|Editor. Goal: 2-3 permanent clients for a year, then start own studio with colleague. Q2 sent Mar 12|
 |Lia Tee|--|Skool (CCU)|4 - Q3 sent|Female. Writer/photographer, Berlin. Goal: inspire people through art/writing, message > performance. Fear/anxiety blocks her from putting herself out there. Followed Jason on IG. Q3 sent Mar 8|
+|Blake Loughrey|blake.abl3|IG (Notifications)|4 - Q3 sent|Challenge: time, transitioning to automation/delegation. Mar 10|
+|shaan|shadyss64|IG (ManyChat)|4 - Q1 sent|18yo founder, AI startup "genuine". Building MVP, growing LinkedIn. ASKED to be qualified. Q1 sent Mar 14|
+|Paul Fowleer|paulfowleer|IG (ManyChat)|3 - Permission sent|Influencer/model management 4 yrs. Ecommerce. Inbound. Permission Q sent Mar 13|
 
 |\_aryanxcreates|\_aryanxcreates|IG (ManyChat)|4 - Q3 sent|Tech/SaaS. Handled automation suspicion|
 |Dev \| Content Marketing|dev.gotmoney|IG (ManyChat)|4 - Q3 sent|76K verified. DFY biz, wants 100k/mo|
@@ -138,13 +141,13 @@
 |Vinay|vnay\_vfx|IG (ManyChat)|Video editor|
 |Hamza Navid|thehamzanavid|IG (Notifications)|57.5K, Biz Coach|
 |Botero|notbotero|IG (Notifications)|4.5K, Marketing/AI|
-|Blake Loughrey|blake.abl3|IG (Notifications)|Stage 4 - Q3 sent. Challenge: time, transitioning to automation/delegation. Mar 10|
+|~~Blake Loughrey~~|blake.abl3|IG (Notifications)|Moved to Qualifying Stage 4 (Mar 10)|
 |Darshan Mannur|--|IG (ManyChat)|BGM Library. Added Mar 7|
 |~~devbymighty~~|devbymighty|IG (ManyChat)|Moved to Qualifying Stage 3 (Mar 11)|
 |Lewis|lewis.hindle1|IG (ManyChat)|summitais backend systems. Added Mar 7|
 |Danilo Banaga|cinemadanny|IG (ManyChat)|Filmmaker. Planning to start, waiting on computer upgrade. Replied Mar 13 about starting videography/editing biz. Curiosity Q about niche sent. Stage 2|
 |Antoine Ryan|antoine.ryan|IG (ManyChat)|Free Sauce link. Added Mar 7|
-|Eliot Xavier|eliotprivv\_|IG (ManyChat)|BGM Library auto. AV sent Mar 7|
+|Eliot Xavier|eliotprivv\_|IG (ManyChat)|BGM Library auto. AV sent Mar 7. Misunderstood Q2, triggered Free Sauce automation. Re-asked monetization Q Mar 15|
 |jakubvetchy|jakubvetchy|IG (ManyChat)|Claude Skills auto. AV sent Mar 7|
 |Bojan Obradovic|obojan.ai|IG (ManyChat)|Claude Skills lead. AV sent Mar 8|
 |~~Zero Explanation~~|zero_explanation99|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 9)|
@@ -159,7 +162,7 @@
 |~~Sajid Shaik~~|bizsajid|IG (ManyChat)|SKIPPED: Pitching services (copywriting). Not ICP. Mar 10|
 |~~Pol Vaque~~|polvaque|IG (ManyChat)|Moved to Qualifying Stage 3 (Mar 11)|
 |It's DC officixl|itsdcofficixl_sa|IG (ManyChat)|Free Sauce lead. IG tips/tutorials content. AV Q sent Mar 9|
-|Dame Sellz|dame.sel1z|IG (ManyChat)|= Damien Fraser. Had market research call Mar 6. Barber, Australia. Skool CA pitch sent ($67/mo). Link + pressure removal sent Mar 9|
+|Dame Sellz|dame.sel1z|IG (ManyChat)|= Damien Fraser. Barber, Australia. JOINED CA! "I'm in bro!!!" Watching modules. Encouraged + offered help. Mar 15|
 |~~Jayant Mishra~~|_jayantmishra_|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 9)|
 |يوسف|youssefwael01|IG (ManyChat)|Free Sauce lead. Not building anything online, just wants AI YT content. Graceful exit Mar 10|
 |insidenoman|insidenoman|IG (ManyChat)|Content OS Template. Social media design w/ AI, 1 month in. Free work for portfolio. Very early stage. Encouraged, door open. Mar 10|
@@ -177,11 +180,11 @@
 |Fred Jérémie|fred.jeremie|IG (ManyChat)|AI & Digital Transformation Strategist. Primarily on LinkedIn, designs AI autonomous systems. Asked about IG interest. Stage 2. Mar 12|
 |optimistic_juice|optimistic_juice|IG (ManyChat)|Claude Content Skills auto-delivered. Curiosity Q sent Mar 12|
 |ridam|ridam_pagi|IG (ManyChat)|BGM Library auto-delivered. Curiosity Q sent Mar 12|
-|ad_karoly|karo1y|IG (ManyChat)|Fashion/travel page (proteen.co) w/ business partner. Monetization Q sent Mar 12|
+|~~ad_karoly~~|karo1y|IG (ManyChat)|GRACEFUL EXIT. Both underage, pre-revenue, building audience. Door left open. Mar 15|
 |Vicetoc Designer|vicetoc|IG (ManyChat)|Building AI resource for creators (@VeltoMind). Offered content strategy help. Stage 2. Mar 12|
 |prathvi arya|prathxi|IG (ManyChat)|Fan, started creating because of Jason. Asked about monetization goal. Stage 2. Mar 12|
 |Mike \| Video Editor|_socialmike|IG (ManyChat)|Video editor. Curiosity Q sent Mar 12|
-|shaan|shadyss64|IG (ManyChat)|18yo founder, AI startup "genuine". Building MVP, growing LinkedIn. ASKED to be qualified. Q1 sent Mar 14. Stage 4|
+|~~shaan~~|shadyss64|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 14)|
 |~~Penbera's Portraits~~|penberas_portraits|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 12)|
 |lohitaksh|lohitaksh57_|IG (ManyChat)|Curiosity Q sent Mar 12|
 |Just my thoughts|justmythought11|IG (ManyChat)|Digital marketing beginner. Curiosity Q sent Mar 12|
@@ -190,7 +193,7 @@
 |gc.sngh|gc.sngh|IG (ManyChat)|Inbound: "Yo bro do you mentor?" Curiosity Q sent. Stage 2. Mar 10|
 |Aleksandar Tomas|tomkee.motion|IG (ManyChat)|Motion graphics. Sharing reels. Curiosity Q sent. Stage 2. Mar 10|
 |Ana Paula Soares|anapsfd|IG (ManyChat)|Female. Free Sauce + BGM Library sent. Curiosity Q sent. Stage 2. Mar 10|
-|Lana Djikirba|dlana.l|IG (ManyChat)|Female. Free Sauce auto. Said "Thank you!" Curiosity Q sent. Stage 2. Mar 10|
+|~~Lana Djikirba~~|dlana.l|IG (ManyChat)|Moved to Qualifying Stage 4 (Mar 13)|
 |sebastian m|sebaasmi|IG (ManyChat)|Story reply (car). Curiosity Q sent. Stage 1→2. Mar 12|
 |~~mohd_atif__303~~|mohd_atif__303|IG (ManyChat)|Moved to Qualifying Stage 3 (Mar 12)|
 |Emun Ahmed|ehh.mediocrates|IG (ManyChat)|BGM Library lead. Said "much appreciated". Curiosity Q sent. Stage 2. Mar 12|
@@ -198,10 +201,13 @@
 |Isa|isaabuhuseina|IG (ManyChat)|BGM Library sent manually (button glitch). Curiosity Q sent. Stage 2. Mar 12|
 |Proshanto'Da|proshantodatalk|IG (ManyChat)|BGM Library lead. Does YouTube documentaries. Curiosity Q + monetization Q sent. Stage 2. Mar 12|
 |Riya Singh Designs|riyu.thedesigner|IG (ManyChat)|YouTube Thumbnails. Shared 2 reels. Curiosity Q sent. Stage 1/2. Mar 12|
-|Paul Fowleer|paulfowleer|IG (ManyChat)|Influencer/model management 4 yrs. Ecommerce. Inbound. Permission Q sent Mar 13. Stage 3|
+|~~Paul Fowleer~~|paulfowleer|IG (ManyChat)|Moved to Qualifying Stage 3 (Mar 13)|
 |Amna|--|IG (ManyChat)|Content OS lead. Curiosity Q sent. Stage 2. Mar 13|
 |Dean \| Digital Assets|--|IG (ManyChat)|Content OS lead. Curiosity Q sent. Stage 2. Mar 13|
 |layt.mcc|layt.mcc|IG (ManyChat)|BGM Library sent + curiosity Q. Stage 2. Mar 13|
+|Mii \| copywriter / marketer|mil.copywrites|IG (ManyChat)|Asked about funnels vs DMs. Answered + pivoted to ask about his biz. Stage 2. Mar 15|
+|✘ K═ĪR A$|benimaru5674|IG (ManyChat)|BGM Library. Said "Tnx very much." Asked what content they make. Stage 2. Mar 15|
+|Gabriel Wolski|gaccuss_|IG (ManyChat)|BGM Library. Said "Thanks!" Asked what content they make. Stage 2. Mar 15|
 
 ### Skool
 
@@ -215,6 +221,12 @@
 |Lekhs Reddy|@lekhs-reddy-8152|Skool (CA)|NEW. Data & AI niche. Joined Mar 11. Commented "interested" on $10k post. Welcome + curiosity Q sent Mar 11|
 |Simon Liu|@simon-liu-7223|Skool (CA)|Real estate marketing agency. Focused on IG for leads/clients. Building content for nurture. Q1 sent Mar 11|
 |~~Tyler Panzner~~|@tyler-panzner-1763|Skool (CA)|Moved to Hot Leads Stage 6 (Mar 13)|
+|Nuno Machado Lopes|@nuno-machado-lopes-9050|Skool (CA)|Portugal. DNA Health & Fitness Coach. Had call late 2025. Building AI automations (Claude CoWork, GHL, ManyChat). Warm re-engage. Asked about content consistency. Mar 15|
+|Suresh Malani|@suresh-malani-3766|Skool (CCU→CA?)|Calcutta. Educational stories/SM growth. Replied "its going good." Asked about goal (grow vs monetize). Mar 15|
+|Joshua Lopes|@joshua-lopes-9393|Skool (CA)|Gibraltar. "Ace Of Growth \| Joshua Villa." Joined Mar 15. Online. Joined from IG. Also DM'd on ManyChat. Opener sent Mar 15|
+|Maya Ar|@may-arz-1451|Skool (CA)|Argentina. No bio. Joined Mar 14. In 3 other groups. Opener + curiosity Q sent Mar 15|
+|Damien Fraser|@damien-fraser-8427|Skool (CA)|Melbourne. High ticket sales. Joined Mar 14. Already known from prior call. Opener sent Mar 15|
+|Rhys Roberts|@rhys-roberts-7527|Skool (CA)|Sydney. "Built on Purpose, Driven by Vision." Returning member. In course Oct 2025, offered to be case study. Re-engaged, asked about implementation. Mar 15|
 
 ## Stage 1 -- Opener Sent
 
@@ -232,7 +244,7 @@ Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores 
 
 ### Skool Openers
 
-Christian Kadivec (Ljubljana, CA), Allie Thaxton (NY, CA), Nuno Machado Lopes (Lisbon, CA - joined Mar 13, DNA Health & Fitness Coach)
+Christian Kadivec (Ljubljana, CA), Allie Thaxton (NY, CA), ~~Nuno Machado Lopes~~ (moved to Stage 2), Jason Gloger (CA, opener sent Mar 17), Haitham Shamsan (CA, opener sent Mar 17)
 
 ### ManyChat Stage 1
 
@@ -256,7 +268,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 * **Enray Liu (syarne)** -- ZOMBIE: Was in skipped.md as "setter/closer recruiter" but re-engaged via ManyChat auto-DM with positive AV. Already sent permission question. Keep or drop? (flagged Mar 8)
 * ~~**Hoku Arnold**~~ -- RESOLVED: Friend per Jason. Not a sales lead. (flagged Mar 9)
 * ~~**Rayan**~~ -- RESOLVED: Rayan = Leo | Copywriting (leocorex). Scheduled under real name. Call was no-show/miscommunication. Calendly re-sent for rescheduling (Mar 10)
-* **Dame Sellz (dame.sel1z)** -- HANDLED: Skool CA pitch sent ($67/mo) with link + pressure removal. Awaiting reply (Mar 9)
+* ~~**Dame Sellz (dame.sel1z)**~~ -- RESOLVED: Joined CA! Watching modules. Mar 15
 * ~~**Leo \| Copywriting (leocorex)**~~ -- RESOLVED: Rebooked as "Rayan Leo". Fri Mar 13, 11:30am PT
 * **Danielle Smith** -- NEW Calendly booking Fri Mar 13, 1:15pm PT (danielle.allthingslife@gmail.com). Not in pipeline. Who is this? (flagged Mar 10)
 * ~~**"Jason X Patrick Call"**~~ -- RESOLVED: Now shows as "Patrick x Jason 1-1 Scripting/Ideation Call" Mar 17, 1:30pm PT (patappid2222@gmail.com). Non-Calendly, client call
@@ -313,6 +325,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 |Mar 12|Pablo Simancas|Chrome Goat agency. 12:45pm PT|
 |Mar 13|Rayan Leo|Rebooked. 11:30am PT|
 |Mar 13|Ayden Lum|Follow Up. **CLOSED $3K PIF**. 2pm PT|
+|Mar 16|Melvin Hagström|11am PT. Not buying rn. Lukewarm — comfortable, needs to launch offer first. Follow up Mar 31|
 
 ### Upcoming
 
@@ -323,7 +336,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 |Mar 13|Ayden Lum|Follow Up. 2pm PT. **CLOSED $3K PIF**|
 |Mar 13|Saharat Raksanoh|Onboarding call. 4:30pm PT. CLOSED!|
 |Mar 16|Kunal Jiwani|Skool CA. 10am PT (rescheduled from Mar 9)|
-|Mar 16|Melvin Hagström|11am PT. AI Tools & Content Marketing|
+|~~Mar 16~~|~~Melvin Hagström~~|~~11am PT. Not buying rn. Follow up Mar 31~~|
 |Mar 16|Koby Luedtke|12pm PT. $40K MRR agency|
 |Mar 16|Albert Wang|Onboarding. 1:45pm PT|
 |Mar 16|Antonio Guerrieri|2:30pm PT. Content Marketing|
@@ -342,7 +355,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 | Abdulwahab8 | Mar 7 | Agency, 14.2K |
 | Giancarlo Kerg | Mar 7 | Former $50K/mo YT channel |
 | Nikhil Rana | Mar 7 | Said "Lets go" |
-| Edmund \| AI | Mar 7 | Busy w/ hackathon |
+| ~~Edmund \| AI~~ | Mar 7 | BOOKED. Confirmed "I've set it up!" Mar 15 |
 | Said-Azzam Righy | Mar 7 | Agreed to call |
 | ~~PAUL BURGESS~~ | Mar 10 | BOOKED Thu Mar 12 10:45am PT |
 | ysaberedits | Mar 10 | Video editor, editing agency |
@@ -389,21 +402,23 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 
 ## Priority Follow-ups (Next Session)
 
-1. **fredycomics Q2 reply** -- TOP CLOSE CANDIDATE. Quit job signal. Q2 sent Mar 14. FAST-TRACK to call when Q3 answered
+1. **Melvin Hagström follow-up Mar 31** -- Re-engage when he's launched brand deal coaching offer. Interested in Claude automations ($67) once he knows what he needs. Pricing feedback: raise to 5K
+2. **fredycomics Q2 reply** -- TOP CLOSE CANDIDATE. Quit job signal. Q2 sent Mar 14. FAST-TRACK to call when Q3 answered
 2. **Malcolm Mensah Q3 reply** -- TOP CLOSE CANDIDATE. Quit job signal. Q3 sent Mar 13. Fast-track
 3. **shaan Q1 reply** -- High intent (asked to be qualified). AI startup. Q1 sent Mar 14
-4. **Check CRAXON reply** -- Bridge to call sent Mar 13. Stage 5
-5. **Check shrezzy_fitz reply** -- Fitness coach 18.8K. AV Q sent Mar 14. Stage 2
-6. **Check Harsh reply** -- Personal brand page. AV Q sent via IG Mar 14. Stage 2
-7. **Check Dean | Digital Assets reply** -- Permission Q sent Mar 14. Stage 3
-8. **Check Paul Fowleer reply** -- Permission Q sent Mar 13. Stage 3
-9. **Vibha / SocialCircle** -- FLAGGED: Paid reel collab $600/reel. Deadline Mar 20. Jason decide
-10. **Skool 5 unread chats** -- Can't access via automation. Check manually
-11. **Nudge remaining stale Calendly leads** -- Melvin Zhou, Frederik, Anish, Said-Azzam, Abdulwahab8, Giancarlo, Edmund, Jarvis (need IG native)
-12. **YGY + Nikhil Rana nudge replies** -- Nudged Mar 13. Check bookings
-13. **BRIAN GLUSOVICH** -- URGENT: Suicidal ideation. Jason personal follow-up
-14. **Flagged items aging** -- Nico curnock, Marlon Orellana (URGENT: 5+ sessions)
-15. **Check for replies** -- ad_karoly, Vicetoc, Vijay Jadhavar, Riya Singh Designs, Yannic Ziane
+4. **Edmund/whatelz.ai rebook** -- NO SHOW Mar 15. Follow-up DM sent Mar 17. If he replies, rebook ASAP. Cheat sheet ready: edmund-call-cheatsheet.md
+5. **Joey Mulcahy Q2 reply** -- Wants paid course, growing audience. Q2 sent Mar 15
+6. **Nuno Machado Lopes reply** -- Warm re-engage. Prior call. Building AI automations. Asked about content consistency. Mar 15
+7. **Mii/copywriter reply** -- Asked about his biz after funnel question. Mar 15
+8. **Suresh Malani reply** -- Asked grow vs monetize. Mar 15
+9. **Rhys Roberts reply** -- Returning CA member. Asked about implementation. Mar 15
+10. **Joshua Lopes reply** -- New CA member, online. "Ace Of Growth." Mar 15
+11. **Check CRAXON reply** -- Bridge to call sent Mar 13. Stage 5
+12. **Check shrezzy_fitz reply** -- Fitness coach 18.8K. AV Q sent Mar 14. Stage 2
+13. **Nudge remaining stale Calendly leads** -- Melvin Zhou, Frederik, Anish, Said-Azzam, Abdulwahab8, Giancarlo, Jarvis (need IG native)
+14. **BRIAN GLUSOVICH** -- URGENT: Suicidal ideation. Jason personal follow-up
+15. **Flagged items aging** -- Nico curnock, Marlon Orellana (URGENT: 5+ sessions)
+16. **Vibha / SocialCircle** -- FLAGGED: Paid reel collab $600/reel. Deadline Mar 20. Jason decide
 
 ---
 
@@ -422,4 +437,4 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 | Calls Completed | ~21 (+Paul Burgess, Albert, Pablo, Rayan Leo, Ayden) |
 | Disqualified | 76+ |
 
-*Updated March 13, 2026 (Session 43).*
+*Updated March 15, 2026 (Session 46).*
