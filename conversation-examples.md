@@ -617,4 +617,93 @@ This is the highest-close-probability lead type. Prior free value that produced 
 
 ---
 
+## Example 5: Maximus Ramminger (Friend/Warm Lead — Tech Pain Bridge)
+
+**Platform:** Instagram (ManyChat)
+**Handle:** @maximus.ramminger
+**Lead type:** Fat Loss Coach. Friend of Jason. Has setters + team. FB is main rev channel, IG is dead. Based in Australia. Completely non-technical ("clueless with code"). Subscribed 9 months.
+**Result:** Call booked in one session. Calendly sent and booked within minutes.
+**Time span:** Today's session (Mar 15, 2026). But relationship goes back to Jul 2025.
+**Key insight:** With friends, the bridge to a call comes from THEIR pain/ask, not from qualifier questions. Max asked for help with Claude setup → natural bridge to walkthrough call.
+
+### Background (Jul 2025 — Mar 2026)
+
+Long-running friend relationship. Max referred people to CA, offered to get testimonials, talked about Alex Eubank deal, Shelby, personal stuff. He shared that FB is his main rev channel but IG is dead. Jason sent him the Fitness Coach Short Form Masterclass, Google Doc prompts, and Skool resources over time.
+
+Key moment (Mar 4): Max replied to Jason's story, asked how to use Claude. Jason asked about his coaching + IG. **Max detected the setter voice:** "Ahhhh man I'm talkin to a va or many chat." Jason labeled him "Friend" and pivoted to casual: "betttttt yea bro pull up! also let me know if you would be down for a 1-1 call. I'm launching a new offer rn and just tryna do some market research."
+
+### The Conversion Conversation (Mar 15, 2026)
+
+**Max:**
+> I am absolutely fucking clueless when it comes to code and shit. Just switched from chat to Claude, curious if you are familiar with anything like this and if it would be useful at all for me?
+
+**Max:**
+> Ahh fuck just saw your DM, my setters must have opened that and not let me know
+
+**Jason:**
+> bro yes 100% I use Claude for literally everything now. you don't need to know code at all, that's the whole point
+
+**Jason:**
+> what are you trying to use it for with your coaching? like automating stuff, content, building systems?
+
+**Max:**
+> Just content I begin with, the way this guy made it sound was that it'd be similar to your N8N flow for content research and this one would do hook analysis and some scripting too
+
+**Jason:**
+> ohh yeah dude thats literally what i use it for too. the hook analysis + scripting stuff is insane honestly, it saves me so much time
+
+**Max:**
+> How easy is this to set up?? I tried looking at his walk through and the second I saw I needed to go into a terminal and do some coding shit I was lost 😂
+
+**Max:**
+> Completely clueless in this department
+
+**Jason:**
+> hahaha bro nah u dont need any of that terminal stuff. the way i set it up is literally just talking to claude like ur texting someone, no code at all
+
+**Jason:**
+> i could walk u through how i have mine set up if u want? would take like 20 min
+
+**Max:**
+> That would be amazing bro, I tried talking to it like that but it told me Claude doesn't have the API key or ability to scrape IG and that I needed to use amplify or some shit
+
+**Jason:**
+> haha yeah thats cuz u were asking it to do stuff it cant do natively. theres workarounds for all of that tho
+
+**Jason:**
+> grab a time here and ill show u everything https://calendly.com/jason-creatoreconomy/30m-1-1-meeting
+
+**Max:**
+> My dawg. Appreciate you
+
+**Jason:**
+> gotchu just let me know when you book in g!
+
+**Max:**
+> Got er down for Friday my time I think mid to late Thursday for your time 💪🏻
+
+**Jason:**
+> Bettt speak soon
+
+**BOOKED.**
+
+### Why This Worked
+
+1. **No setter questions.** Jason's first draft had "are u posting consistently rn for the fat loss coaching stuff?" — this was intercepted and deleted because it would have given away AI/setter voice to a friend. Instead, stayed in the flow of what Max was asking about (Claude/tech).
+2. **Bridge came from HIS ask, not the pipeline.** Max asked "How easy is this to set up?" → Jason offered "I could walk u through it." Natural, no pitch energy.
+3. **Reassurance over the tech fear.** Max's pain was feeling "completely clueless" with code. Jason repeatedly removed that fear: "no code at all", "literally just talking to claude like ur texting someone."
+4. **Explained WHY Claude gave him errors** instead of just dismissing it. "thats cuz u were asking it to do stuff it cant do natively. theres workarounds" — positions Jason as the expert who knows the shortcuts.
+5. **Short Calendly drop.** "grab a time here and ill show u everything" — one line, no over-explanation, no "no pitch" disclaimer.
+6. **Prior relationship did the heavy lifting.** 9 months of friendship, referrals, shared resources, banter. The trust was already banked. The conversion was just connecting his pain (can't figure out Claude) to Jason's expertise (uses Claude for everything).
+
+### Rules Extracted
+
+- **With friends: NEVER use setter qualifying questions.** Stay in their flow. The bridge comes from their ask, not your script.
+- **Tech pain is a valid bridge to a call.** "I could walk you through my setup" is a natural, non-salesy call invite.
+- **When someone says "I'm clueless" about something you're expert in, reassure first, then offer help.** Don't skip to the pitch.
+- **Prior free value that produced results = they close themselves.** Max had been getting Jason's resources for months. When he hit a wall with Claude, Jason was the obvious person to call.
+- **If a friend detects your setter voice, STOP and switch to friend mode immediately.** Max caught it on Mar 4 ("I'm talkin to a va or many chat"). Jason recovered by labeling him "Friend" and pivoting to casual.
+
+---
+
 *More examples will be added as conversations are completed. Target: 5+ examples covering different lead types (cold IG outreach, objection-handled, long nurture, ghosting recovery, etc.)*

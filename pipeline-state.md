@@ -1,7 +1,7 @@
 # Pipeline State
 
 **Account:** @jasoncooperson
-**Last updated:** March 17, 2026 (Session 48 — Edmund no-show, 2 Skool outreaches, call cheat sheet)
+**Last updated:** March 19, 2026 (Session 50: Skool + ManyChat replies cleared. Ash re-engaged Stage 6, Taki Wong Q1 sent, Ismail new Stage 2, Jason Gloger Stage 2, Liam graceful exit)
 
 > Session logs: `session-logs/` | Disqualified: `archive/disqualified.md` | Skipped: `archive/skipped.md` | Call outcomes: `archive/call-outcomes.md`
 
@@ -13,7 +13,7 @@
 |-|-|-|-|-|
 |James Skull|--|Skool|5 - Bridge sent|Niche pivot, wants to revive account. Berlin|
 |Melvin Zhou|--|Skool|6 - Calendly sent|Awaiting booking. LA|
-|Frederik Ulnits Vester|--|Skool|6 - Calendly sent|Hasn't booked yet|
+|Frederik Ulnits Vester|--|Skool|6 - Call completed|Mar 19. Agency w/ 8 clients. Not a fit for Tier 1. TIER 2 RE-ENGAGE — DFY AI implementation. Circle back with Tier 2 pitch|
 |Eshaan Singh|theboyonthegram|IG (Primary)|5 - Bridge sent|Saw bridge, no reply|
 |YGY|ygy\_gaming\_018|IG (General)|6 - Calendly sent|Wants call after March 10|
 |Anish Gautam|anish\_gtm5|IG (General)|6 - Calendly sent|Calendly sent|
@@ -61,11 +61,11 @@
 |Umar|socialcomumar|IG (ManyChat)|5 - Bridge sent|TikTok shop management. Goal: 10 clients at $5K/mo. Challenge: consistency. Tried: nothing yet. Bridge to call sent Mar 10|
 |Penbera's Portraits|penberas_portraits|IG (ManyChat)|6 - Calendly sent|HS junior, photographer. Goal: get hired by bigger creators. Challenge: time (school+soccer). Tried IG templates. Agreed to call. Calendly sent Mar 12|
 |Afsarchamp|afsarchamp|IG (ManyChat)|6 - Calendly sent|Mindset/Money/Fitness. Lost 40K account. Getting clients from own network only. Agreed to call. Calendly sent Mar 12|
-|Tyler Panzner|@tyler-panzner-1763|Skool (CA)|6 - Calendly sent|NY, $80/mo. Was going to cancel. Re-engaged asking about systems/implementation. Said yes to call. Calendly sent Mar 13|
+|Tyler Panzner|@tyler-panzner-1763|Skool (CA)|6 - VERBAL YES|Mar 19. $35-60K/mo genetics/supplements. VERBAL COMMIT $3K pending contract. Send contract via email + follow up in 1 week. Text/WhatsApp comms. Credit CA months. TIER 2 (underpriced)|
 |Markus Drößler|@markus-droler-3700|Skool (CA)|6 - Calendly sent|Berlin. Building creator brand w/ wife in German market (personal dev niche, @ronjadroessler). Wants Tue Mar 18. Calendly sent. Awaiting booking|
 |Mateja Proučil|@mateja-proucil-7365|Skool (CA)|5 - Bridge sent|Zagreb. Q3 answered: "Yes, coaching program." Bridge to call sent Mar 14|
 |Victoria Denisse|@vicky-clavero-6849|Skool (CA)|6 - Calendly sent|Melbourne. Re-engage. Said "happy to chat next week?" Calendly sent Mar 14. Awaiting booking|
-|Maximus Ramminger|maximus.ramminger|IG (ManyChat)|6 - Call booked|Fat Loss Coach. Friend. Australia. Wants Claude walkthrough for content (hook analysis, scripting). Booked Fri (his time) / Thu (PT). Mar 15|
+|Maximus Ramminger|maximus.ramminger|IG (ManyChat)|6 - Call completed|Mar 19. $17-22K/mo fat loss coaching. Australia→Bali. Interested, deciding ~Mar 23. In multiple programs. Guarantee: 10-15 IG calls/week. $3K early bird. TIER 2 PROSPECT|
 
 ## Qualifying (Stage 3-4)
 
@@ -74,7 +74,7 @@
 |12..........Nathan|nat.h.an\_12|IG (ManyChat)|3 - Permission sent|AI solopreneurship niche. Wants to monetize. Positive AV. Permission sent Mar 9|
 |Sacha|sachablt\_|IG (Primary)|3 - Permission sent|Video editor|
 |Ben Petersen|dr.benpetersen|IG (ManyChat)|3 - Permission sent|161K fitness. Strong ICP. "$10 on IG"|
-|Ash|fitherover40|IG (Notifications)|3 - Permission sent|Fitness Coach Women 40+|
+|Ash|fitherover40|IG (Notifications)|6 - Calendly sent|Fitness Coach Women 40+. Calendly already sent. Re-engaged Mar 19: frustrated w/ ChatGPT, wants to start content by Apr 1, asking about Skool. Nudged call. HIGH QUALITY|
 |Fortune|fortunedreyy\_|IG (Notifications)|3 - Permission sent|Video Editor. Polishing fulfillment|
 |thrustonbenny|thrustonbenny|IG (Notifications)|3 - Permission sent|DP & Creative Director|
 |Marko Kaufmann|marko\_kaufmann|IG (ManyChat)|3 - Permission sent|Founder Performance Systems. Europe, verified|
@@ -84,7 +84,7 @@
 |Jose Avila|--|Skool (CA)|4 - Q1 sent|CA paid member. Said "Yes" to permission. Q1 sent Mar 10. Building personal brand, not getting anywhere, works with N8n|
 |Anushk|plashar.visuals|IG (ManyChat)|4 - Q1 sent|Permission granted ("sure go ahead!"). Q1 sent Mar 12|
 |Laraib Lodhi|--|Skool (CA)|4 - Q3 sent|London. AI automation + agency. Paid member. Female. Goal: improve creative research/briefs to 50%+ success rate. Q2: wants vibe marketing for SaaS ads (Cluely, Cal AI). Q3 sent Mar 17|
-|Liam Larsson|--|Skool (CA)|4 - Q3 sent|Stockholm. Music duo "LIL SD", 2.5M viral vid. Goal: go worldwide, live off music, reinvest. Q2: nothing holding back, just need to post more consistently. Q3 sent Mar 17|
+|~~Liam Larsson~~|--|Skool (CA)|Graceful exit|Stockholm. Music duo "LIL SD". Doesn't need coaching, current system working well. Door left open for monetization brainstorm. Mar 19|
 |Austin Coldiron|--|Skool (CA)|4 - Q2 sent|Bali|
 |Alkin Cakiralar|alkincakiralar|IG (ManyChat)|4 - Q2 sent|Scaling ads step by step|
 |MADBLOX252|madblox252|IG (ManyChat)|3 - Permission sent|Positive AV ("Looking to unlock"). BGM Library lead. Permission sent Mar 8|
@@ -103,6 +103,8 @@
 |Blake Loughrey|blake.abl3|IG (Notifications)|4 - Q3 sent|Challenge: time, transitioning to automation/delegation. Mar 10|
 |shaan|shadyss64|IG (ManyChat)|4 - Q1 sent|18yo founder, AI startup "genuine". Building MVP, growing LinkedIn. ASKED to be qualified. Q1 sent Mar 14|
 |Paul Fowleer|paulfowleer|IG (ManyChat)|3 - Permission sent|Influencer/model management 4 yrs. Ecommerce. Inbound. Permission Q sent Mar 13|
+|Taki Wong \| AI Builder|taki.gpt|IG (ManyChat)|4 - Q1 sent|51K. AI Builder. Gave permission "Feel free to ask away brother." Q1 sent Mar 19. HIGH QUALITY|
+|Ismail \| Client Acquisition|ismxil.ahmxd|IG (ManyChat)|2 - Curiosity Q sent|Inbound compliment. Asked about his biz (client acquisition for self or clients?). Mar 19|
 
 |\_aryanxcreates|\_aryanxcreates|IG (ManyChat)|4 - Q3 sent|Tech/SaaS. Handled automation suspicion|
 |Dev \| Content Marketing|dev.gotmoney|IG (ManyChat)|4 - Q3 sent|76K verified. DFY biz, wants 100k/mo|
@@ -227,6 +229,7 @@
 |Maya Ar|@may-arz-1451|Skool (CA)|Argentina. No bio. Joined Mar 14. In 3 other groups. Opener + curiosity Q sent Mar 15|
 |Damien Fraser|@damien-fraser-8427|Skool (CA)|Melbourne. High ticket sales. Joined Mar 14. Already known from prior call. Opener sent Mar 15|
 |Rhys Roberts|@rhys-roberts-7527|Skool (CA)|Sydney. "Built on Purpose, Driven by Vision." Returning member. In course Oct 2025, offered to be case study. Re-engaged, asked about implementation. Mar 15|
+|Jason Gloger|@jason-gloger-2665|Skool (CA)|Berlin. BJJ influencer. 2yr content experience, new niche page (@bjjmaxxing). Goal: biggest BJJ influencer in Germany. Asked monetize vs grow. Mar 19|
 
 ## Stage 1 -- Opener Sent
 
@@ -244,7 +247,7 @@ Yaseen Ramsey (109K), Samela Bergman (2.8K), Ajene Pinnock (64.6K), Sage Flores 
 
 ### Skool Openers
 
-Christian Kadivec (Ljubljana, CA), Allie Thaxton (NY, CA), ~~Nuno Machado Lopes~~ (moved to Stage 2), Jason Gloger (CA, opener sent Mar 17), Haitham Shamsan (CA, opener sent Mar 17)
+Christian Kadivec (Ljubljana, CA), Allie Thaxton (NY, CA), ~~Nuno Machado Lopes~~ (moved to Stage 2), ~~Jason Gloger~~ (moved to Stage 2), Haitham Shamsan (CA, opener sent Mar 17)
 
 ### ManyChat Stage 1
 
@@ -340,13 +343,17 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 |Mar 16|Koby Luedtke|12pm PT. $40K MRR agency|
 |Mar 16|Albert Wang|Onboarding. 1:45pm PT|
 |Mar 16|Antonio Guerrieri|2:30pm PT. Content Marketing|
+|Mar 19|Frederik Ulnits Vester|10am PT. Skool CA|
+|Mar 19|Tyler Panzner|11:30am PT. Skool CA, NY|
+|Mar 19|Maximus Ramminger|12:15pm PT. Fat loss coach, Australia. Friend|
+|Mar 23|Will Habel|11am PT. NEW - not in pipeline previously|
 
 ### Awaiting Booking
 
 | Lead | Calendly Sent | Notes |
 |-|-|-|
 | Melvin Zhou | ~Mar 5 | Stale 3+ days |
-| Frederik Ulnits Vester | ~Mar 5 | Stale 3+ days |
+| ~~Frederik Ulnits Vester~~ | ~Mar 5 | BOOKED Thu Mar 19, 10am PT |
 | YGY | Mar 7 | Wants call after Mar 10 |
 | Anish Gautam | ~Mar 6 | Stale 2+ days |
 | Yared | ~Mar 6 | In Italy. Nudge sent |
@@ -363,7 +370,7 @@ Yahia Farid (Dubai), Aleksa Samardzic (LA), Giacomo Bruneri (Rome), Maria De la 
 | ~~Koby Luedtke~~ | Mar 10 | BOOKED Mon Mar 16, 12pm PT |
 | Penbera's Portraits | Mar 12 | HS junior, photographer. Agreed to call for tomorrow |
 | Afsarchamp | Mar 12 | Mindset/Money/Fitness. Agreed to call |
-| Tyler Panzner | Mar 13 | Skool CA, NY. Systems/implementation. Agreed to call |
+| ~~Tyler Panzner~~ | Mar 13 | BOOKED Thu Mar 19, 11:30am PT |
 
 ---
 

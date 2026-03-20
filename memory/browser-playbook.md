@@ -205,7 +205,7 @@ When the Chrome extension disconnects (tool returns "Browser extension is not co
 5. **Use refs over coordinates** — refs are stable, coordinates shift with scroll/resize.
 6. **Wait after navigation** — after clicking a link or loading a new page, take a screenshot or read_page before acting. Don't fire blind clicks.
 7. **One action per turn when uncertain** — if you're not sure what will happen, do one thing, screenshot, then decide next step.
-8. **Batch CRM updates** — don't switch between IG and Notion for each lead. Finish the IG session, then batch-update Notion.
+8. **Batch pipeline updates** — don't update pipeline-state.md after each lead. Finish a batch, then update the file.
 
 ---
 

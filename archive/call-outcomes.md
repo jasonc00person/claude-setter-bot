@@ -35,6 +35,7 @@
 | Lead | Handle/Profile | Platform | Outcome | Notes |
 |-|-|-|-|-|
 | Salim O | [Skool](https://www.skool.com/@salim-oum-8681) | Skool (CA) | Qualified but lukewarm | 13K followers, 2 mentees, ~$1.5K/mo coaching. Already paying for another mentorship (2mo remaining). Deep skepticism (5-6/50 succeed in programs). Content in French = Jason can't review. $4K impossible rn. Follow up in 2-3 months |
+| Melvin Hagström | ai.volve.news | IG (ManyChat) | Qualified but not buying rn | AI Tools & Content Marketing. Sweden. Shut down $106K ARR SaaS. Making good $ from brand deals (8-9/mo). Wants to relaunch coaching (brand deal coaching for creators). Pain: stuck in "dead zone" 3 months cycling between vehicles, unfulfilled by brand deals alone. Urgency: 4-5/10 — comfortable, not hurting. Spent 20-30K on coaches historically, always ROI'd. Knows Igor. Gave pricing feedback: raise to 5K, downsell from there. Interested in Claude automations ($67 tier) once he knows what he needs. **Follow up Mar 31.** Re-engage when he's launched the brand deal coaching offer and hitting friction |
 
 ## Unqualified After Call (Do Not Re-Engage)
 
@@ -45,4 +46,17 @@
 | Vyceheart | vyce_heart | Skool | Unqualified per Jason |
 | Harsh Surana | harsh.1806 | Skool | Unqualified per Jason |
 
-*Last updated: March 14, 2026 (Ayden Lum CLOSED $3K PIF — 5th Inner Circle member)*
+## Pending Close (Verbal Yes, Awaiting Payment)
+
+| Lead | Handle/Profile | Platform | Outcome | Notes |
+|-|-|-|-|-|
+| Tyler Panzner | @tyler-panzner-1763 | Skool (CA) | VERBAL YES — $3K, pending contract | Dr. Tyler Panzner. Genetics/supplements biz, $35-60K/mo (!). NY. Wants DFY automation + Claude education. Guarantee: save 20hrs/week or keep working free. Wants written contract before paying. Send contract via email, follow up in 1 week. Communicate via text/WhatsApp. Will credit unused CA months toward payment. **TIER 2 PROSPECT — was underpriced at $3K. Future Tier 2 clients should be $7-10K.** |
+
+## Re-Engage for Tier 2 (Advanced — AI Implementation)
+
+| Lead | Handle/Profile | Platform | Outcome | Notes |
+|-|-|-|-|-|
+| Frederik Ulnits Vester | [Skool] | Skool (CA) | Tier 2 fit — re-engage | Growth partnership agency, 8 clients, ops manager Jonas. In Bali. Needs "Claude freak" to build content automation for client fulfillment. Not a fit for Tier 1 (beginners). Perfect Tier 2 ($7-10K DFY implementation). Circle back with Tier 2 pitch. He literally said: "any agency would pay you $10K to just implement" |
+| Maximus Ramminger | maximus.ramminger | IG (ManyChat) | Interested, deciding ~Mar 23 | Fat loss coach, Australia (going to Bali). $17-22K/mo, 260K FB followers, IG underperforming. Wants IG revival + automation/systems. In multiple programs already (PTDOM, Australian mentorship, Austin Medlin sales). Stretched thin on time + cash. Guarantee discussed: 10-15 calls/week from IG. $3K early bird / $4K after Apr 3. Will give hard yes/no within 4-5 days of landing in Bali (~Mar 23). **Could be Tier 2 at $7-10K with IG + automation focus.** |
+
+*Last updated: March 19, 2026 (3 calls: Frederik not-a-fit→Tier 2 re-engage, Tyler verbal yes $3K, Maximus deciding ~Mar 23)*

@@ -49,7 +49,7 @@ The complete 6-stage pipeline (Opener -> Value + Curiosity -> Permission -> Qual
 
 ## Upcoming Deadline
 
-- **April 3, 2026:** The "market research" reframe in `setting-script.md` expires. Update the "I'm not looking for coaching" response after this date.
+- **April 3, 2026:** The "market research" reframe in `setting-script.md` expires. **REPLACEMENT DRAFTED (Mar 15):** New angle uses "fractional SMM" framing instead. Review and finalize before April 3.
 
 ---
 

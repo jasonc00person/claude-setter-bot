@@ -6,6 +6,31 @@
 
 ---
 
+## Two-Tier Offer (Decide BEFORE or DURING the Call)
+
+Jason runs two offers. Same funnel, same Calendly, same calls. Determine the tier based on who the prospect is.
+
+| Signal on Call | Tier | Price | Guarantee |
+|-|-|-|-|
+| Pre-revenue, wants first clients, learning content | **Tier 1 — Group Coaching** | $3-4K / 90 days | 3 high-ticket clients or keep working free |
+| Making $15K+/mo, wants automation/systems/fulfillment | **Tier 2 — 1-on-1 Implementation** | $7-10K / 90 days | Save 20 hrs/week OR double revenue from specific channel |
+| Agency with clients, needs DFY AI builds | **Tier 2** | $7-10K / 90 days | Custom (e.g., automate X process, save Y hrs/week) |
+| Wants to learn Claude + have things built for them | **Tier 2** | $7-10K / 90 days | DFY + education handoff |
+
+**CRITICAL:** Do NOT offer Tier 2 work at Tier 1 prices. Tyler Panzner ($35-60K/mo) got $3K for DFY automation — that should have been $7-10K. Match the price to the deliverable.
+
+**Tier 2 value stack:**
+- 1-on-1 onboarding call (full business process audit)
+- Weekly implementation calls (DFY builds + education)
+- DFY Claude automations for their top 3 processes
+- Custom guarantee (save X hours/week, book X calls, etc.)
+- Direct WhatsApp access
+- 90-day handoff so they can maintain/extend without you
+
+**Tier 2 frame:** "AI implementation partner" or "fractional AI guy" — NOT coach, NOT course.
+
+---
+
 ## Pre-Call (5 Min Before)
 
 **Do this every single time. 5 min of prep = looks like genius-level preparation.**
@@ -13,8 +38,9 @@
 1. **Re-read the setter notes / DM thread.** Know their name, niche, revenue, what they said in DMs
 2. **Identify their pain.** What problem drove them to book?
 3. **Pick your angle.** Which of the 3 pillars matters most to them? (content system, monetization, accountability)
-4. **Know their objection before they say it.** Budget? Proof? Already burned? Time?
-5. **Energy check.** Stand up, do 10 jumping jacks, whatever. You cannot close in a low-energy state
+4. **Pre-determine tier.** If DMs mention revenue >$15K/mo or automation needs, prepare Tier 2 pitch
+5. **Know their objection before they say it.** Budget? Proof? Already burned? Time?
+6. **Energy check.** Stand up, do 10 jumping jacks, whatever. You cannot close in a low-energy state
 
 **Repeat back their situation in the first 60 seconds.** Never make them re-explain. This alone separates you from every other coach they've talked to.
 
@@ -569,34 +595,55 @@ so what's ur gut telling u rn?
 
 ---
 
-## ADVANCED / ALREADY SUCCESSFUL
+## ADVANCED / ALREADY SUCCESSFUL (→ TIER 2 PITCH)
+
+> These prospects are Tier 2. Do NOT pitch group coaching. Pivot to 1-on-1 AI implementation at $7-10K.
 
 ### "I'm already making $10K+/mo, what can you offer me?"
 ```
 that's dope bro -- so what specifically are u looking to level up?
 
-[listen for: scaling, systems, AI, team, content strategy]
+[listen for: scaling, systems, AI, team, content strategy, fulfillment bottleneck]
 
 ok so here's where I come in -- I'm not gonna teach u how to get ur first client, u're past that
 
-what I'm gonna do is build the systems and automations that take u from doing everything manually to having a machine that runs without u
+what I would do is basically come in as ur AI implementation guy for 90 days
 
-[mention AI setter, content system, workflow automation]
+I'd audit ur whole business, figure out the top 3 processes eating ur time, and build Claude automations that handle them
 
 the people I work with at ur level usually need the infrastructure, not the education -- and that's exactly what I build
+
+like one of my clients was doing 35-60K a month, and the bottleneck was just manual fulfillment processes that AI could handle in seconds
 ```
 
 ### "Your program seems like it's for beginners"
 ```
-fair point -- and honestly for the standard program it kinda is
+fair point -- the group coaching side is more for beginners, u're right
 
-but for someone at ur level we'd do something custom:
-- focused on [their specific gap]
-- more strategy calls, less hand-holding
-- I'd basically come in as ur fractional growth partner
+but for someone at ur level I do something totally different:
+- it's 1-on-1, just me and u
+- I'm literally building automations FOR u, not teaching u theory
+- we'd audit ur processes week 1, then I build and implement for the next 12 weeks
+- think of it as hiring a fractional AI guy for ur business, not joining a program
 
 wanna hear what that would look like?
 ```
+
+### Tier 2 pricing on the call
+```
+so for the 1-on-1 implementation it's [7-10K] for 90 days
+
+and my guarantee is [custom -- save 20 hrs/week, book X calls from IG, automate fulfillment, etc.]
+
+if we don't hit that, I keep working with u for free until we do
+```
+
+**Tier 2 pricing rules:**
+- $7-10K for 90 days (NEVER $3-4K — that's Tier 1 pricing)
+- Early bird discount: $7K before April 3, $10K after
+- Payment plans available: $2.5K x 3 months
+- Cap at 3-5 Tier 2 clients per cohort (time-intensive)
+- Custom guarantee per client (don't default to "3 clients" — they already have clients)
 
 ---
 
@@ -670,5 +717,5 @@ After every call, answer these 5 questions:
 
 ---
 
-*Built from: 14 call transcripts (Mar 4-13), Hormozi CLOSER framework, 5 successful closes (George, Saharat, Gobb, Albert, Ayden)*
-*Last updated: March 14, 2026*
+*Built from: 17 call transcripts (Mar 4-19), Hormozi CLOSER framework, 5 closes + 1 verbal yes (George, Saharat, Gobb, Albert, Ayden, Tyler)*
+*Last updated: March 19, 2026 — Added two-tier offer structure (Tier 1 group coaching $3-4K, Tier 2 implementation $7-10K)*

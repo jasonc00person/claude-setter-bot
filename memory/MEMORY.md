@@ -15,12 +15,16 @@
 - `memory/browser-playbook.md` — Learned browser actions (BEST METHOD + TRAP)
 - `memory/pipeline-health.md` — Conversion metrics, win/loss patterns
 - `memory/voice-corrections.md` — Jason's real-time voice corrections (highest-signal data)
-- `memory/lead-magnets.md` — Verified lead magnet URLs (6 still missing)
+- `memory/lead-magnets.md` — Verified lead magnet URLs (5 still missing)
 - `memory/voice-message-process.md` — Full Whisper transcription process
 - `memory/skool-ca-backlog.md` — Skool CA outreach backlog (~50 unmessaged)
 - `archive/disqualified.md` — Do not re-contact
 - `archive/skipped.md` — Friends, not-a-fit, spam
 - `archive/call-outcomes.md` — Post-call results + re-engage list
+
+## Offer Structure
+
+- `memory/project_two_tier_offer.md` — **Two-tier offer (Mar 19).** Tier 1: group coaching $3-4K (beginners). Tier 2: 1-on-1 AI implementation $7-10K (advanced $15K+/mo operators). Same funnel, tier determined on call. NEVER price Tier 2 work at Tier 1 rates.
 
 ## Feedback
 
@@ -28,6 +32,7 @@
 - `memory/feedback_work_autonomously.md` — Don't pause between workflows. Keep working until told to stop
 - `memory/feedback_no_cd_in_git.md` — NEVER use cd in Bash commands. Use `git -C <path>` or absolute paths
 - `memory/feedback_skool_url.md` — Skool DMs: navigate to skool.com/creatoraccelerator (not /chat). Use chat icon, not notifications bell
+- `memory/feedback_manychat_message_direction.md` — ManyChat: left-aligned = prospect, right-aligned (blue) = Jason. NEVER confuse the two
 - `memory/four-pillars-dm-setting.md` — The 4 Workflows: Conversing, Following Up, Prospecting, Outreach. All 4 every day.
 
 ## Tool Rules
@@ -83,13 +88,20 @@
 | 40-41 | Mar 12-13 | ManyChat. Penbera + Afsarchamp Calendly sent. Yohan Q2. Matt Pham re-engaged |
 | 42-44 | Mar 13-14 | KB overhaul. Setting-script created. IG outreach (6 openers). Ayden $3K PIF. Albert $3K PIF |
 | 45 | Mar 14 | Jay convo (Example 4). Skool DMs: Markus/Mateja/Victoria/Prince. Voice: scheduling empathy, emoji 🤠, pitcher detection, bridge shortness. KB audit + cleanup |
+| 46 | Mar 15 | Skool: Nuno + Suresh replies, 4 CA member openers (Joshua Lopes, Maya Ar, Damien Fraser, Rhys Roberts). ManyChat: 8 replies handled, 13 skipped (pitchers/geo/spam). Maximus Ramminger BOOKED (Example 5, friend mode). Edmund/whatelz.ai BOOKED. ad_karoly graceful exit (underage). KB audit: Friend Mode + tech bridge + scheduling friction + AI detection split + April 3 reframe drafted + emoji specificity added to setting-script.md |
+| 49 | Mar 19 | 3 sales calls (Frederik, Tyler Panzner, Maximus). Tyler verbal yes $3K pending contract. All 3 were $17-60K/mo operators wanting implementation, not coaching. **TWO-TIER OFFER CREATED:** Tier 1 group coaching $3-4K (beginners) + Tier 2 DFY AI implementation $7-10K (advanced). KB updated: sales-call-script, call-outcomes, pipeline-health, pipeline-state |
 
 ## Known Issues / Action Items
 
 - [ ] 5 lead magnet URLs still missing in lead-magnets.md. Pull from ManyChat next session
-- [ ] April 3 deadline: Update objection-handling.md + setting-script.md market research reframe
+- [x] ~~April 3 deadline~~ Replacement reframe drafted in setting-script.md (Mar 15). Uses "fractional SMM" angle instead of "market research"
 - [ ] George + Saharat + Gobb: Document results for April 3 launch (first 3 case studies)
-- [ ] Build agency-specific track/proof for Pablo re-engagement
+- [ ] Build agency-specific track/proof for Pablo re-engagement (NOW = Tier 2 pitch at $7-10K)
+- [ ] Re-engage Frederik Ulnits Vester with Tier 2 pitch (agency, 8 clients, wants DFY Claude builds)
+- [ ] Send Tyler Panzner contract via email (verbal $3K — underpriced but honor it). Follow up ~Mar 26
+- [ ] Follow up Maximus Ramminger ~Mar 23 (hard yes/no after landing in Bali)
 - [x] ~~Victoria requalify late March~~ Victoria agreed to call next week. Calendly sent Mar 14
 - [x] ~~DRY cleanup~~ voice-guidelines.md + objection-handling.md consolidated into setting-script.md (Mar 14)
-- [ ] 12+ completed calls in Hot Leads need outcomes filled + archival
+- [ ] 12+ completed calls in Hot Leads need outcomes filled + archival (Jason needs to fill in call outcomes)
+- [ ] Add re-engage message templates to setting-script.md (for stale Stage 2-4 leads)
+- [ ] Add missed/rescheduled call recovery protocol to setting-script.md

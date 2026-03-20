@@ -59,18 +59,26 @@
 
 - **"Network quality" objection (CFong):** Qualified lead, wants to see other killers in the program making $20-50K/mo. Network > curriculum for him. This will come up again with experienced biz owners. Need social proof of high-performing members.
 
-## Call Conversion Data (14 Calls, Mar 4-13)
+## Call Conversion Data (17 Calls, Mar 4-19)
 
 | Metric | Value |
 |-|-|
-| Total calls | 14 |
-| Closed | 5 (George Mobbs, Saharat, Gobb, Albert Wang, Ayden Lum) |
-| Close rate | 36% (5/14) |
-| Follow-up needed | 5 (Victoria, Damien, Salim, Pierre, Pablo) |
-| Not a fit | 2 (Brayden — no budget, CFong — too advanced) |
-| Avg price closed | ~$2K (range: $0 to $3K) |
-| $4K sticker closes | 0/14 |
-| Total revenue closed | ~$10K ($0 + $3K + $1K + $3K + $3K) |
+| Total calls | 17 |
+| Closed | 5 + 1 verbal (George Mobbs, Saharat, Gobb, Albert Wang, Ayden Lum + Tyler Panzner pending) |
+| Close rate | 35% (6/17 including Tyler verbal) |
+| Follow-up needed | 6 (Victoria, Damien, Salim, Pierre, Pablo, Maximus) |
+| Not a fit (old ICP) | 2 (Brayden — no budget, CFong — too advanced) |
+| Tier 2 re-engage | 1 (Frederik — agency, needs DFY implementation) |
+| Avg price closed | ~$2K (range: $0 to $3K) — ALL underpriced for Tier 2 |
+| $4K+ sticker closes | 0/17 |
+| Total revenue closed | ~$13K ($0 + $3K + $1K + $3K + $3K + $3K pending) |
+
+### Mar 19 Calls (Two-Tier Insight)
+All 3 prospects were $17-60K/mo operators wanting Tier 2 (implementation), not Tier 1 (coaching):
+- **Frederik Ulnits Vester:** Agency, 8 clients, wanted DFY Claude builds. Correctly ID'd as not-a-fit for Tier 1, but IS a fit for Tier 2. Re-engage.
+- **Tyler Panzner:** $35-60K/mo genetics biz. Verbal yes at $3K — UNDERPRICED. Should be $7-10K Tier 2.
+- **Maximus Ramminger:** $17-22K/mo fat loss coaching. Wants IG revival + automation. Deciding ~Mar 23.
+- **KEY LEARNING:** The market is sending advanced operators. Two-tier offer created to capture both ICPs.
 
 ### What Closes Have in Common
 - High urgency (quitting jobs, "done with side quests," returning from breaks)
@@ -105,6 +113,8 @@
 - Cohort pitch to advanced leads
 - No case studies / social proof
 - Generic "10K/month in 90 days" promise to leads already above 5K
+- **Pitching Tier 1 to Tier 2 prospects** — Frederik, Tyler, Maximus all needed implementation, not coaching. Jason kept saying "probably not a good fit" because the offer didn't match. Two-tier fixes this.
+- **Tier 2 work at Tier 1 prices** — Tyler got $3K for DFY automation + 1-on-1 weekly calls + 20hr/week guarantee. That's $7-10K work.
 
 ### Loss Patterns (New)
 - Budget constraint + low urgency = never closes on first call
@@ -122,4 +132,4 @@
 - [ ] Track which lead magnets correlate with highest booking rates
 - [ ] After April 3: Update objection-handling.md market research reframe
 
-*Last updated: March 14, 2026 (Ayden Lum CLOSED $3K PIF — 5th IC member, $10K total revenue)*
+*Last updated: March 19, 2026 (3 calls: Frederik re-engage Tier 2, Tyler verbal $3K, Maximus deciding. Two-tier offer structure created. $13K total revenue incl. Tyler pending)*
