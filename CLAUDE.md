@@ -10,8 +10,6 @@ This is a **business operations system** for Jason Cooperson (@jasoncooperson), 
 
 ### DM Setting & Voice (Read before any DM session)
 - **setting-script.md** — **THE setting script.** Single source of truth for everything: Stage 1-6 DM flow, voice rules, reaction phrasebook, tone spectrum, bro-culture terms, objection handling (DM + post-call), Hormozi principles, decision trees, and real examples. Read this file before any DM session.
-- **jason-dm-voice-guidelines.md** — *(Consolidated into setting-script.md. Kept as pointer only.)*
-- **objection-handling.md** — *(Consolidated into setting-script.md. Kept as pointer only.)*
 - **conversation-examples.md** — Real full conversations (opener to booked call). Study for tone, pacing, and stage transitions.
 - **sales-call-script.md** — Phone call script (what happens AFTER the Calendly booking). 7-phase call structure + objection cheat sheet.
 
@@ -25,8 +23,7 @@ This is a **business operations system** for Jason Cooperson (@jasoncooperson), 
 - **memory/pipeline-health.md** — Conversion metrics, funnel snapshot, win/loss patterns.
 
 ### Archive & History
-- **session-logs/** — Archived session logs by date.
-- **reports/** — Session summary reports.
+- **session-logs/** — Session logs and summary reports by date.
 - **archive/** — Disqualified leads, skipped leads, and call outcomes.
 
 ## DM Setting Framework
