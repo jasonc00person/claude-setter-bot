@@ -1,6 +1,9 @@
 # Claude Code local settings
 .claude/
 
+# API keys
+.env
+
 # MCP tools
 tools/whisper-mcp/node_modules/
 

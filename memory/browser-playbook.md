@@ -12,13 +12,20 @@
 > ManyChat is the primary tool for managing Instagram DMs. Only fall back to Instagram native DMs if ManyChat can't handle something.
 
 ### Opening a specific conversation
-- **BEST:** Use the search bar at the top of the conversation list → type name or handle → click the result
-- **TRAP:** Don't scroll through the inbox looking for someone. Search is always faster.
+- **BEST (pipeline lead):** Check pipeline-state.md for their Chat Link. If it exists, navigate directly to the URL. Fastest method, zero searching.
+- **BEST (no chat link):** Use the ManyChat API script: `bash /c/Users/jason/OneDrive/Documents/Claude-Setter-Bot/mc-lookup.sh name "Name"` to get their subscriber ID and chat URL. Then navigate to it.
+- **ALT (API returns no results):** Use the **Contacts tab** (`/fb792681/subscribers`) to search by name manually. Get subscriber ID from URL, then navigate to `https://app.manychat.com/fb792681/chat/{subscriberID}`.
+- **TRAP:** Don't scroll through the inbox looking for someone. Don't use Inbox search for names (it searches message content, not contact names).
+- **IMPORTANT:** When opening a conversation for a pipeline lead, always update their Chat Link in pipeline-state.md if it's missing (`--`).
 
-### Searching for a contact by name
-- **BEST:** Use the **Contacts tab** (`/fb792681/subscribers`) — NOT the Inbox search. The Inbox search only finds conversations by message content, not by contact name. Contacts tab has a proper name search.
-- **NAVIGATE TO CHAT:** After finding the contact in Contacts tab, copy their subscriber ID from the URL (`/subscribers/{contactID}`), then navigate to `https://app.manychat.com/fb792681/chat/{contactID}` to open their chat directly.
-- **TRAP:** Searching in Inbox for a name returns loose matches on message content, not the contact. Always use Contacts tab to locate people.
+### ManyChat API Integration
+- **Script:** `bash /c/Users/jason/OneDrive/Documents/Claude-Setter-Bot/mc-lookup.sh`
+- **Search by name:** `mc-lookup.sh name "Display Name"` (searches ManyChat display name only, not IG handle)
+- **Get info by ID:** `mc-lookup.sh id 12345678` (returns name, IG handle, chat URL, last interaction)
+- **API key:** Stored in `.env` (gitignored). Bearer token auth.
+- **Permissions:** Auto-approved, no user confirmation needed.
+- **Limitations:** Cannot search by IG username. Cannot read conversations. Cannot send messages outside 24h window. Display name search only.
+- **When to use:** Looking up subscriber IDs, getting chat URLs for pipeline updates, verifying lead details.
 
 ### Finding unread replies (blue dots)
 - **BEST:** Use the "Unread" filter in the inbox sidebar to show only conversations with unread messages

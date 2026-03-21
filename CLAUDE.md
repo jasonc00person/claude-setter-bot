@@ -32,17 +32,22 @@ The complete 6-stage pipeline (Opener -> Value + Curiosity -> Permission -> Qual
 
 ## Working with Pipeline State
 
-`pipeline-state.md` tracks all leads across IG, ManyChat, and Skool. Structure:
+`pipeline-state.md` is the **high-ticket pipeline only** ($3K+ prospects). Low-ticket leads stay in ManyChat, not the pipeline.
 
-- **Hot Leads** (Stage 5-6): Lead, Handle, Platform, Stage, Notes
-- **Qualifying** (Stage 3-4): Same columns
-- **Stage 2** (AV sent): Lead, Handle, Platform, Notes
-- **Stage 1** (Opener sent): Compact lists by inbox/source
-- **Skool CA backlog**: Full list in `memory/skool-ca-backlog.md`, only active members in pipeline
+Structure:
+- **Follow Up (Post-Call)**: Lead, Handle, Chat Link, Notes
+- **Booked (Stage 7)**: Lead, Handle, Chat Link, Call Date, Notes
+- **Hot Leads (Stage 5-6)**: Lead, Handle, Chat Link, Stage, Notes
+- **Qualifying (Stage 3-4)**: Same columns
 - **Priority Follow-ups**: What to check next session
-- **Flagged for Jason**: Items needing personal attention
-- **Calendly Schedule**: Completed, Upcoming, Awaiting Booking
 - **Pipeline Metrics**: Stage counts, updated each session
+
+### Chat Link Column
+The Chat Link column stores direct ManyChat chat URLs (`https://app.manychat.com/fb792681/chat/{subscriberID}`). This replaces the old Platform column.
+- **When adding/updating a ManyChat lead:** Always include or update their Chat Link
+- **To find a chat link:** Use the ManyChat API script: `mc-lookup.sh name "Name"` or `mc-lookup.sh id {subscriberID}`
+- **Skool leads:** Chat Link shows "Skool" (no direct chat URL available)
+- **Lead names must match their ManyChat display name** so API lookups work
 
 ## Upcoming Deadline
 
